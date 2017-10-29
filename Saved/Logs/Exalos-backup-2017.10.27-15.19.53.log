@@ -1,0 +1,1460 @@
+﻿Log file open, 10/27/17 13:03:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Exalos
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1962808221) SRandInit(-1962808220).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.124298
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.27-11.03.44:558][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.27-11.03.44:558][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.27-11.03.44:623][  0]LogInit: Computer: DESKTOP-O65I7RR
+[2017.10.27-11.03.44:623][  0]LogInit: User: roysc
+[2017.10.27-11.03.44:623][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.10.27-11.03.44:623][  0]LogInit: High frequency timer resolution =2.533196 MHz
+[2017.10.27-11.03.44:624][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.10.27-11.03.44:624][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.27-11.03.44:624][  0]LogMemory: Process Physical Memory: 277.77 MB used, 277.77 MB peak
+[2017.10.27-11.03.44:624][  0]LogMemory: Process Virtual Memory: 275.77 MB used, 275.77 MB peak
+[2017.10.27-11.03.44:624][  0]LogMemory: Physical Memory: 3008.42 MB used,  5063.85 MB free, 8072.27 MB total
+[2017.10.27-11.03.44:624][  0]LogMemory: Virtual Memory: 700.05 MB used,  5063.85 MB free, 134217728.00 MB total
+[2017.10.27-11.03.45:448][  0]LogInit: Using OS detected language (en-US).
+[2017.10.27-11.03.45:448][  0]LogInit: Using OS detected locale (en-GB).
+[2017.10.27-11.03.45:568][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.27-11.03.52:433][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.27-11.03.52:505][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 850M' (Feature Level 11_0)
+[2017.10.27-11.03.52:505][  0]LogD3D11RHI:       4065/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.27-11.03.52:513][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2017.10.27-11.03.52:513][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.10.27-11.03.52:516][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.27-11.03.52:516][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.27-11.03.52:516][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.27-11.03.52:523][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.27-11.03.52:524][  0]LogD3D11RHI:     GPU DeviceId: 0x1391 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.27-11.03.52:524][  0]LogWindows: EnumDisplayDevices:
+[2017.10.27-11.03.52:524][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2017.10.27-11.03.52:524][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2017.10.27-11.03.52:524][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2017.10.27-11.03.52:524][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.10.27-11.03.52:524][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 850M
+[2017.10.27-11.03.52:524][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.10.27-11.03.52:524][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.10.27-11.03.52:524][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.27-11.03.52:552][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.27-11.03.52:573][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.10.27-11.03.52:573][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Intermediate/Shaders/WorkingDirectory/5740/).
+[2017.10.27-11.03.52:574][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/roysc/AppData/Local/Temp/UnrealShaderWorkingDir/CCB72205410C075C6E5C0FB14A5DB3BA/'.
+[2017.10.27-11.03.52:574][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.27-11.03.56:246][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.27-11.03.56:374][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.27-11.03.56:456][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.27-11.03.56:558][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.27-11.03.56:664][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.27-11.03.56:753][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.27-11.03.56:840][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.27-11.03.56:926][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.27-11.03.57:002][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.27-11.03.57:094][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.27-11.03.57:179][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.27-11.03.57:279][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.27-11.03.57:363][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.27-11.03.57:479][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.27-11.03.57:563][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.27-11.03.57:750][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.27-11.03.57:750][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.27-11.03.57:808][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.27-11.03.57:976][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.27-11.03.58:043][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.27-11.03.58:133][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.27-11.03.58:229][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.27-11.03.58:309][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.27-11.03.58:407][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.27-11.03.58:407][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.27-11.03.59:414][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.27-11.04.00:911][  0]LogDerivedDataCache: Loaded boot cache 1.50s 93MB C:/Users/roysc/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.27-11.04.00:911][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/roysc/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.27-11.04.00:912][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.27-11.04.00:912][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.27-11.04.00:912][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.27-11.04.00:912][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.27-11.04.00:942][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.27-11.04.00:955][  0]LogDerivedDataCache: Using Local data cache path C:/Users/roysc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.27-11.04.00:967][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.27-11.04.00:968][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.27-11.04.00:993][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.27-11.04.00:994][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.27-11.04.03:182][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2017.10.27-11.04.03:413][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.27-11.04.04:145][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.27-11.04.04:783][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.27-11.04.04:860][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.27-11.04.04:860][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.27-11.04.04:860][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.27-11.04.04:860][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.27-11.04.04:860][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.27-11.04.05:888][  0]LogNetVersion: Exalos , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 803988355)
+[2017.10.27-11.04.06:573][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.111338 seconds
+[2017.10.27-11.04.06:586][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.27-11.04.06:586][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.10.27-11.04.06:586][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.27-11.04.06:690][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.27-11.04.16:709][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.27-11.04.16:766][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.27-11.04.17:894][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.27-11.04.18:511][  0]SourceControl: Source control is disabled
+[2017.10.27-11.04.18:511][  0]SourceControl: Source control is disabled
+[2017.10.27-11.04.18:579][  0]SourceControl: Source control is disabled
+[2017.10.27-11.04.18:645][  0]SourceControl: Source control is disabled
+[2017.10.27-11.04.19:561][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.27-11.04.19:915][  0]LogOcInput: OculusInput pre-init called
+[2017.10.27-11.04.20:227][  0]LogEngine: Initializing Engine...
+[2017.10.27-11.04.20:229][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.27-11.04.20:637][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.27-11.04.20:637][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.27-11.04.20:779][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.27-11.04.20:785][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-11.04.20:806][  0]LogInit: FAudioDevice initialized.
+[2017.10.27-11.04.20:982][  0]LogDerivedDataCache: Saved boot cache 0.18s 93MB C:/Users/roysc/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.27-11.04.21:017][  0]LogInit: Texture streaming: Enabled
+[2017.10.27-11.04.21:258][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.27-11.04.21:517][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.27-11.04.21:517][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.27-11.04.21:544][  0]LogInit: Transaction tracking system initialized
+[2017.10.27-11.04.21:946][  0]BlueprintLog: New page: Editor Load
+[2017.10.27-11.04.23:337][  0]LocalizationService: Localization service is disabled
+[2017.10.27-11.04.24:331][  0]LogConsoleResponse: Display: 
+[2017.10.27-11.04.24:807][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.27-11.04.24:807][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.27-11.04.24:807][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.27-11.04.25:178][  0]LogFileCache: Scanning file cache for directory 'C:/Users/roysc/Documents/Unreal Projects/Exalos/Content/' took 0.02s
+[2017.10.27-11.04.26:198][  0]SourceControl: Source control is disabled
+[2017.10.27-11.04.26:199][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.27-11.04.26:204][  0]LightingResults: New page: Lighting Build
+[2017.10.27-11.04.26:254][  0]MapCheck: New page: Map Check
+[2017.10.27-11.04.26:254][  0]LightingResults: New page: Lighting Build
+[2017.10.27-11.04.26:567][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.10.27-11.04.26:579][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.27-11.04.26:597][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.27-11.04.26:653][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.666ms to complete.
+[2017.10.27-11.04.26:653][  0]LogFileHelpers: Loading map 'Template_Default' took 0.454
+[2017.10.27-11.04.26:899][  0]LogCollectionManager: Loaded 0 collections in 0.002074 seconds
+[2017.10.27-11.04.26:983][  0]LogFileCache: Scanning file cache for directory 'C:/Users/roysc/Documents/Unreal Projects/Exalos/Saved/Collections/' took 0.01s
+[2017.10.27-11.04.26:983][  0]LogFileCache: Scanning file cache for directory 'C:/Users/roysc/Documents/Unreal Projects/Exalos/Content/Developers/roysc/Collections/' took 0.01s
+[2017.10.27-11.04.26:983][  0]LogFileCache: Scanning file cache for directory 'C:/Users/roysc/Documents/Unreal Projects/Exalos/Content/Collections/' took 0.01s
+[2017.10.27-11.04.26:983][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.10.27-11.04.26:992][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2386 classes and 500 folders.
+[2017.10.27-11.04.27:065][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.10.27-11.04.27:758][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.10.27-11.04.27:820][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.10.27-11.04.27:879][  0]LogSlate: Took 0.032403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.27-11.04.27:904][  0]LogSlate: Took 0.022660 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.27-11.04.27:940][  0]LogSlate: Took 0.030641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.27-11.04.28:297][  0]LogRenderer: Reallocating scene render targets to support 884x468 Format 10 NumSamples 1 (Frame:1).
+[2017.10.27-11.04.28:470][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.10.27-11.04.28:471][  0]LogLoad: (Engine Initialization) Total time: 48.46 seconds
+[2017.10.27-11.04.28:471][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.27-11.04.28:471][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.10.27-11.04.28:498][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.27-11.04.28:564][  1]LogAssetRegistry: Asset discovery search completed in 25.4038 seconds
+[2017.10.27-11.04.28:566][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.10.27-11.04.28:566][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2017.10.27-11.04.29:521][ 85]LogSlate: Took 0.008063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.27-11.04.32:571][420]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.27-11.05.04:222][ 66]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.27-11.05.05:045][ 66]LogAIModule: Creating AISystem for world Test
+[2017.10.27-11.05.05:055][ 66]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.27-11.05.05:086][ 66]Cmd: MAP LOAD FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.27-11.05.05:086][ 66]LightingResults: New page: Lighting Build
+[2017.10.27-11.05.05:087][ 66]LoadErrors: New page: Loading map: Test.umap
+[2017.10.27-11.05.05:087][ 66]MapCheck: New page: Map Check
+[2017.10.27-11.05.05:087][ 66]LightingResults: New page: Lighting Build
+[2017.10.27-11.05.05:518][ 66]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.27-11.05.05:572][ 66]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.27-11.05.05:631][ 66]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.78ms to complete.
+[2017.10.27-11.05.05:631][ 66]LogFileHelpers: Loading map 'Test' took 0.546
+[2017.10.27-11.05.31:996][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.27-11.05.31:997][703]PIE: New page: PIE session: Test (27 Oct 2017 15:05:31)
+[2017.10.27-11.05.31:998][703]LogLinker: Warning: Can't find file '/Game/Blueprints/MainGameInstance'
+[2017.10.27-11.05.31:998][703]LogLinker: Warning: Can't find file '/Game/Blueprints/MainGameInstance'
+[2017.10.27-11.05.31:999][703]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/MainGameInstance.MainGameInstance_C'
+[2017.10.27-11.05.31:999][703]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-11.05.32:022][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023143s)
+[2017.10.27-11.05.32:024][703]LogAIModule: Creating AISystem for world Test
+[2017.10.27-11.05.32:025][703]LogPlayLevel: PIE: World Init took: (0.002462s)
+[2017.10.27-11.05.32:026][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.026575s)
+[2017.10.27-11.05.32:046][703]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-11.05.32:052][703]LogInit: FAudioDevice initialized.
+[2017.10.27-11.05.32:147][703]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-11.05.32:153][703]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.27-13.05.32
+[2017.10.27-11.05.32:154][703]LogWorld: Bringing up level for play took: 0.005581
+[2017.10.27-11.05.32:203][703]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.10.27-11.05.32:211][703]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.452
+[2017.10.27-11.05.32:251][703]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.10.27-11.05.37:098][992]LogBlueprintUserMessages: [Item_SunFruit2_62] Item was not yet in inventory. Succesfully added to inventory!
+[2017.10.27-11.05.41:578][245]LogBlueprintUserMessages: [Item_SunFruit_234] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.05.45:765][479]LogBlueprintUserMessages: [Item_SunFruit3_173] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.05.49:958][707]LogBlueprintUserMessages: [Item_SunFruit5_359] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.05.53:793][885]LogBlueprintUserMessages: [Item_SunFruit4_256] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.06.32:579][506]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 113 classes and 0 folders.
+[2017.10.27-11.06.33:338][506]LogSlate: Took 0.006344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.27-11.07.12:908][462]LogSlate: Took 0.070768 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.10.27-11.07.37:511][596]LogSlate: Took 0.005533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.27-11.08.09:033][825]BlueprintLog: New page: Compile Widget_Inventory
+[2017.10.27-11.08.09:753][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Widget_Inventory" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset" SILENT=true
+[2017.10.27-11.08.09:844][866]LogSavePackage: Save=41.06ms
+[2017.10.27-11.08.09:844][866]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Widget_Inventory1F2D18C144F7D1201ED138ADFD2E4444.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset'
+[2017.10.27-11.08.09:847][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset
+[2017.10.27-11.08.20:021][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Widget_Inventory" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset" SILENT=true
+[2017.10.27-11.08.20:082][491]LogSavePackage: Save=42.44ms
+[2017.10.27-11.08.20:082][491]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Widget_InventoryCF4EC2BF49DC27A7C326AEB0119D0E6A.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset'
+[2017.10.27-11.08.20:084][491]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset
+[2017.10.27-11.08.23:255][813]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-11.08.23:291][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.27-11.08.23:291][813]PIE: New page: PIE session: Test (27 Oct 2017 15:08:23)
+[2017.10.27-11.08.23:292][813]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-11.08.23:302][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010293s)
+[2017.10.27-11.08.23:303][813]LogAIModule: Creating AISystem for world Test
+[2017.10.27-11.08.23:303][813]LogPlayLevel: PIE: World Init took: (0.001435s)
+[2017.10.27-11.08.23:304][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.012105s)
+[2017.10.27-11.08.23:330][813]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-11.08.23:337][813]LogInit: FAudioDevice initialized.
+[2017.10.27-11.08.23:383][813]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-11.08.23:389][813]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.27-13.08.23
+[2017.10.27-11.08.23:389][813]LogWorld: Bringing up level for play took: 0.005370
+[2017.10.27-11.08.23:398][813]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.361
+[2017.10.27-11.12.04:529][194]BlueprintLog: New page: Compile Widget_ToolBar
+[2017.10.27-11.12.05:010][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Widget_ToolBar" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_ToolBar.uasset" SILENT=true
+[2017.10.27-11.12.05:140][237]LogSavePackage: Save=100.66ms
+[2017.10.27-11.12.05:140][237]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Widget_ToolBar62AB125A456CEAC159C398B8A9147D5D.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_ToolBar.uasset'
+[2017.10.27-11.12.05:144][237]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_ToolBar.uasset
+[2017.10.27-11.12.06:797][405]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-11.12.06:824][405]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.27-11.12.06:841][405]LogPlayLevel: [PlayLevel] Compiling Widget_Inventory before play...
+[2017.10.27-11.12.06:848][405]LogPlayLevel: [PlayLevel]   Compiling Widget_ToolBar as a dependent...
+[2017.10.27-11.12.06:988][405]LogPlayLevel: PlayLevel: Blueprint regeneration took 163 ms (2 blueprints)
+[2017.10.27-11.12.06:988][405]PIE: New page: PIE session: Test (27 Oct 2017 15:12:06)
+[2017.10.27-11.12.06:989][405]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-11.12.06:999][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009199s)
+[2017.10.27-11.12.07:000][405]LogAIModule: Creating AISystem for world Test
+[2017.10.27-11.12.07:000][405]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2017.10.27-11.12.07:000][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.010645s)
+[2017.10.27-11.12.07:026][405]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-11.12.07:033][405]LogInit: FAudioDevice initialized.
+[2017.10.27-11.12.07:080][405]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-11.12.07:086][405]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.27-13.12.07
+[2017.10.27-11.12.07:087][405]LogWorld: Bringing up level for play took: 0.006018
+[2017.10.27-11.12.07:095][405]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.663
+[2017.10.27-11.12.12:456][723]LogBlueprintUserMessages: [Item_SunFruit2_62] Item was not yet in inventory. Succesfully added to inventory!
+[2017.10.27-11.12.16:420][948]LogBlueprintUserMessages: [Item_SunFruit5_359] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.12.18:967][ 94]LogBlueprintUserMessages: [Item_SunFruit4_256] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.12.22:833][316]LogBlueprintUserMessages: [Item_SunFruit_234] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.12.34:437][976]LogBlueprintUserMessages: [Item_SunFruit3_173] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.14.43:293][999]BlueprintLog: New page: Compile Widget_Inventory_Slot
+[2017.10.27-11.14.44:014][ 49]LogSavePackage: Save=36.36ms
+[2017.10.27-11.14.44:014][ 49]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Widget_Inventory_Slot592EBE814B440730879A76B7DB1691A2.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory_Slot.uasset'
+[2017.10.27-11.14.44:019][ 49]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory_Slot.uasset
+[2017.10.27-11.14.45:440][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Widget_Inventory" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset" SILENT=true
+[2017.10.27-11.14.45:511][208]LogSavePackage: Save=46.49ms
+[2017.10.27-11.14.45:511][208]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Widget_InventoryD04BB2FD416CDABB2B93298E0FABC0E2.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset'
+[2017.10.27-11.14.45:516][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset
+[2017.10.27-11.14.48:019][480]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-11.14.48:062][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.27-11.14.48:062][480]PIE: New page: PIE session: Test (27 Oct 2017 15:14:48)
+[2017.10.27-11.14.48:063][480]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-11.14.48:073][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009806s)
+[2017.10.27-11.14.48:074][480]LogAIModule: Creating AISystem for world Test
+[2017.10.27-11.14.48:075][480]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2017.10.27-11.14.48:075][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.011343s)
+[2017.10.27-11.14.48:099][480]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-11.14.48:106][480]LogInit: FAudioDevice initialized.
+[2017.10.27-11.14.48:152][480]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-11.14.48:157][480]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.27-13.14.48
+[2017.10.27-11.14.48:157][480]LogWorld: Bringing up level for play took: 0.004645
+[2017.10.27-11.14.48:167][480]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.408
+[2017.10.27-11.14.53:647][818]LogBlueprintUserMessages: [Item_SunFruit2_62] Item was not yet in inventory. Succesfully added to inventory!
+[2017.10.27-11.14.54:664][875]LogBlueprintUserMessages: [Item_SunFruit_234] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.14.57:653][ 43]LogBlueprintUserMessages: [Item_SunFruit5_359] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.14.59:217][132]LogBlueprintUserMessages: [Item_SunFruit4_256] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.15.02:795][334]LogBlueprintUserMessages: [Item_SunFruit3_173] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.17.21:242][677]BlueprintLog: New page: Compile Widget_Inventory
+[2017.10.27-11.17.21:836][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Widget_Inventory" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset" SILENT=true
+[2017.10.27-11.17.21:901][731]LogSavePackage: Save=43.71ms
+[2017.10.27-11.17.21:901][731]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Widget_Inventory4678306D4570E5C5C6304E87F0152661.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset'
+[2017.10.27-11.17.21:905][731]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset
+[2017.10.27-11.17.32:501][946]BlueprintLog: New page: Compile Widget_ToolBar
+[2017.10.27-11.17.33:257][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Widget_ToolBar" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_ToolBar.uasset" SILENT=true
+[2017.10.27-11.17.33:385][992]LogSavePackage: Save=98.30ms
+[2017.10.27-11.17.33:385][992]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Widget_ToolBarF6E84D6A444DC021579556ACFF15FB7F.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_ToolBar.uasset'
+[2017.10.27-11.17.33:389][992]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_ToolBar.uasset
+[2017.10.27-11.17.34:507][106]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-11.17.34:536][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.27-11.17.34:536][106]PIE: New page: PIE session: Test (27 Oct 2017 15:17:34)
+[2017.10.27-11.17.34:538][106]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-11.17.34:551][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012802s)
+[2017.10.27-11.17.34:552][106]LogAIModule: Creating AISystem for world Test
+[2017.10.27-11.17.34:552][106]LogPlayLevel: PIE: World Init took: (0.001508s)
+[2017.10.27-11.17.34:552][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.014690s)
+[2017.10.27-11.17.34:585][106]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-11.17.34:591][106]LogInit: FAudioDevice initialized.
+[2017.10.27-11.17.34:634][106]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-11.17.34:645][106]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.27-13.17.34
+[2017.10.27-11.17.34:646][106]LogWorld: Bringing up level for play took: 0.011713
+[2017.10.27-11.17.34:667][106]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.909
+[2017.10.27-11.17.38:825][359]LogBlueprintUserMessages: [Item_SunFruit2_62] Item was not yet in inventory. Succesfully added to inventory!
+[2017.10.27-11.17.39:679][407]LogBlueprintUserMessages: [Item_SunFruit_234] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.18.55:477][ 80]LogUObjectBase: Warning: Object is not registered
+[2017.10.27-11.18.55:916][ 80]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.439 s
+[2017.10.27-11.18.55:916][ 80]LogOutputDevice: Error: === Handled ensure: ===
+[2017.10.27-11.18.55:916][ 80]LogOutputDevice: Error: 
+[2017.10.27-11.18.55:916][ 80]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1037]
+[2017.10.27-11.18.55:916][ 80]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2017.10.27-11.18.55:916][ 80]LogOutputDevice: Error: Stack: 
+[2017.10.27-11.18.55:916][ 80]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000094013E36
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000093D9C2D2
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000093DB4746
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000008E8FD3E6
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x000000008CACFB2B
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x000000008BD3259A
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x000000008BBC737C
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x000000008BBCA8E9
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x000000008BCF6C25
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000008F934A47
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000008F93AC21
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000008FB703A3
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000008F991E65
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000008F96A28C
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000008F95B444
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000093FEB5AC
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000093FD3EE1
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000093FED5BB
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000093FCF042
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: USER32.dll!0x00000000D132B85D
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: USER32.dll!0x00000000D132B1EF
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000093FEDCC6
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor.exe!0x0000000054CF4BE2
+[2017.10.27-11.18.55:918][ 80]LogOutputDevice: Error: UE4Editor.exe!0x0000000054D03970
+[2017.10.27-11.18.55:918][ 80]LogOutputDevice: Error: UE4Editor.exe!0x0000000054D039EA
+[2017.10.27-11.18.55:918][ 80]LogOutputDevice: Error: UE4Editor.exe!0x0000000054D102D9
+[2017.10.27-11.18.55:918][ 80]LogOutputDevice: Error: UE4Editor.exe!0x0000000054D11C47
+[2017.10.27-11.18.55:918][ 80]LogOutputDevice: Error: KERNEL32.DLL!0x00000000D10C1FE4
+[2017.10.27-11.18.55:918][ 80]LogOutputDevice: Error: ntdll.dll!0x00000000D371EF91
+[2017.10.27-11.18.55:918][ 80]LogOutputDevice: Error: 
+[2017.10.27-11.18.55:923][ 80]LogStats:                SubmitErrorReport -  0.000 s
+[2017.10.27-11.18.59:542][ 80]LogStats:                    SendNewReport -  3.620 s
+[2017.10.27-11.18.59:543][ 80]LogStats:             FDebug::EnsureFailed -  4.065 s
+[2017.10.27-11.18.59:543][ 80]LogUObjectBase: Warning: Object is not registered
+[2017.10.27-11.19.05:833][754]LogUObjectBase: Warning: Object is not registered
+[2017.10.27-11.19.05:833][754]LogUObjectBase: Warning: Object is not registered
+[2017.10.27-11.19.05:844][755]LogUObjectBase: Warning: Object is not registered
+[2017.10.27-11.19.05:844][755]LogUObjectBase: Warning: Object is not registered
+[2017.10.27-11.19.44:113][278]LogSlate: Took 0.009067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.10.27-11.19.50:404][  8]LogUObjectBase: Warning: Object is not registered
+[2017.10.27-11.19.50:404][  8]LogUObjectBase: Warning: Object is not registered
+[2017.10.27-11.22.11:489][133]BlueprintLog: New page: Compile Widget_ToolBar
+[2017.10.27-11.22.12:228][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Widget_ToolBar" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_ToolBar.uasset" SILENT=true
+[2017.10.27-11.22.12:353][168]LogSavePackage: Save=102.72ms
+[2017.10.27-11.22.12:353][168]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Widget_ToolBarF7B4DFBA4D662F94334786958CD3C49B.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_ToolBar.uasset'
+[2017.10.27-11.22.12:357][168]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_ToolBar.uasset
+[2017.10.27-11.23.03:318][193]BlueprintLog: New page: Compile Item_Base
+[2017.10.27-11.23.05:929][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_Base" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset" SILENT=true
+[2017.10.27-11.23.06:039][376]LogSavePackage: Save=79.85ms
+[2017.10.27-11.23.06:039][376]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_Base2B80FDDC43C50743E11502832B91979C.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset'
+[2017.10.27-11.23.06:043][376]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset
+[2017.10.27-11.23.07:900][574]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-11.23.07:940][574]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.27-11.23.07:947][574]LogPlayLevel: [PlayLevel] Compiling Item_Base before play...
+[2017.10.27-11.23.07:975][574]LogPlayLevel: [PlayLevel]   Compiling Widget_Inventory as a dependent...
+[2017.10.27-11.23.07:981][574]LogPlayLevel: [PlayLevel]   Compiling Widget_ToolBar as a dependent...
+[2017.10.27-11.23.08:736][574]LogPlayLevel: PlayLevel: Blueprint regeneration took 795 ms (3 blueprints)
+[2017.10.27-11.23.08:736][574]PIE: New page: PIE session: Test (27 Oct 2017 15:23:08)
+[2017.10.27-11.23.08:737][574]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-11.23.08:747][574]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009521s)
+[2017.10.27-11.23.08:748][574]LogAIModule: Creating AISystem for world Test
+[2017.10.27-11.23.08:748][574]LogPlayLevel: PIE: World Init took: (0.001577s)
+[2017.10.27-11.23.08:749][574]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.011568s)
+[2017.10.27-11.23.08:775][574]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-11.23.08:782][574]LogInit: FAudioDevice initialized.
+[2017.10.27-11.23.08:825][574]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-11.23.08:830][574]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.27-13.23.08
+[2017.10.27-11.23.08:831][574]LogWorld: Bringing up level for play took: 0.004984
+[2017.10.27-11.23.08:840][574]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 1.081
+[2017.10.27-11.23.12:840][802]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit2_62
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0253
+[2017.10.27-11.23.12:840][802]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.23.12:840][802]LogScript: Warning: Accessed None
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit2_62
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0268
+[2017.10.27-11.23.12:841][802]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None
+[2017.10.27-11.23.12:841][802]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit2_62
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:028A
+[2017.10.27-11.23.12:841][802]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: List Items in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.23.14:110][873]LogBlueprintUserMessages: [Item_SunFruit5_359] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.23.14:110][873]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit5_359
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0253
+[2017.10.27-11.23.14:110][873]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.23.14:110][873]LogScript: Warning: Accessed None
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit5_359
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0268
+[2017.10.27-11.23.14:111][873]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None
+[2017.10.27-11.23.14:111][873]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit5_359
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:028A
+[2017.10.27-11.23.14:111][873]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: List Items in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.23.15:504][952]LogBlueprintUserMessages: [Item_SunFruit4_256] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.23.15:505][952]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit4_256
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0253
+[2017.10.27-11.23.15:505][952]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.23.15:505][952]LogScript: Warning: Accessed None
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit4_256
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0268
+[2017.10.27-11.23.15:505][952]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None
+[2017.10.27-11.23.15:506][952]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit4_256
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:028A
+[2017.10.27-11.23.15:506][952]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: List Items in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.24.06:111][375]BlueprintLog: New page: Compile Item_Base
+[2017.10.27-11.24.07:508][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_Base" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset" SILENT=true
+[2017.10.27-11.24.07:614][419]LogSavePackage: Save=82.07ms
+[2017.10.27-11.24.07:614][419]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_BaseB3A70B0843B79BA01C2C5EAE0EEDE522.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset'
+[2017.10.27-11.24.07:618][419]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset
+[2017.10.27-11.24.09:506][617]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-11.24.09:543][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.27-11.24.09:544][617]PIE: New page: PIE session: Test (27 Oct 2017 15:24:09)
+[2017.10.27-11.24.09:545][617]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-11.24.09:555][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010383s)
+[2017.10.27-11.24.09:557][617]LogAIModule: Creating AISystem for world Test
+[2017.10.27-11.24.09:557][617]LogPlayLevel: PIE: World Init took: (0.001763s)
+[2017.10.27-11.24.09:557][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.012528s)
+[2017.10.27-11.24.09:592][617]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-11.24.09:598][617]LogInit: FAudioDevice initialized.
+[2017.10.27-11.24.09:643][617]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-11.24.09:647][617]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.27-13.24.09
+[2017.10.27-11.24.09:648][617]LogWorld: Bringing up level for play took: 0.003869
+[2017.10.27-11.24.09:657][617]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.101
+[2017.10.27-11.24.13:402][843]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit2_62
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0253
+[2017.10.27-11.24.13:402][843]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.24.13:402][843]LogScript: Warning: Accessed None
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit2_62
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0268
+[2017.10.27-11.24.13:403][843]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None
+[2017.10.27-11.24.13:403][843]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit2_62
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:028A
+[2017.10.27-11.24.13:403][843]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: List Items in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.24.16:446][ 14]LogBlueprintUserMessages: [Item_SunFruit5_359] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.24.16:446][ 14]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit5_359
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0253
+[2017.10.27-11.24.16:447][ 14]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.24.16:447][ 14]LogScript: Warning: Accessed None
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit5_359
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0268
+[2017.10.27-11.24.16:447][ 14]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None
+[2017.10.27-11.24.16:447][ 14]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit5_359
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:028A
+[2017.10.27-11.24.16:447][ 14]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: List Items in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.24.17:692][ 85]LogBlueprintUserMessages: [Item_SunFruit4_256] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.24.17:692][ 85]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit4_256
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0253
+[2017.10.27-11.24.17:692][ 85]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.24.17:692][ 85]LogScript: Warning: Accessed None
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit4_256
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0268
+[2017.10.27-11.24.17:692][ 85]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None
+[2017.10.27-11.24.17:692][ 85]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit4_256
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:028A
+[2017.10.27-11.24.17:693][ 85]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: List Items in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.24.21:543][305]LogBlueprintUserMessages: [Item_SunFruit_234] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.24.21:544][305]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit_234
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0253
+[2017.10.27-11.24.21:544][305]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.24.21:544][305]LogScript: Warning: Accessed None
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit_234
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0268
+[2017.10.27-11.24.21:544][305]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None
+[2017.10.27-11.24.21:544][305]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit_234
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:028A
+[2017.10.27-11.24.21:544][305]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: List Items in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.25.09:305][656]BlueprintLog: New page: Compile Item_Base
+[2017.10.27-11.25.10:659][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_Base" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset" SILENT=true
+[2017.10.27-11.25.10:773][698]LogSavePackage: Save=85.86ms
+[2017.10.27-11.25.10:773][698]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_BaseA238C6CD4F243FED503E6496D1E9134F.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset'
+[2017.10.27-11.25.10:777][698]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset
+[2017.10.27-11.25.12:348][860]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-11.25.12:392][860]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.27-11.25.12:392][860]PIE: New page: PIE session: Test (27 Oct 2017 15:25:12)
+[2017.10.27-11.25.12:393][860]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-11.25.12:404][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010805s)
+[2017.10.27-11.25.12:405][860]LogAIModule: Creating AISystem for world Test
+[2017.10.27-11.25.12:406][860]LogPlayLevel: PIE: World Init took: (0.001341s)
+[2017.10.27-11.25.12:406][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.012775s)
+[2017.10.27-11.25.12:439][860]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-11.25.12:446][860]LogInit: FAudioDevice initialized.
+[2017.10.27-11.25.12:489][860]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-11.25.12:493][860]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.27-13.25.12
+[2017.10.27-11.25.12:494][860]LogWorld: Bringing up level for play took: 0.004592
+[2017.10.27-11.25.12:503][860]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.745
+[2017.10.27-11.25.17:516][157]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit2_62
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0253
+[2017.10.27-11.25.17:516][157]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.25.17:516][157]LogScript: Warning: Accessed None
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit2_62
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0268
+[2017.10.27-11.25.17:517][157]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None
+[2017.10.27-11.25.17:517][157]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit2_62
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:028A
+[2017.10.27-11.25.17:517][157]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: List Items in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.25.19:165][249]LogBlueprintUserMessages: [Item_SunFruit5_359] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.25.19:165][249]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit5_359
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:04FB
+[2017.10.27-11.25.19:166][249]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.25.19:166][249]LogScript: Warning: Accessed None
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit5_359
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0510
+[2017.10.27-11.25.19:166][249]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None
+[2017.10.27-11.25.19:166][249]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit5_359
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0532
+[2017.10.27-11.25.19:166][249]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: List Items in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.25.20:414][320]LogBlueprintUserMessages: [Item_SunFruit4_256] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.25.20:414][320]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit4_256
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:04FB
+[2017.10.27-11.25.20:414][320]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.25.20:414][320]LogScript: Warning: Accessed None
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit4_256
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0510
+[2017.10.27-11.25.20:414][320]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None
+[2017.10.27-11.25.20:414][320]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit4_256
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0532
+[2017.10.27-11.25.20:414][320]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: List Items in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.25.25:305][606]LogBlueprintUserMessages: [Item_SunFruit_234] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.25.25:305][606]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit_234
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:04FB
+[2017.10.27-11.25.25:305][606]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.25.25:305][606]LogScript: Warning: Accessed None
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit_234
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0510
+[2017.10.27-11.25.25:305][606]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None
+[2017.10.27-11.25.25:306][606]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit_234
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0532
+[2017.10.27-11.25.25:306][606]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: List Items in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.25.26:994][700]LogBlueprintUserMessages: [Item_SunFruit3_173] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.25.26:995][700]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit3_173
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:04FB
+[2017.10.27-11.25.26:995][700]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.25.26:995][700]LogScript: Warning: Accessed None
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit3_173
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0510
+[2017.10.27-11.25.26:995][700]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'AddToInventory' from node: Clear Children in graph: AddToInventory in object: Item_Base with description: Accessed None
+[2017.10.27-11.25.26:995][700]LogScript: Warning: Accessed None trying to read property Widget_Inventory
+	Item_SunFruit_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.Item_SunFruit3_173
+	Function /Game/Blueprints/Items/Item_Base.Item_Base_C:AddToInventory:0532
+[2017.10.27-11.25.26:996][700]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property Widget_Inventory from function: 'AddToInventory' from node: List Items in graph: AddToInventory in object: Item_Base with description: Accessed None trying to read property Widget_Inventory
+[2017.10.27-11.26.59:821][298]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.27-11.28.31:973][139]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.27-11.28.33:653][203]LogSavePackage: Save=37.39ms
+[2017.10.27-11.28.33:654][203]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController35C89DDF49D4399B432154AC46D1E17B.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Character/MainPlayerController.uasset'
+[2017.10.27-11.28.33:657][203]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Character/MainPlayerController.uasset
+[2017.10.27-11.29.33:353][157]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.27-11.30.25:401][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.27-11.30.25:639][628]LogSavePackage: Save=207.50ms
+[2017.10.27-11.30.25:639][628]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_Auto152EB188548F1689946B7DFAD4B3C0EDE.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto1.umap'
+[2017.10.27-11.30.25:642][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto1.umap
+[2017.10.27-11.30.25:644][628]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.283
+[2017.10.27-11.30.25:644][628]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.283
+[2017.10.27-11.30.25:649][628]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/Item_Base] ([1] browsable assets)...
+[2017.10.27-11.30.25:690][628]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/Item_Base.Item_Base]
+[2017.10.27-11.30.25:690][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Item_Base]
+[2017.10.27-11.30.25:797][628]LogSavePackage: Save=85.29ms
+[2017.10.27-11.30.25:797][628]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_Base_Auto1358D3AD2421A998F5AE283BEDC24940B.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/Items/Item_Base_Auto1.uasset'
+[2017.10.27-11.30.25:799][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/Items/Item_Base_Auto1.uasset
+[2017.10.27-11.30.25:800][628]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/MainPlayerController] ([1] browsable assets)...
+[2017.10.27-11.30.25:800][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/MainPlayerController]
+[2017.10.27-11.30.25:851][628]LogSavePackage: Save=36.58ms
+[2017.10.27-11.30.25:851][628]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController_Auto1632DA94F41EF8E5E796B81B065318BF0.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/Character/MainPlayerController_Auto1.uasset'
+[2017.10.27-11.30.25:864][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/Character/MainPlayerController_Auto1.uasset
+[2017.10.27-11.30.25:865][628]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/UI/Widget_Inventory] ([1] browsable assets)...
+[2017.10.27-11.30.25:865][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/UI/Widget_Inventory]
+[2017.10.27-11.30.25:933][628]LogSavePackage: Save=39.93ms
+[2017.10.27-11.30.25:933][628]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Widget_Inventory_Auto1E631CF3D4790501B0FB8DEB2C01A9156.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/UI/Widget_Inventory_Auto1.uasset'
+[2017.10.27-11.30.25:935][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/UI/Widget_Inventory_Auto1.uasset
+[2017.10.27-11.30.25:936][628]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/Item_SunFruit] ([1] browsable assets)...
+[2017.10.27-11.30.25:976][628]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/Item_SunFruit.Item_SunFruit]
+[2017.10.27-11.30.25:976][628]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Item_SunFruit]
+[2017.10.27-11.30.26:033][628]LogSavePackage: Save=35.00ms
+[2017.10.27-11.30.26:033][628]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_SunFruit_Auto1F65D136D46631A6CE6DA48A6C504BE67.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/Items/Item_SunFruit_Auto1.uasset'
+[2017.10.27-11.30.26:035][628]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/Items/Item_SunFruit_Auto1.uasset
+[2017.10.27-11.30.26:035][628]LogFileHelpers: Auto-saving content packages took 0.387
+[2017.10.27-11.33.38:579][ 17]LogEditorTransaction: Undo Move Node
+[2017.10.27-11.33.39:110][ 68]LogEditorTransaction: Undo Add Node
+[2017.10.27-11.34.55:057][723]LogEditorTransaction: Undo Create Pin Link
+[2017.10.27-11.35.02:389][580]LogEditorTransaction: Undo Create Pin Link
+[2017.10.27-11.35.02:689][606]LogEditorTransaction: Undo Create Pin Link
+[2017.10.27-11.35.03:240][663]LogEditorTransaction: Undo Delete current selection
+[2017.10.27-11.35.04:004][746]LogEditorTransaction: Undo Move Node
+[2017.10.27-11.35.04:593][810]LogEditorTransaction: Undo Create Reroute Node
+[2017.10.27-11.39.11:756][202]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.27-11.39.13:599][244]LogSavePackage: Save=40.96ms
+[2017.10.27-11.39.13:599][244]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController6C813DE247D9E648272D218D8DC8C2B1.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Character/MainPlayerController.uasset'
+[2017.10.27-11.39.13:609][244]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Character/MainPlayerController.uasset
+[2017.10.27-11.40.10:168][615]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.27-11.40.11:625][637]LogSavePackage: Save=44.65ms
+[2017.10.27-11.40.11:625][637]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController587B59904A98D4FAA43CB1A1E623044F.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Character/MainPlayerController.uasset'
+[2017.10.27-11.40.11:630][637]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Character/MainPlayerController.uasset
+[2017.10.27-11.40.59:517][483]BlueprintLog: New page: Compile Item_Base
+[2017.10.27-11.41.00:857][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_Base" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset" SILENT=true
+[2017.10.27-11.41.00:967][508]LogSavePackage: Save=80.92ms
+[2017.10.27-11.41.00:967][508]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_BaseA7A91ECE4FC7D29FA5EDC2BA7382357A.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset'
+[2017.10.27-11.41.00:976][508]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset
+[2017.10.27-11.41.05:069][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Widget_Inventory" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset" SILENT=true
+[2017.10.27-11.41.05:132][657]LogSavePackage: Save=39.24ms
+[2017.10.27-11.41.05:132][657]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Widget_InventoryAE2FA5744BB497C57DAE438026F97EC6.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset'
+[2017.10.27-11.41.05:139][657]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset
+[2017.10.27-11.41.06:335][729]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-11.41.06:374][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.27-11.41.06:374][729]PIE: New page: PIE session: Test (27 Oct 2017 15:41:06)
+[2017.10.27-11.41.06:375][729]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-11.41.06:386][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010880s)
+[2017.10.27-11.41.06:388][729]LogAIModule: Creating AISystem for world Test
+[2017.10.27-11.41.06:388][729]LogPlayLevel: PIE: World Init took: (0.001461s)
+[2017.10.27-11.41.06:388][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.012760s)
+[2017.10.27-11.41.06:420][729]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-11.41.06:428][729]LogInit: FAudioDevice initialized.
+[2017.10.27-11.41.06:472][729]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-11.41.06:477][729]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2017.10.27-13.41.06
+[2017.10.27-11.41.06:478][729]LogWorld: Bringing up level for play took: 0.005712
+[2017.10.27-11.41.06:498][729]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.739
+[2017.10.27-11.41.11:599][ 25]LogBlueprintUserMessages: [Item_SunFruit_234] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.41.14:285][176]LogBlueprintUserMessages: [Item_SunFruit3_173] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.41.31:491][154]LogBlueprintUserMessages: [Item_SunFruit5_359] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.41.33:061][243]LogBlueprintUserMessages: [Item_SunFruit4_256] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.41.56:452][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.27-11.41.56:717][570]LogSavePackage: Save=205.11ms
+[2017.10.27-11.41.56:717][570]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test84EDB1FF4C265D5DB487299205469C10.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap'
+[2017.10.27-11.41.56:725][570]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap
+[2017.10.27-11.41.56:773][570]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2017.10.27-11.41.56:971][570]LogSavePackage: Save=156.05ms
+[2017.10.27-11.41.56:972][570]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_BuiltData0194A3F142C88C019BB2A5AB34CA4307.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset'
+[2017.10.27-11.41.56:974][570]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset
+[2017.10.27-11.43.55:429][669]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-11.43.55:468][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.27-11.43.55:468][669]PIE: New page: PIE session: Test (27 Oct 2017 15:43:55)
+[2017.10.27-11.43.55:470][669]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-11.43.55:481][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011596s)
+[2017.10.27-11.43.55:483][669]LogAIModule: Creating AISystem for world Test
+[2017.10.27-11.43.55:483][669]LogPlayLevel: PIE: World Init took: (0.001711s)
+[2017.10.27-11.43.55:483][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.013780s)
+[2017.10.27-11.43.55:522][669]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-11.43.55:529][669]LogInit: FAudioDevice initialized.
+[2017.10.27-11.43.55:572][669]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-11.43.55:577][669]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2017.10.27-13.43.55
+[2017.10.27-11.43.55:577][669]LogWorld: Bringing up level for play took: 0.004238
+[2017.10.27-11.43.55:585][669]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.173
+[2017.10.27-11.44.01:512][ 14]LogBlueprintUserMessages: [Item_SunFruit_234] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.44.03:816][144]LogBlueprintUserMessages: [Item_SunFruit4_256] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.44.06:391][290]LogBlueprintUserMessages: [Item_SunFruit5_359] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.52.22:711][  6]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.038
+[2017.10.27-11.52.22:713][  6]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Items/Item_SunFruit] ([1] browsable assets)...
+[2017.10.27-11.52.22:713][  6]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Item_SunFruit]
+[2017.10.27-11.52.22:780][  6]LogSavePackage: Save=28.45ms
+[2017.10.27-11.52.22:780][  6]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_SunFruit_Auto27DCB99DA4E6F3E2675E82887648FB597.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/Items/Item_SunFruit_Auto2.uasset'
+[2017.10.27-11.52.22:801][  6]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/Items/Item_SunFruit_Auto2.uasset
+[2017.10.27-11.52.22:801][  6]LogFileHelpers: Auto-saving content packages took 0.090
+[2017.10.27-12.02.19:376][696]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.27-12.02.20:907][720]LogSavePackage: Save=78.26ms
+[2017.10.27-12.02.20:907][720]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController59251E31454A4CDE193DE7B3EC96F059.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Character/MainPlayerController.uasset'
+[2017.10.27-12.02.20:912][720]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Character/MainPlayerController.uasset
+[2017.10.27-12.02.26:871][ 20]BlueprintLog: New page: Compile Item_SunFruit
+[2017.10.27-12.02.28:268][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_SunFruit" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset" SILENT=true
+[2017.10.27-12.02.28:329][ 53]LogSavePackage: Save=38.77ms
+[2017.10.27-12.02.28:329][ 53]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_SunFruit1203BD3F484E8F03FDCAEEA5881B3BAD.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset'
+[2017.10.27-12.02.28:333][ 53]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset
+[2017.10.27-12.03.44:008][478]BlueprintLog: New page: Compile Item_SunFruit
+[2017.10.27-12.03.45:279][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_SunFruit" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset" SILENT=true
+[2017.10.27-12.03.45:352][509]LogSavePackage: Save=43.40ms
+[2017.10.27-12.03.45:352][509]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_SunFruit48DA352A4C060F5184992B9DE912217F.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset'
+[2017.10.27-12.03.45:363][509]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset
+[2017.10.27-12.03.47:962][661]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_Base" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset" SILENT=true
+[2017.10.27-12.03.48:067][661]LogSavePackage: Save=81.11ms
+[2017.10.27-12.03.48:067][661]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_BaseD83CE13E4AF1443350B33B93C0078155.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset'
+[2017.10.27-12.03.48:071][661]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset
+[2017.10.27-12.03.50:703][819]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-12.03.50:750][819]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.27-12.03.50:750][819]PIE: New page: PIE session: Test (27 Oct 2017 16:03:50)
+[2017.10.27-12.03.50:751][819]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-12.03.50:761][819]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009877s)
+[2017.10.27-12.03.50:762][819]LogAIModule: Creating AISystem for world Test
+[2017.10.27-12.03.50:762][819]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2017.10.27-12.03.50:762][819]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.011359s)
+[2017.10.27-12.03.50:790][819]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-12.03.50:797][819]LogInit: FAudioDevice initialized.
+[2017.10.27-12.03.50:844][819]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-12.03.50:849][819]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2017.10.27-14.03.50
+[2017.10.27-12.03.50:850][819]LogWorld: Bringing up level for play took: 0.004665
+[2017.10.27-12.03.50:858][819]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 1.1
+[2017.10.27-12.03.55:630][ 98]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.03.56:815][165]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.03.58:215][243]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.03.59:978][343]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.04.17:852][392]BlueprintLog: New page: Compile Item_SunFruit
+[2017.10.27-12.04.19:002][416]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_SunFruit" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset" SILENT=true
+[2017.10.27-12.04.19:065][416]LogSavePackage: Save=40.96ms
+[2017.10.27-12.04.19:065][416]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_SunFruit325921BE4793D39E17A4E6ADD69B1319.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset'
+[2017.10.27-12.04.19:069][416]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset
+[2017.10.27-12.04.20:840][522]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-12.04.20:876][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.27-12.04.20:876][522]PIE: New page: PIE session: Test (27 Oct 2017 16:04:20)
+[2017.10.27-12.04.20:877][522]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-12.04.20:892][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014899s)
+[2017.10.27-12.04.20:893][522]LogAIModule: Creating AISystem for world Test
+[2017.10.27-12.04.20:894][522]LogPlayLevel: PIE: World Init took: (0.001103s)
+[2017.10.27-12.04.20:894][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.016374s)
+[2017.10.27-12.04.20:920][522]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-12.04.20:926][522]LogInit: FAudioDevice initialized.
+[2017.10.27-12.04.20:966][522]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-12.04.20:971][522]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2017.10.27-14.04.20
+[2017.10.27-12.04.20:972][522]LogWorld: Bringing up level for play took: 0.005056
+[2017.10.27-12.04.20:981][522]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.778
+[2017.10.27-12.04.25:545][789]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.04.28:139][935]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.04.30:310][ 56]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.04.32:998][206]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.05.02:367][947]BlueprintLog: New page: Compile Item_Base
+[2017.10.27-12.05.03:714][973]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_Base" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset" SILENT=true
+[2017.10.27-12.05.03:783][973]LogSavePackage: Save=43.70ms
+[2017.10.27-12.05.03:783][973]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_Base11204CDD40A2FB17DCC81A92CC64357C.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset'
+[2017.10.27-12.05.03:787][973]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset
+[2017.10.27-12.05.05:497][ 75]BlueprintLog: New page: Compile Item_SunFruit
+[2017.10.27-12.05.06:507][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_SunFruit" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset" SILENT=true
+[2017.10.27-12.05.06:566][ 91]LogSavePackage: Save=41.43ms
+[2017.10.27-12.05.06:566][ 91]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_SunFruit8ED268D4408CBF43EF516E929F3DA5C7.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset'
+[2017.10.27-12.05.06:569][ 91]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset
+[2017.10.27-12.06.43:170][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.27-12.06.43:401][364]LogSavePackage: Save=201.98ms
+[2017.10.27-12.06.43:401][364]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_Auto36AFC32454C6CE21A46393B942DE7A3B4.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto3.umap'
+[2017.10.27-12.06.43:403][364]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto3.umap
+[2017.10.27-12.06.43:405][364]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.272
+[2017.10.27-12.06.43:405][364]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.272
+[2017.10.27-12.06.43:408][364]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Character/MainPlayerController] ([1] browsable assets)...
+[2017.10.27-12.06.43:408][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Character/MainPlayerController]
+[2017.10.27-12.06.43:500][364]LogSavePackage: Save=76.03ms
+[2017.10.27-12.06.43:500][364]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController_Auto3331F5CDF40521CE42C82FFBE29DA46B6.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/Character/MainPlayerController_Auto3.uasset'
+[2017.10.27-12.06.43:502][364]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/Character/MainPlayerController_Auto3.uasset
+[2017.10.27-12.06.43:503][364]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/Item_BombShellPineNut] ([1] browsable assets)...
+[2017.10.27-12.06.43:542][364]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/Item_BombShellPineNut.Item_BombShellPineNut]
+[2017.10.27-12.06.43:542][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Item_BombShellPineNut]
+[2017.10.27-12.06.43:575][364]LogSavePackage: Save=30.14ms
+[2017.10.27-12.06.43:575][364]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_BombShellPineNut_Auto3B7580ECA44280529A1F471873DA139E9.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/Items/Item_BombShellPineNut_Auto3.uasset'
+[2017.10.27-12.06.43:577][364]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/Items/Item_BombShellPineNut_Auto3.uasset
+[2017.10.27-12.06.43:578][364]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Items/Item_CrystalShard] ([1] browsable assets)...
+[2017.10.27-12.06.43:617][364]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Items/Item_CrystalShard.Item_CrystalShard]
+[2017.10.27-12.06.43:617][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Items/Item_CrystalShard]
+[2017.10.27-12.06.43:652][364]LogSavePackage: Save=30.89ms
+[2017.10.27-12.06.43:652][364]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_CrystalShard_Auto322066B71415F16A2577A9D930501134E.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/Items/Item_CrystalShard_Auto3.uasset'
+[2017.10.27-12.06.43:653][364]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/Items/Item_CrystalShard_Auto3.uasset
+[2017.10.27-12.06.43:653][364]LogFileHelpers: Auto-saving content packages took 0.246
+[2017.10.27-12.07.54:168][590]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_CrystalShard" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_CrystalShard.uasset" SILENT=true
+[2017.10.27-12.07.54:203][590]LogSavePackage: Save=31.20ms
+[2017.10.27-12.07.54:203][590]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_CrystalShard41540B76430B3485599C01AB784A12AD.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_CrystalShard.uasset'
+[2017.10.27-12.07.54:212][590]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_CrystalShard.uasset
+[2017.10.27-12.07.55:674][674]LogSavePackage: Save=30.86ms
+[2017.10.27-12.07.55:674][674]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_BombShellPineNutAF1B817347B441A6A937E7A492E96ACE.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_BombShellPineNut.uasset'
+[2017.10.27-12.07.55:681][674]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_BombShellPineNut.uasset
+[2017.10.27-12.10.01:158][100]LogEditorTransaction: Undo Rename Node
+[2017.10.27-12.10.01:827][138]LogEditorTransaction: Undo Add Node
+[2017.10.27-12.11.54:573][864]BlueprintLog: New page: Compile Item_Base
+[2017.10.27-12.12.30:553][943]BlueprintLog: New page: Compile Item_Base
+[2017.10.27-12.12.37:012][255]BlueprintLog: New page: Compile Item_Base
+[2017.10.27-12.12.38:722][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_Base" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset" SILENT=true
+[2017.10.27-12.12.38:812][283]LogSavePackage: Save=51.42ms
+[2017.10.27-12.12.38:812][283]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_BaseC688FBAD41E9322A600148B7FCA79A19.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset'
+[2017.10.27-12.12.38:817][283]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset
+[2017.10.27-12.12.41:420][438]BlueprintLog: New page: Compile Item_SunFruit
+[2017.10.27-12.12.42:561][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_SunFruit" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset" SILENT=true
+[2017.10.27-12.12.42:627][458]LogSavePackage: Save=42.59ms
+[2017.10.27-12.12.42:627][458]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_SunFruitA603B2844E20479D187A6E975203B683.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset'
+[2017.10.27-12.12.42:631][458]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset
+[2017.10.27-12.12.43:917][534]BlueprintLog: New page: Compile Item_CrystalShard
+[2017.10.27-12.12.44:709][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_CrystalShard" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_CrystalShard.uasset" SILENT=true
+[2017.10.27-12.12.44:761][562]LogSavePackage: Save=30.33ms
+[2017.10.27-12.12.44:761][562]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_CrystalShardE0DF59984AD5010396D2D0BFC8852907.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_CrystalShard.uasset'
+[2017.10.27-12.12.44:765][562]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_CrystalShard.uasset
+[2017.10.27-12.12.46:088][641]BlueprintLog: New page: Compile Item_BombShellPineNut
+[2017.10.27-12.12.46:854][658]LogSavePackage: Save=30.64ms
+[2017.10.27-12.12.46:854][658]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_BombShellPineNutAA2EA5114163223BB5002DA10271ED5F.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_BombShellPineNut.uasset'
+[2017.10.27-12.12.46:859][658]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_BombShellPineNut.uasset
+[2017.10.27-12.15.06:095][885]BlueprintLog: New page: Compile Item_Base
+[2017.10.27-12.15.31:837][691]BlueprintLog: New page: Compile Item_Base
+[2017.10.27-12.15.33:641][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_Base" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset" SILENT=true
+[2017.10.27-12.15.33:717][753]LogSavePackage: Save=50.59ms
+[2017.10.27-12.15.33:717][753]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_Base4EC1D2C74040856AC943B7840F6BB6C1.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset'
+[2017.10.27-12.15.33:721][753]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_Base.uasset
+[2017.10.27-12.15.46:870][320]BlueprintLog: New page: Compile Item_SunFruit
+[2017.10.27-12.15.48:037][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_SunFruit" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset" SILENT=true
+[2017.10.27-12.15.48:096][358]LogSavePackage: Save=40.97ms
+[2017.10.27-12.15.48:096][358]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_SunFruit6C9306D642CB99EB0C432FA8D36CC507.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset'
+[2017.10.27-12.15.48:101][358]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset
+[2017.10.27-12.15.49:588][534]BlueprintLog: New page: Compile Item_CrystalShard
+[2017.10.27-12.15.50:305][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_CrystalShard" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_CrystalShard.uasset" SILENT=true
+[2017.10.27-12.15.50:350][579]LogSavePackage: Save=29.21ms
+[2017.10.27-12.15.50:351][579]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_CrystalShard028ADE3444097F33C4DA9CBB10924AAA.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_CrystalShard.uasset'
+[2017.10.27-12.15.50:355][579]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_CrystalShard.uasset
+[2017.10.27-12.15.51:793][742]BlueprintLog: New page: Compile Item_BombShellPineNut
+[2017.10.27-12.15.52:592][773]LogSavePackage: Save=30.61ms
+[2017.10.27-12.15.52:593][773]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_BombShellPineNut45D0E6CE4B38EE8BF9BEC4A565E256CD.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_BombShellPineNut.uasset'
+[2017.10.27-12.15.52:596][773]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_BombShellPineNut.uasset
+[2017.10.27-12.16.22:869][283]BlueprintLog: New page: Compile Item_SunFruit
+[2017.10.27-12.16.24:017][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_SunFruit" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset" SILENT=true
+[2017.10.27-12.16.24:075][319]LogSavePackage: Save=36.17ms
+[2017.10.27-12.16.24:075][319]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_SunFruitF0657CA14456E1DE1013F8A9A518C48B.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset'
+[2017.10.27-12.16.24:079][319]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset
+[2017.10.27-12.16.32:214][261]BlueprintLog: New page: Compile Item_SunFruit
+[2017.10.27-12.16.33:807][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_SunFruit" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset" SILENT=true
+[2017.10.27-12.16.33:870][349]LogSavePackage: Save=38.38ms
+[2017.10.27-12.16.33:870][349]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_SunFruitA614BB3B4FB33476267FD89A010B5102.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset'
+[2017.10.27-12.16.33:874][349]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_SunFruit.uasset
+[2017.10.27-12.17.33:120][342]BlueprintLog: New page: Compile Item_CrystalShard
+[2017.10.27-12.17.33:925][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_CrystalShard" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_CrystalShard.uasset" SILENT=true
+[2017.10.27-12.17.33:984][391]LogSavePackage: Save=32.97ms
+[2017.10.27-12.17.33:984][391]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_CrystalShard119480EF4B265A94F2ECB4A532571B82.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_CrystalShard.uasset'
+[2017.10.27-12.17.33:987][391]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_CrystalShard.uasset
+[2017.10.27-12.17.35:308][548]BlueprintLog: New page: Compile Item_BombShellPineNut
+[2017.10.27-12.17.35:984][579]LogSavePackage: Save=31.89ms
+[2017.10.27-12.17.35:984][579]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_BombShellPineNut0EE1CEF84D71455FCF5BCF8D33D9D6CD.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_BombShellPineNut.uasset'
+[2017.10.27-12.17.35:988][579]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_BombShellPineNut.uasset
+[2017.10.27-12.17.37:527][759]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.27-12.17.39:775][859]LogSavePackage: Save=81.51ms
+[2017.10.27-12.17.39:775][859]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController2D0990EF41FC87088C46589ED7475336.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Character/MainPlayerController.uasset'
+[2017.10.27-12.17.39:782][859]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Character/MainPlayerController.uasset
+[2017.10.27-12.17.45:053][376]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2017.10.27-12.17.46:108][473]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.10.27-12.18.06:738][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.27-12.18.07:039][988]LogSavePackage: Save=243.19ms
+[2017.10.27-12.18.07:039][988]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test23AB0784458D863B1271078EB2B4430C.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap'
+[2017.10.27-12.18.07:043][988]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap
+[2017.10.27-12.18.07:091][988]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2017.10.27-12.18.07:259][988]LogSavePackage: Save=144.88ms
+[2017.10.27-12.18.07:259][988]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_BuiltDataE7A3040B4F51B5ABB2643897FA0CDF2F.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset'
+[2017.10.27-12.18.07:261][988]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset
+[2017.10.27-12.18.10:496][272]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-12.18.10:537][272]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.27-12.18.10:537][272]PIE: New page: PIE session: Test (27 Oct 2017 16:18:10)
+[2017.10.27-12.18.10:538][272]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-12.18.10:550][272]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011540s)
+[2017.10.27-12.18.10:551][272]LogAIModule: Creating AISystem for world Test
+[2017.10.27-12.18.10:551][272]LogPlayLevel: PIE: World Init took: (0.001377s)
+[2017.10.27-12.18.10:552][272]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.013249s)
+[2017.10.27-12.18.10:582][272]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-12.18.10:590][272]LogInit: FAudioDevice initialized.
+[2017.10.27-12.18.10:631][272]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-12.18.10:637][272]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.27-14.18.10
+[2017.10.27-12.18.10:637][272]LogWorld: Bringing up level for play took: 0.005902
+[2017.10.27-12.18.10:646][272]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.888
+[2017.10.27-12.18.15:128][542]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.18.15:912][586]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.18.20:724][866]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.18.22:571][977]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.18.23:527][ 30]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.18.25:510][142]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.18.29:159][350]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.18.32:089][517]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.18.33:562][600]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.18.35:928][734]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.18.37:986][851]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.18.39:133][917]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.19.35:978][876]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0015 seconds. Added 1 classes and 0 folders.
+[2017.10.27-12.19.35:983][876]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.19.36:131][876]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.19.52:214][644]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.10.27-12.19.52:214][644]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.10.27-12.19.52:214][644]MaterialEditorStats: Texture samplers: 1/16
+[2017.10.27-12.20.05:365][203]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.20.11:770][870]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.10.27-12.20.11:770][870]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.10.27-12.20.11:770][870]MaterialEditorStats: Texture samplers: 1/16
+[2017.10.27-12.20.12:582][964]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.20.16:572][337]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.10.27-12.20.16:572][337]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.10.27-12.20.16:572][337]MaterialEditorStats: Texture samplers: 1/16
+[2017.10.27-12.20.52:772][666]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.20.52:785][666]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.10.27-12.20.55:625][941]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.20.55:663][941]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.10.27-12.20.57:618][120]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.20.57:649][120]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.10.27-12.21.00:085][359]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.00:121][359]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.10.27-12.21.01:133][448]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.01:170][448]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.10.27-12.21.02:311][554]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.02:345][554]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.10.27-12.21.03:240][633]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.03:276][633]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.10.27-12.21.04:698][767]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.04:734][767]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.10.27-12.21.05:586][842]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.05:622][842]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.10.27-12.21.16:696][ 16]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.16:716][ 16]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.10.27-12.21.17:863][121]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.17:900][121]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.10.27-12.21.23:302][659]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.23:317][659]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.10.27-12.21.24:063][725]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.24:095][725]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.10.27-12.21.26:509][975]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.26:544][975]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.10.27-12.21.32:734][634]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.32:747][634]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.10.27-12.21.37:169][ 57]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.37:204][ 57]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.10.27-12.21.38:181][140]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.38:217][140]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.10.27-12.21.39:537][254]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.39:571][254]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.10.27-12.21.42:264][530]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.42:301][530]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant4Vector_0, compiling. 
+[2017.10.27-12.21.45:714][872]LogMaterialEditor: Saving and Compiling material MAT_CrystalShard
+[2017.10.27-12.21.46:851][872]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.46:902][872]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.46:947][872]LogMaterial: Missing cached shader map for material MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.47:070][872]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MAT_CrystalShard, compiling. 
+[2017.10.27-12.21.48:558][872]TextureStreamingBuild: Display: Compiling optional shaders took 1.502 seconds.
+[2017.10.27-12.21.50:991][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MAT_CrystalShard" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Materials/MAT_CrystalShard.uasset" SILENT=true
+[2017.10.27-12.21.51:054][872]LogSavePackage: Save=46.31ms
+[2017.10.27-12.21.51:054][872]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MAT_CrystalShardD2B0F79F48F76B1B8B94558BFECBF4ED.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Materials/MAT_CrystalShard.uasset'
+[2017.10.27-12.21.51:060][872]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Materials/MAT_CrystalShard.uasset
+[2017.10.27-12.21.51:069][872]MaterialEditorStats: Base pass shader: 80 instructions
+[2017.10.27-12.21.51:069][872]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.10.27-12.21.51:069][872]MaterialEditorStats: Texture samplers: 2/16
+[2017.10.27-12.22.23:837][205]BlueprintLog: New page: Compile Item_CrystalShard
+[2017.10.27-12.22.24:995][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Items/Item_CrystalShard" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_CrystalShard.uasset" SILENT=true
+[2017.10.27-12.22.25:060][224]LogSavePackage: Save=34.62ms
+[2017.10.27-12.22.25:060][224]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Item_CrystalShard94FC90764AD11EDF4E74499E8F49661A.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_CrystalShard.uasset'
+[2017.10.27-12.22.25:065][224]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Items/Item_CrystalShard.uasset
+[2017.10.27-12.22.27:016][407]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-12.22.27:060][407]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.27-12.22.27:060][407]PIE: New page: PIE session: Test (27 Oct 2017 16:22:27)
+[2017.10.27-12.22.27:061][407]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-12.22.27:077][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015659s)
+[2017.10.27-12.22.27:078][407]LogAIModule: Creating AISystem for world Test
+[2017.10.27-12.22.27:079][407]LogPlayLevel: PIE: World Init took: (0.001331s)
+[2017.10.27-12.22.27:079][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.017425s)
+[2017.10.27-12.22.27:109][407]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-12.22.27:116][407]LogInit: FAudioDevice initialized.
+[2017.10.27-12.22.27:161][407]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-12.22.27:166][407]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.27-14.22.27
+[2017.10.27-12.22.27:167][407]LogWorld: Bringing up level for play took: 0.004730
+[2017.10.27-12.22.27:176][407]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.583
+[2017.10.27-12.22.34:762][865]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.22.37:307][ 12]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.22.41:959][284]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.22.43:643][380]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.22.44:750][444]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.22.46:878][573]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.22.48:274][653]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.22.50:684][792]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.22.54:598][ 31]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.22.57:388][196]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.22.58:413][253]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.23.00:518][371]LogBlueprintUserMessages: [MainPlayerController_C_0] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-12.23.48:530][583]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.27-12.23.51:207][645]LogSavePackage: Save=76.65ms
+[2017.10.27-12.23.51:207][645]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController80A1430A487639530D6AF3A8A70EFA72.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Character/MainPlayerController.uasset'
+[2017.10.27-12.23.51:211][645]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/Character/MainPlayerController.uasset
+[2017.10.27-12.23.52:468][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.27-12.23.52:761][766]LogSavePackage: Save=238.11ms
+[2017.10.27-12.23.52:762][766]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/TestB37BB72B40D20ADBC44ABEBC9FA404FC.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap'
+[2017.10.27-12.23.52:766][766]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap
+[2017.10.27-12.23.52:812][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2017.10.27-12.23.52:980][766]LogSavePackage: Save=143.76ms
+[2017.10.27-12.23.52:980][766]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_BuiltData681D4C494ED15F8ABB682D98691578D1.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset'
+[2017.10.27-12.23.52:982][766]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset
+[2017.10.27-12.23.53:835][831]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-12.23.53:876][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.27-12.23.53:876][831]PIE: New page: PIE session: Test (27 Oct 2017 16:23:53)
+[2017.10.27-12.23.53:877][831]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-12.23.53:892][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015111s)
+[2017.10.27-12.23.53:894][831]LogAIModule: Creating AISystem for world Test
+[2017.10.27-12.23.53:894][831]LogPlayLevel: PIE: World Init took: (0.001445s)
+[2017.10.27-12.23.53:894][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.016957s)
+[2017.10.27-12.23.53:922][831]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-12.23.53:928][831]LogInit: FAudioDevice initialized.
+[2017.10.27-12.23.53:968][831]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-12.23.53:974][831]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.27-14.23.53
+[2017.10.27-12.23.53:975][831]LogWorld: Bringing up level for play took: 0.005818
+[2017.10.27-12.23.53:983][831]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.225
+[2017.10.27-12.23.59:737][286]MapCheck: New page: Map Check
+[2017.10.27-12.23.59:749][286]LightingResults: New page: Lighting Build - 27 Oct 2017 16:23:59
+[2017.10.27-12.23.59:858][286]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.10.27-12.23.59:895][286]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.10.27-12.23.59:907][286]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.10.27-12.24.01:966][286]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.10.27-12.24.01:966][286]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5740
+[2017.10.27-12.24.04:796][286]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.10.27-12.24.04:797][286]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.10.27-12.24.04:797][286]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.10.27-12.24.04:797][286]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.10.27-12.24.04:797][286]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.10.27-12.24.04:797][286]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.10.27-12.24.05:015][286]LogEditorBuildUtils: Build time 0:05
+[2017.10.27-12.24.11:481][549]Job is a success!
+[2017.10.27-12.24.11:870][550]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2017.10.27-12.24.11:870][550]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2017.10.27-12.24.11:945][550]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X128)
+[2017.10.27-12.24.16:988][550]Lightmass on DESKTOP-O65I7RR: 5.11 sec total, 841 ms importing, 106 ms setup, 885 ms photons, 3.26 sec processing, 0 ms extra exporting [65/65 mappings]. Threads: 13.0 sec total, 7.49 sec processing.
+[2017.10.27-12.24.17:053][550]LogStaticLightingSystem: Illumination: 17.2 sec (300 ms encoding lightmaps, 69 ms encoding shadowmaps)
+[2017.10.27-12.24.17:053][550]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.10.27-12.24.17:053][550]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.10.27-12.24.17:801][550]DumpUnbuiltLightIteractions
+[2017.10.27-12.24.17:801][550]Lights with unbuilt interactions: 0
+[2017.10.27-12.24.17:801][550]
+[2017.10.27-12.24.17:801][550]Primitives with unbuilt interactions: 0
+[2017.10.27-12.24.17:821][551]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.10.27-12.24.17:821][551]MapCheck: New page: Test - 27 Oct 2017 16:24:17
+[2017.10.27-12.24.17:898][551]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.765ms to complete.
+[2017.10.27-12.24.19:094][652]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-12.24.19:118][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.27-12.24.19:118][652]PIE: New page: PIE session: Test (27 Oct 2017 16:24:19)
+[2017.10.27-12.24.19:120][652]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-12.24.19:133][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013559s)
+[2017.10.27-12.24.19:134][652]LogAIModule: Creating AISystem for world Test
+[2017.10.27-12.24.19:134][652]LogPlayLevel: PIE: World Init took: (0.001010s)
+[2017.10.27-12.24.19:134][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.014920s)
+[2017.10.27-12.24.19:164][652]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-12.24.19:170][652]LogInit: FAudioDevice initialized.
+[2017.10.27-12.24.19:218][652]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-12.24.19:222][652]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.27-14.24.19
+[2017.10.27-12.24.19:223][652]LogWorld: Bringing up level for play took: 0.004328
+[2017.10.27-12.24.19:233][652]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.526
+[2017.10.27-12.27.19:786][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.27-12.27.20:123][513]LogSavePackage: Save=235.72ms
+[2017.10.27-12.27.20:123][513]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test13D22CD442A1BDF72B1CF3B5131A2A8D.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap'
+[2017.10.27-12.27.20:127][513]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap
+[2017.10.27-12.27.20:177][513]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2017.10.27-12.27.20:337][513]LogSavePackage: Save=143.30ms
+[2017.10.27-12.27.20:337][513]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_BuiltDataEFEE793A4B9ED12448A52686576249E3.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset'
+[2017.10.27-12.27.20:341][513]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset
+[2017.10.27-12.27.33:408][762]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.27-12.27.33:472][762]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.27-12.27.33:543][762]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.27-12.27.33:632][762]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.27-12.27.33:823][762]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.27-12.27.33:836][762]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.27-12.27.34:138][763]Cmd: QUIT_EDITOR
+[2017.10.27-12.27.34:566][763]LogExit: Preparing to exit.
+[2017.10.27-12.27.35:139][763]LogDirectoryWatcher: A directory notification for 'C:/Users/roysc/Documents/Unreal Projects/Exalos/Content/' was aborted.
+[2017.10.27-12.27.35:252][763]LogExit: Editor shut down
+[2017.10.27-12.27.35:281][763]LogExit: Transaction tracking system shut down
+[2017.10.27-12.27.35:514][763]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.10.27-12.27.35:514][763]LogDirectoryWatcher: A directory notification for '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/' was aborted.
+[2017.10.27-12.27.35:514][763]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.10.27-12.27.35:514][763]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.10.27-12.27.35:514][763]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.10.27-12.27.35:667][763]LogExit: Object subsystem successfully closed.
+[2017.10.27-12.27.35:684][763]LogD3D11RHI: Shutdown
+[2017.10.27-12.27.35:684][763]LogD3D11RHI: CleanupD3DDevice
+[2017.10.27-12.27.35:816][763]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.10.27-12.27.35:834][763]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (542)
+[2017.10.27-12.27.35:834][763]LogModuleManager: Shutting down and abandoning module MaterialEditor (540)
+[2017.10.27-12.27.35:834][763]LogModuleManager: Shutting down and abandoning module SequencerWidgets (538)
+[2017.10.27-12.27.35:834][763]LogModuleManager: Shutting down and abandoning module BlueprintGraph (536)
+[2017.10.27-12.27.35:834][763]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (534)
+[2017.10.27-12.27.35:834][763]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2017.10.27-12.27.35:834][763]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.10.27-12.27.35:834][763]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.10.27-12.27.35:834][763]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.10.27-12.27.35:835][763]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.10.27-12.27.35:840][763]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.10.27-12.27.35:840][763]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.10.27-12.27.35:840][763]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.10.27-12.27.35:840][763]LogDirectoryWatcher: A directory notification for 'C:/Users/roysc/Documents/Unreal Projects/Exalos/Content/Collections/' was aborted.
+[2017.10.27-12.27.35:840][763]LogDirectoryWatcher: A directory notification for 'C:/Users/roysc/Documents/Unreal Projects/Exalos/Content/Developers/roysc/Collections/' was aborted.
+[2017.10.27-12.27.35:840][763]LogDirectoryWatcher: A directory notification for 'C:/Users/roysc/Documents/Unreal Projects/Exalos/Saved/Collections/' was aborted.
+[2017.10.27-12.27.35:840][763]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.10.27-12.27.35:840][763]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.10.27-12.27.35:840][763]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.10.27-12.27.35:840][763]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.10.27-12.27.35:840][763]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.10.27-12.27.35:840][763]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.10.27-12.27.35:840][763]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.10.27-12.27.35:840][763]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.10.27-12.27.35:840][763]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.10.27-12.27.35:840][763]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.10.27-12.27.35:841][763]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.10.27-12.27.35:859][763]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.10.27-12.27.35:859][763]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.10.27-12.27.35:859][763]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.10.27-12.27.35:859][763]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.10.27-12.27.35:859][763]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.10.27-12.27.35:859][763]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.10.27-12.27.35:859][763]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.10.27-12.27.35:859][763]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.10.27-12.27.35:860][763]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.10.27-12.27.35:860][763]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.10.27-12.27.35:860][763]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.10.27-12.27.35:860][763]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.10.27-12.27.35:860][763]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.10.27-12.27.35:860][763]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.10.27-12.27.35:860][763]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.10.27-12.27.35:860][763]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.10.27-12.27.35:860][763]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.10.27-12.27.35:860][763]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.10.27-12.27.35:860][763]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.10.27-12.27.35:861][763]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.10.27-12.27.35:861][763]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.10.27-12.27.35:861][763]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.10.27-12.27.35:861][763]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.10.27-12.27.35:861][763]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.10.27-12.27.35:914][763]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.10.27-12.27.35:914][763]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.10.27-12.27.35:914][763]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.10.27-12.27.35:914][763]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.10.27-12.27.35:914][763]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.10.27-12.27.35:914][763]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.10.27-12.27.35:914][763]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.10.27-12.27.35:914][763]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.10.27-12.27.35:914][763]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.10.27-12.27.35:914][763]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.10.27-12.27.35:926][763]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.10.27-12.27.35:928][763]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.10.27-12.27.35:928][763]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.10.27-12.27.35:928][763]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.10.27-12.27.35:928][763]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.10.27-12.27.35:928][763]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.10.27-12.27.35:928][763]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.10.27-12.27.35:928][763]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.10.27-12.27.35:928][763]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.10.27-12.27.35:928][763]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.10.27-12.27.35:928][763]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.10.27-12.27.35:929][763]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.10.27-12.27.35:929][763]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.10.27-12.27.35:929][763]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.10.27-12.27.35:929][763]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.10.27-12.27.35:929][763]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.10.27-12.27.35:929][763]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.10.27-12.27.35:929][763]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.10.27-12.27.35:929][763]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.10.27-12.27.35:929][763]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.10.27-12.27.35:929][763]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.10.27-12.27.36:032][763]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.10.27-12.27.36:032][763]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.10.27-12.27.36:032][763]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.10.27-12.27.36:032][763]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.10.27-12.27.36:032][763]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.10.27-12.27.36:032][763]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.10.27-12.27.36:032][763]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.10.27-12.27.36:032][763]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.10.27-12.27.36:032][763]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.10.27-12.27.36:032][763]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.10.27-12.27.36:032][763]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.10.27-12.27.36:032][763]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.10.27-12.27.36:032][763]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.10.27-12.27.36:032][763]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.10.27-12.27.36:032][763]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.10.27-12.27.36:033][763]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.10.27-12.27.36:033][763]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.10.27-12.27.36:033][763]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.10.27-12.27.36:033][763]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.10.27-12.27.36:033][763]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.10.27-12.27.36:033][763]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.10.27-12.27.36:033][763]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.10.27-12.27.36:033][763]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.10.27-12.27.36:033][763]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.10.27-12.27.36:033][763]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.10.27-12.27.36:033][763]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.10.27-12.27.36:033][763]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.10.27-12.27.36:033][763]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.10.27-12.27.36:033][763]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.10.27-12.27.36:033][763]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.10.27-12.27.36:034][763]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.10.27-12.27.36:034][763]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.10.27-12.27.36:036][763]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.10.27-12.27.36:036][763]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.10.27-12.27.36:036][763]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.10.27-12.27.36:037][763]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.10.27-12.27.36:037][763]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.10.27-12.27.36:037][763]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.10.27-12.27.36:037][763]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.10.27-12.27.36:037][763]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.10.27-12.27.36:037][763]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.10.27-12.27.36:037][763]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.10.27-12.27.36:037][763]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.10.27-12.27.36:138][763]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.10.27-12.27.36:239][763]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.10.27-12.27.36:239][763]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.10.27-12.27.36:239][763]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.10.27-12.27.36:239][763]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.10.27-12.27.36:240][763]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.10.27-12.27.36:240][763]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.10.27-12.27.36:244][763]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.10.27-12.27.36:244][763]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.10.27-12.27.36:244][763]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.10.27-12.27.36:245][763]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.10.27-12.27.36:250][763]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.10.27-12.27.36:250][763]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.10.27-12.27.36:250][763]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.10.27-12.27.36:250][763]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.10.27-12.27.36:250][763]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.10.27-12.27.36:250][763]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.10.27-12.27.36:250][763]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.10.27-12.27.36:250][763]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.10.27-12.27.36:250][763]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.10.27-12.27.36:250][763]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.10.27-12.27.36:250][763]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.10.27-12.27.36:250][763]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.10.27-12.27.36:250][763]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.10.27-12.27.36:250][763]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.10.27-12.27.36:250][763]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.10.27-12.27.36:250][763]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.10.27-12.27.36:251][763]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.10.27-12.27.36:251][763]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.10.27-12.27.36:251][763]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.10.27-12.27.36:251][763]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.10.27-12.27.36:254][763]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.10.27-12.27.36:254][763]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.10.27-12.27.36:254][763]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.10.27-12.27.36:255][763]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.10.27-12.27.36:255][763]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.10.27-12.27.36:255][763]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.10.27-12.27.36:255][763]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.10.27-12.27.36:255][763]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.10.27-12.27.36:255][763]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.10.27-12.27.36:255][763]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.10.27-12.27.36:255][763]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.10.27-12.27.36:255][763]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.10.27-12.27.36:255][763]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.10.27-12.27.36:255][763]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.10.27-12.27.36:255][763]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.10.27-12.27.36:255][763]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.10.27-12.27.36:262][763]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.10.27-12.27.36:272][763]LogDerivedDataCache: Shutdown
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.10.27-12.27.36:273][763]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.10.27-12.27.36:274][763]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.10.27-12.27.36:274][763]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.10.27-12.27.36:274][763]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.10.27-12.27.36:274][763]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.10.27-12.27.36:274][763]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.10.27-12.27.36:274][763]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.10.27-12.27.36:274][763]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.10.27-12.27.36:274][763]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.10.27-12.27.36:274][763]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.10.27-12.27.36:274][763]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.10.27-12.27.36:274][763]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.10.27-12.27.36:274][763]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.10.27-12.27.36:274][763]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.10.27-12.27.36:274][763]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.10.27-12.27.36:274][763]LogOnline: Display: Unloading online subsystem: NULL
+[2017.10.27-12.27.36:274][763]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.10.27-12.27.36:274][763]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.10.27-12.27.36:274][763]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2017.10.27-12.27.36:274][763]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA1298F5F-4D1E-53BF-A27B-3989ED146D87%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=48ec7fe2408605d8edd0cdbe0bfa4672%7C19cff717f4de47c8b45d09c7300d6cb4%7C554d65e8-1b2d-4947-8ee1-de6a9a3a3aa7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.10.27-12.27.36:274][763]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA1298F5F-4D1E-53BF-A27B-3989ED146D87%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=48ec7fe2408605d8edd0cdbe0bfa4672%7C19cff717f4de47c8b45d09c7300d6cb4%7C554d65e8-1b2d-4947-8ee1-de6a9a3a3aa7&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.10.27-12.27.36:306][763]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.10.27-12.27.36:309][763]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.10.27-12.27.36:309][763]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.10.27-12.27.36:309][763]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.10.27-12.27.36:309][763]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.10.27-12.27.36:309][763]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.10.27-12.27.36:309][763]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.10.27-12.27.36:309][763]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.10.27-12.27.36:327][763]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.10.27-12.27.36:327][763]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.10.27-12.27.36:327][763]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.10.27-12.27.36:327][763]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.10.27-12.27.36:327][763]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.10.27-12.27.36:327][763]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.10.27-12.27.36:327][763]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.10.27-12.27.36:327][763]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.10.27-12.27.36:327][763]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.10.27-12.27.36:327][763]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.10.27-12.27.36:327][763]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.10.27-12.27.36:329][763]LogExit: Exiting.
+[2017.10.27-12.27.36:352][763]Log file closed, 10/27/17 14:27:36

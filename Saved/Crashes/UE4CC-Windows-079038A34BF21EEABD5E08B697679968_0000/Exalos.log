@@ -1,0 +1,1649 @@
+﻿Log file open, 10/25/17 10:54:09
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Exalos
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(127807184) SRandInit(127807184).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.333285
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.25-08.54.10:373][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.25-08.54.10:373][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.25-08.54.10:465][  0]LogInit: Computer: DESKTOP-O65I7RR
+[2017.10.25-08.54.10:465][  0]LogInit: User: roysc
+[2017.10.25-08.54.10:465][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.10.25-08.54.10:465][  0]LogInit: High frequency timer resolution =2.533196 MHz
+[2017.10.25-08.54.10:465][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.10.25-08.54.10:465][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.25-08.54.10:465][  0]LogMemory: Process Physical Memory: 279.64 MB used, 279.64 MB peak
+[2017.10.25-08.54.10:465][  0]LogMemory: Process Virtual Memory: 275.61 MB used, 275.61 MB peak
+[2017.10.25-08.54.10:465][  0]LogMemory: Physical Memory: 3169.33 MB used,  4902.94 MB free, 8072.27 MB total
+[2017.10.25-08.54.10:465][  0]LogMemory: Virtual Memory: 700.58 MB used,  4902.94 MB free, 134217728.00 MB total
+[2017.10.25-08.54.11:538][  0]LogInit: Using OS detected language (en-US).
+[2017.10.25-08.54.11:538][  0]LogInit: Using OS detected locale (en-GB).
+[2017.10.25-08.54.11:851][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.25-08.54.18:288][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.25-08.54.18:475][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 850M' (Feature Level 11_0)
+[2017.10.25-08.54.18:475][  0]LogD3D11RHI:       4065/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.25-08.54.18:483][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2017.10.25-08.54.18:483][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.10.25-08.54.18:486][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.25-08.54.18:486][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.25-08.54.18:486][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.25-08.54.18:492][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.25-08.54.18:492][  0]LogD3D11RHI:     GPU DeviceId: 0x1391 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.25-08.54.18:492][  0]LogWindows: EnumDisplayDevices:
+[2017.10.25-08.54.18:493][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2017.10.25-08.54.18:493][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2017.10.25-08.54.18:493][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2017.10.25-08.54.18:493][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.10.25-08.54.18:493][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 850M
+[2017.10.25-08.54.18:493][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.10.25-08.54.18:493][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.10.25-08.54.18:493][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.25-08.54.18:530][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.25-08.54.18:549][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.25-08.54.18:550][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Intermediate/Shaders/WorkingDirectory/1940/).
+[2017.10.25-08.54.18:551][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/roysc/AppData/Local/Temp/UnrealShaderWorkingDir/1807B1844385A96B3501FB87446AA2D5/'.
+[2017.10.25-08.54.18:551][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.25-08.54.23:594][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.25-08.54.23:677][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.25-08.54.23:760][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.25-08.54.23:843][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.25-08.54.23:932][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.25-08.54.24:014][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.25-08.54.24:098][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.25-08.54.24:181][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.25-08.54.24:253][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.25-08.54.24:355][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.25-08.54.24:436][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.25-08.54.24:517][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.25-08.54.24:598][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.25-08.54.24:679][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.25-08.54.24:763][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.25-08.54.24:952][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.25-08.54.24:952][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.25-08.54.25:016][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.25-08.54.25:282][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.25-08.54.25:331][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.25-08.54.25:412][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.25-08.54.25:493][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.25-08.54.25:575][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.25-08.54.25:677][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.25-08.54.25:677][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.25-08.54.28:060][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.25-08.54.29:192][  0]LogDerivedDataCache: Loaded boot cache 1.13s 93MB C:/Users/roysc/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.25-08.54.29:193][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/roysc/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.25-08.54.29:193][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.25-08.54.29:193][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.25-08.54.29:193][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.25-08.54.29:193][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.25-08.54.29:320][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.25-08.54.29:341][  0]LogDerivedDataCache: Using Local data cache path C:/Users/roysc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.25-08.54.29:379][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.25-08.54.29:381][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.25-08.54.29:417][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.25-08.54.29:417][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.25-08.54.40:991][  0]LogAssetRegistry: FAssetRegistry took 0.0283 seconds to start up
+[2017.10.25-08.54.41:395][  0]LogAssetRegistry: Error: Bad name index reading cache 0/0
+[2017.10.25-08.54.41:395][  0]LogAssetRegistry: Error: There was an error loading the asset registry cache. Generating a new one.
+[2017.10.25-08.54.41:395][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.25-08.54.43:701][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.25-08.54.44:694][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.25-08.54.44:773][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.25-08.54.44:773][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.25-08.54.44:773][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.25-08.54.44:773][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.25-08.54.44:773][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.25-08.54.46:626][  0]LogNetVersion: Exalos , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 803988355)
+[2017.10.25-08.54.47:814][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.218401 seconds
+[2017.10.25-08.54.47:835][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.25-08.54.47:835][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.10.25-08.54.47:835][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.25-08.54.48:030][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.25-08.55.12:295][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.25-08.55.12:360][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.25-08.55.13:959][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.25-08.55.15:104][  0]SourceControl: Source control is disabled
+[2017.10.25-08.55.15:104][  0]SourceControl: Source control is disabled
+[2017.10.25-08.55.15:292][  0]SourceControl: Source control is disabled
+[2017.10.25-08.55.15:439][  0]SourceControl: Source control is disabled
+[2017.10.25-08.55.17:531][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.25-08.55.18:298][  0]LogOcInput: OculusInput pre-init called
+[2017.10.25-08.55.19:189][  0]LogEngine: Initializing Engine...
+[2017.10.25-08.55.19:193][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.25-08.55.19:589][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.25-08.55.19:589][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.25-08.55.19:857][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.25-08.55.19:884][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-08.55.19:966][  0]LogInit: FAudioDevice initialized.
+[2017.10.25-08.55.20:271][  0]LogDerivedDataCache: Saved boot cache 0.30s 93MB C:/Users/roysc/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.25-08.55.20:324][  0]LogInit: Texture streaming: Enabled
+[2017.10.25-08.55.20:650][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.25-08.55.20:650][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={F048E84D-428B-39E6-7652-EF92EBD6C025}
+[2017.10.25-08.55.21:603][  0]LogInit: Transaction tracking system initialized
+[2017.10.25-08.55.22:646][  0]BlueprintLog: New page: Editor Load
+[2017.10.25-08.55.24:361][  0]LocalizationService: Localization service is disabled
+[2017.10.25-08.55.26:274][  0]LogConsoleResponse: Display: 
+[2017.10.25-08.55.27:206][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.25-08.55.27:206][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.25-08.55.27:206][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.25-08.55.27:345][  0]LogFileCache: Scanning file cache for directory 'C:/Users/roysc/Documents/Unreal Projects/Exalos/Content/' took 0.02s
+[2017.10.25-08.55.31:224][  0]SourceControl: Source control is disabled
+[2017.10.25-08.55.31:224][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.25-08.55.31:225][  0]LightingResults: New page: Lighting Build
+[2017.10.25-08.55.31:298][  0]MapCheck: New page: Map Check
+[2017.10.25-08.55.31:298][  0]LightingResults: New page: Lighting Build
+[2017.10.25-08.55.32:091][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.10.25-08.55.32:122][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.25-08.55.32:160][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.25-08.55.32:245][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 85.199ms to complete.
+[2017.10.25-08.55.32:245][  0]LogFileHelpers: Loading map 'Template_Default' took 1.022
+[2017.10.25-08.55.32:653][  0]LogCollectionManager: Loaded 0 collections in 0.002768 seconds
+[2017.10.25-08.55.32:884][  0]LogFileCache: Scanning file cache for directory 'C:/Users/roysc/Documents/Unreal Projects/Exalos/Saved/Collections/' took 0.01s
+[2017.10.25-08.55.32:884][  0]LogFileCache: Scanning file cache for directory 'C:/Users/roysc/Documents/Unreal Projects/Exalos/Content/Developers/roysc/Collections/' took 0.01s
+[2017.10.25-08.55.32:884][  0]LogFileCache: Scanning file cache for directory 'C:/Users/roysc/Documents/Unreal Projects/Exalos/Content/Collections/' took 0.01s
+[2017.10.25-08.55.32:884][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.25-08.55.32:919][  0]LogContentBrowser: Native class hierarchy populated in 0.0345 seconds. Added 2386 classes and 500 folders.
+[2017.10.25-08.55.33:048][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.10.25-08.55.34:186][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0016 seconds. Added 0 classes and 0 folders.
+[2017.10.25-08.55.34:298][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.10.25-08.55.34:380][  0]LogSlate: Took 0.031996 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.25-08.55.34:392][  0]LogSlate: Took 0.008866 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.25-08.55.34:410][  0]LogSlate: Took 0.009049 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.25-08.55.34:663][  0]LogRenderer: Reallocating scene render targets to support 964x436 Format 10 NumSamples 1 (Frame:1).
+[2017.10.25-08.55.35:164][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.10.25-08.55.35:165][  0]LogLoad: (Engine Initialization) Total time: 92.50 seconds
+[2017.10.25-08.55.35:165][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.25-08.55.35:165][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.10.25-08.55.35:203][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.25-08.55.35:237][  0]LogSlate: Took 0.008390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.25-08.55.35:267][  1]LogAssetRegistry: Asset discovery search completed in 54.2976 seconds
+[2017.10.25-08.55.35:271][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.10.25-08.55.35:271][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000123 seconds (updated 0 objects)
+[2017.10.25-08.55.41:120][333]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.25-08.55.41:403][333]LogAIModule: Creating AISystem for world Test
+[2017.10.25-08.55.41:452][333]Cmd: MAP LOAD FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.25-08.55.41:452][333]LightingResults: New page: Lighting Build
+[2017.10.25-08.55.41:453][333]LoadErrors: New page: Loading map: Test.umap
+[2017.10.25-08.55.41:453][333]MapCheck: New page: Map Check
+[2017.10.25-08.55.41:453][333]LightingResults: New page: Lighting Build
+[2017.10.25-08.55.41:487][333]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.25-08.55.41:539][333]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.25-08.55.41:626][333]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 86.47ms to complete.
+[2017.10.25-08.55.41:627][333]LogFileHelpers: Loading map 'Test' took 0.177
+[2017.10.25-08.55.54:065][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-08.55.54:145][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-08.55.54:146][ 70]PIE: New page: PIE session: Test (25 Oct 2017 12:55:54)
+[2017.10.25-08.55.54:150][ 70]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-08.55.54:154][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003413s)
+[2017.10.25-08.55.54:155][ 70]LogAIModule: Creating AISystem for world Test
+[2017.10.25-08.55.54:155][ 70]LogPlayLevel: PIE: World Init took: (0.001374s)
+[2017.10.25-08.55.54:155][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.005185s)
+[2017.10.25-08.55.54:172][ 70]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-08.55.54:181][ 70]LogInit: FAudioDevice initialized.
+[2017.10.25-08.55.54:313][ 70]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-08.55.54:318][ 70]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2017.10.25-10.55.54
+[2017.10.25-08.55.54:319][ 70]LogWorld: Bringing up level for play took: 0.003477
+[2017.10.25-08.55.54:409][ 70]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 11 classes and 0 folders.
+[2017.10.25-08.55.54:412][ 70]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.596
+[2017.10.25-08.56.02:132][517]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-08.56.03:848][620]LogBlueprintUserMessages: [InteractableObject_Default_282] Interact Pressed succesfully
+[2017.10.25-08.56.07:034][810]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-08.56.09:425][953]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-08.56.13:879][218]LogBlueprintUserMessages: [InteractableObject_Default5] Interact Pressed succesfully
+[2017.10.25-08.56.17:479][434]LogBlueprintUserMessages: [InteractableObject_Default4] Interact Pressed succesfully
+[2017.10.25-08.57.31:326][ 55]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 113 classes and 0 folders.
+[2017.10.25-08.57.32:402][ 55]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.25-08.57.32:567][ 55]LogSlate: Took 0.033338 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.25-08.57.32:881][ 56]LogSlate: Took 0.022594 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.25-08.58.04:743][896]LogSlate: Took 0.017487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.10.25-08.59.19:487][337]LogRenderer: Reallocating scene render targets to support 964x540 Format 10 NumSamples 1 (Frame:1).
+[2017.10.25-08.59.33:058][131]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-08.59.33:112][131]LogBlueprint: Error: [Compiler InteractableObject_Default] In use pin  Items  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.10.25-08.59.33:112][131]LogBlueprint: Error: [Compiler InteractableObject_Default] In use pin  Items  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.10.25-08.59.33:114][131]LogBlueprint: Error: [Compiler HUDWidget] In use pin  Items  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.10.25-08.59.33:119][131]LogBlueprint: Error: [Compiler HUDWidget] Binding: Property ' TextDelegate ' on Widget ' TextBlock_1 ': Binding: 'GetText_Items' : 'GetText_Items' was not found on 'HUDWidget'.
+[2017.10.25-08.59.33:122][131]LogClass: Warning: Type mismatch in items of MainPlayerController_C - Previous (FloatProperty) Current(IntProperty) for package:  FObjectReader
+[2017.10.25-08.59.33:129][131]LogBlueprint: Warning: [Compiler InteractableObject_Default] [0330.46] Compile of InteractableObject_Default failed. 2 Fatal Issue(s) 0 Warning(s) [in 65 ms] (/Game/Blueprints/InteractableObject_Default.InteractableObject_Default)
+[2017.10.25-08.59.33:129][131]LogBlueprint: Warning: [Compiler HUDWidget] [0330.46] Compile of HUDWidget failed. 2 Fatal Issue(s) 0 Warning(s) [in 65 ms] (/Game/Blueprints/HUDWidget.HUDWidget)
+[2017.10.25-08.59.34:105][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-08.59.34:176][165]LogSavePackage: Save=48.39ms
+[2017.10.25-08.59.34:176][165]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController9BD6699E460447046B19089E8E5789BE.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-08.59.34:181][165]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-09.04.20:908][683]BlueprintLog: New page: Compile InteractableObject_Default
+[2017.10.25-09.04.23:508][726]LogSavePackage: Save=101.12ms
+[2017.10.25-09.04.23:508][726]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_Default9D80320A42C14AC94460399D51D09846.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset'
+[2017.10.25-09.04.23:516][726]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset
+[2017.10.25-09.04.25:164][824]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-09.04.25:220][824]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-09.04.29:097][824]PIE: New page: PIE session: Test (25 Oct 2017 13:04:29)
+[2017.10.25-09.04.29:098][824]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-09.04.29:102][824]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003840s)
+[2017.10.25-09.04.29:103][824]LogAIModule: Creating AISystem for world Test
+[2017.10.25-09.04.29:103][824]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2017.10.25-09.04.29:103][824]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.005570s)
+[2017.10.25-09.04.29:138][824]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-09.04.29:147][824]LogInit: FAudioDevice initialized.
+[2017.10.25-09.04.29:180][824]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-09.04.29:182][824]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2017.10.25-11.04.29
+[2017.10.25-09.04.29:183][824]LogWorld: Bringing up level for play took: 0.002172
+[2017.10.25-09.04.29:186][824]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 4.179
+[2017.10.25-09.04.39:927][381]LogSlate: Took 0.000490 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.25-09.04.47:798][835]BlueprintLog: New page: Compile HUDWidget
+[2017.10.25-09.04.47:834][835]LogBlueprint: Error: [Compiler HUDWidget] In use pin  Items  no longer exists on this node. Please refresh node or break links to remove pin.
+[2017.10.25-09.04.47:837][835]LogBlueprint: Error: [Compiler HUDWidget] Binding: Property ' TextDelegate ' on Widget ' TextBlock_1 ': Binding: 'GetText_Items' : 'GetText_Items' was not found on 'HUDWidget'.
+[2017.10.25-09.04.48:115][835]LogBlueprint: Warning: [Compiler HUDWidget] [0645.45] Compile of HUDWidget failed. 2 Fatal Issue(s) 0 Warning(s) [in 317 ms] (/Game/Blueprints/HUDWidget.HUDWidget)
+[2017.10.25-09.05.08:539][ 30]BlueprintLog: New page: Compile HUDWidget
+[2017.10.25-09.05.09:279][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUDWidget" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset" SILENT=true
+[2017.10.25-09.05.09:358][ 52]LogSavePackage: Save=62.44ms
+[2017.10.25-09.05.09:358][ 52]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/HUDWidgetBD9076574FAF3E86FC8048BB1E23F33D.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset'
+[2017.10.25-09.05.09:363][ 52]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset
+[2017.10.25-09.05.11:872][202]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-09.05.11:917][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-09.05.11:917][202]PIE: New page: PIE session: Test (25 Oct 2017 13:05:11)
+[2017.10.25-09.05.11:918][202]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-09.05.11:921][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003487s)
+[2017.10.25-09.05.11:923][202]LogAIModule: Creating AISystem for world Test
+[2017.10.25-09.05.11:923][202]LogPlayLevel: PIE: World Init took: (0.001759s)
+[2017.10.25-09.05.11:924][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.005872s)
+[2017.10.25-09.05.11:959][202]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-09.05.11:967][202]LogInit: FAudioDevice initialized.
+[2017.10.25-09.05.12:006][202]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-09.05.12:008][202]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2017.10.25-11.05.12
+[2017.10.25-09.05.12:009][202]LogWorld: Bringing up level for play took: 0.002422
+[2017.10.25-09.05.12:012][202]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 1.004
+[2017.10.25-09.05.14:452][348]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-09.05.17:609][536]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-09.09.04:472][752]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-09.09.06:652][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-09.09.06:736][786]LogSavePackage: Save=66.63ms
+[2017.10.25-09.09.06:736][786]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController27C80FDC497B2090AF4EC4A797B71BFB.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-09.09.06:743][786]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-09.11.06:464][681]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.25-09.11.06:565][681]LogSavePackage: Save=78.44ms
+[2017.10.25-09.11.06:565][681]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_Auto1589AB8414B4CCF25159C7B895798E5F4.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto1.umap'
+[2017.10.25-09.11.06:567][681]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto1.umap
+[2017.10.25-09.11.06:571][681]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.194
+[2017.10.25-09.11.06:571][681]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.194
+[2017.10.25-09.11.06:574][681]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MainPlayerController] ([1] browsable assets)...
+[2017.10.25-09.11.06:574][681]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MainPlayerController]
+[2017.10.25-09.11.06:668][681]LogSavePackage: Save=86.25ms
+[2017.10.25-09.11.06:668][681]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController_Auto1EC5149FD4E2C2D82A900BAB55683EA9B.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/MainPlayerController_Auto1.uasset'
+[2017.10.25-09.11.06:672][681]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/MainPlayerController_Auto1.uasset
+[2017.10.25-09.11.06:672][681]LogFileHelpers: Auto-saving content packages took 0.100
+[2017.10.25-09.19.19:561][893]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-09.19.21:324][939]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-09.19.21:413][939]LogSavePackage: Save=67.29ms
+[2017.10.25-09.19.21:413][939]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerControllerEDBB0FD44613A9EA61A22D954D605671.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-09.19.21:424][939]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-09.19.23:241][137]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-09.19.23:277][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-09.19.23:277][137]PIE: New page: PIE session: Test (25 Oct 2017 13:19:23)
+[2017.10.25-09.19.23:278][137]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-09.19.23:282][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003886s)
+[2017.10.25-09.19.23:283][137]LogAIModule: Creating AISystem for world Test
+[2017.10.25-09.19.23:283][137]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2017.10.25-09.19.23:284][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.005556s)
+[2017.10.25-09.19.23:323][137]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-09.19.23:332][137]LogInit: FAudioDevice initialized.
+[2017.10.25-09.19.23:365][137]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-09.19.23:368][137]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-11.19.23
+[2017.10.25-09.19.23:368][137]LogWorld: Bringing up level for play took: 0.002252
+[2017.10.25-09.19.23:371][137]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.363
+[2017.10.25-09.19.25:900][412]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-09.19.28:839][731]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-09.20.27:510][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-09.20.27:588][171]LogSavePackage: Save=67.82ms
+[2017.10.25-09.20.27:588][171]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerControllerE83CCEBB4B485299125891B2CB081406.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-09.20.27:593][171]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-09.20.30:310][444]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-09.20.30:331][444]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-09.20.30:331][444]PIE: New page: PIE session: Test (25 Oct 2017 13:20:30)
+[2017.10.25-09.20.30:332][444]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-09.20.30:337][444]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004890s)
+[2017.10.25-09.20.30:338][444]LogAIModule: Creating AISystem for world Test
+[2017.10.25-09.20.30:339][444]LogPlayLevel: PIE: World Init took: (0.001459s)
+[2017.10.25-09.20.30:339][444]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.006727s)
+[2017.10.25-09.20.30:373][444]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-09.20.30:382][444]LogInit: FAudioDevice initialized.
+[2017.10.25-09.20.30:418][444]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-09.20.30:421][444]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-11.20.30
+[2017.10.25-09.20.30:422][444]LogWorld: Bringing up level for play took: 0.002950
+[2017.10.25-09.20.30:425][444]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.583
+[2017.10.25-09.20.33:793][814]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-09.20.36:688][127]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-09.21.34:873][750]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-09.21.37:069][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-09.21.37:147][834]LogSavePackage: Save=68.91ms
+[2017.10.25-09.21.37:147][834]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerControllerB196511146B7034B2EE48984503A3230.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-09.21.37:153][834]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-09.21.41:064][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.25-09.21.41:197][251]LogSavePackage: Save=81.55ms
+[2017.10.25-09.21.41:197][251]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/TestB86C3FF643D366CD6A865AB5BB676740.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap'
+[2017.10.25-09.21.41:203][251]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap
+[2017.10.25-09.21.41:260][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2017.10.25-09.21.41:543][251]LogSavePackage: Save=266.14ms
+[2017.10.25-09.21.41:543][251]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_BuiltDataB48C32F048B78A1BEAD1DDA36EEC46E5.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset'
+[2017.10.25-09.21.41:546][251]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset
+[2017.10.25-09.21.42:053][295]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-09.21.42:075][295]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-09.21.42:075][295]PIE: New page: PIE session: Test (25 Oct 2017 13:21:42)
+[2017.10.25-09.21.42:076][295]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-09.21.42:079][295]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003476s)
+[2017.10.25-09.21.42:080][295]LogAIModule: Creating AISystem for world Test
+[2017.10.25-09.21.42:081][295]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2017.10.25-09.21.42:081][295]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.005068s)
+[2017.10.25-09.21.42:116][295]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-09.21.42:125][295]LogInit: FAudioDevice initialized.
+[2017.10.25-09.21.42:162][295]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-09.21.42:164][295]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-11.21.42
+[2017.10.25-09.21.42:165][295]LogWorld: Bringing up level for play took: 0.002101
+[2017.10.25-09.21.42:168][295]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.84
+[2017.10.25-09.21.44:386][534]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-09.21.47:964][923]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-09.22.30:770][585]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-09.22.30:790][585]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-09.22.30:791][585]PIE: New page: PIE session: Test (25 Oct 2017 13:22:30)
+[2017.10.25-09.22.30:792][585]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-09.22.30:796][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003729s)
+[2017.10.25-09.22.30:797][585]LogAIModule: Creating AISystem for world Test
+[2017.10.25-09.22.30:797][585]LogPlayLevel: PIE: World Init took: (0.001557s)
+[2017.10.25-09.22.30:798][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.005656s)
+[2017.10.25-09.22.30:828][585]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-09.22.30:837][585]LogInit: FAudioDevice initialized.
+[2017.10.25-09.22.30:873][585]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-09.22.30:876][585]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-11.22.30
+[2017.10.25-09.22.30:876][585]LogWorld: Bringing up level for play took: 0.002326
+[2017.10.25-09.22.30:880][585]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.128
+[2017.10.25-09.22.33:163][832]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-09.22.39:158][489]LogBlueprintUserMessages: [InteractableObject_Default_282] Interact Pressed succesfully
+[2017.10.25-09.22.48:401][500]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-09.22.52:299][922]LogBlueprintUserMessages: [InteractableObject_Default5] Interact Pressed succesfully
+[2017.10.25-09.22.54:725][184]LogBlueprintUserMessages: [InteractableObject_Default4] Interact Pressed succesfully
+[2017.10.25-09.22.58:602][604]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-09.23.26:896][753]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-09.23.29:324][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-09.23.29:404][831]LogSavePackage: Save=71.13ms
+[2017.10.25-09.23.29:404][831]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController5704181A49BC519448B840BA5A975B0F.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-09.23.29:409][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-09.23.30:822][979]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-09.23.30:844][979]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-09.23.30:844][979]PIE: New page: PIE session: Test (25 Oct 2017 13:23:30)
+[2017.10.25-09.23.30:846][979]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-09.23.30:849][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003728s)
+[2017.10.25-09.23.30:851][979]LogAIModule: Creating AISystem for world Test
+[2017.10.25-09.23.30:851][979]LogPlayLevel: PIE: World Init took: (0.001474s)
+[2017.10.25-09.23.30:851][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.005597s)
+[2017.10.25-09.23.30:883][979]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-09.23.30:892][979]LogInit: FAudioDevice initialized.
+[2017.10.25-09.23.30:928][979]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-09.23.30:930][979]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-11.23.30
+[2017.10.25-09.23.30:931][979]LogWorld: Bringing up level for play took: 0.002067
+[2017.10.25-09.23.30:934][979]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.074
+[2017.10.25-09.23.32:164][111]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-09.23.32:164][111]LogBlueprintUserMessages: [MainPlayerController_C_0] Sun Fruit added to inventory!
+[2017.10.25-09.23.33:989][309]LogBlueprintUserMessages: [InteractableObject_Default_282] Interact Pressed succesfully
+[2017.10.25-09.23.33:989][309]LogBlueprintUserMessages: [MainPlayerController_C_0] Sun Fruit added to inventory!
+[2017.10.25-09.23.36:934][632]LogBlueprintUserMessages: [InteractableObject_Default4] Interact Pressed succesfully
+[2017.10.25-09.23.36:934][632]LogBlueprintUserMessages: [MainPlayerController_C_0] Sun Fruit added to inventory!
+[2017.10.25-09.23.40:637][ 33]LogBlueprintUserMessages: [InteractableObject_Default5] Interact Pressed succesfully
+[2017.10.25-09.23.40:637][ 33]LogBlueprintUserMessages: [MainPlayerController_C_0] Sun Fruit added to inventory!
+[2017.10.25-09.24.10:042][352]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-09.24.12:960][409]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-09.24.13:038][409]LogSavePackage: Save=69.73ms
+[2017.10.25-09.24.13:038][409]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController45C5414946D25107A7DD9F8419F90739.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-09.24.13:044][409]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-09.24.14:529][563]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-09.24.14:553][563]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-09.24.14:553][563]PIE: New page: PIE session: Test (25 Oct 2017 13:24:14)
+[2017.10.25-09.24.14:554][563]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-09.24.14:559][563]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004441s)
+[2017.10.25-09.24.14:560][563]LogAIModule: Creating AISystem for world Test
+[2017.10.25-09.24.14:560][563]LogPlayLevel: PIE: World Init took: (0.001367s)
+[2017.10.25-09.24.14:560][563]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.006206s)
+[2017.10.25-09.24.14:598][563]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-09.24.14:607][563]LogInit: FAudioDevice initialized.
+[2017.10.25-09.24.14:641][563]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-09.24.14:644][563]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-11.24.14
+[2017.10.25-09.24.14:644][563]LogWorld: Bringing up level for play took: 0.002250
+[2017.10.25-09.24.14:648][563]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.36
+[2017.10.25-09.24.16:225][730]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-09.24.16:225][730]LogBlueprintUserMessages: [MainPlayerController_C_0] Sun Fruit added to inventory!
+[2017.10.25-09.24.19:458][ 84]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-09.24.19:459][ 84]LogBlueprintUserMessages: [MainPlayerController_C_0] Sun Fruit added to inventory!
+[2017.10.25-09.25.28:093][730]BlueprintLog: New page: Compile HUDWidget
+[2017.10.25-09.25.29:191][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUDWidget" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset" SILENT=true
+[2017.10.25-09.25.29:268][802]LogSavePackage: Save=60.58ms
+[2017.10.25-09.25.29:268][802]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/HUDWidgetD1598678443764F1DB80FC8BB4BBC0F7.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset'
+[2017.10.25-09.25.29:273][802]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset
+[2017.10.25-09.25.41:574][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.25-09.25.41:682][161]LogSavePackage: Save=72.07ms
+[2017.10.25-09.25.41:682][161]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test7905C9154F0DE6EEEA0497946301085B.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap'
+[2017.10.25-09.25.41:687][161]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap
+[2017.10.25-09.25.41:729][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2017.10.25-09.25.41:925][161]LogSavePackage: Save=187.29ms
+[2017.10.25-09.25.41:927][161]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_BuiltData38563DCD4E0F5F662026B4A8740D87D3.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset'
+[2017.10.25-09.25.41:934][161]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset
+[2017.10.25-09.26.26:844][939]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-09.26.28:472][977]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-09.26.28:565][977]LogSavePackage: Save=72.90ms
+[2017.10.25-09.26.28:565][977]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController6CF938A940E9F929160FF8950616D6FD.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-09.26.28:571][977]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-09.26.29:917][114]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-09.26.29:938][114]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-09.26.29:939][114]PIE: New page: PIE session: Test (25 Oct 2017 13:26:29)
+[2017.10.25-09.26.29:939][114]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-09.26.29:944][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004603s)
+[2017.10.25-09.26.29:945][114]LogAIModule: Creating AISystem for world Test
+[2017.10.25-09.26.29:945][114]LogPlayLevel: PIE: World Init took: (0.001397s)
+[2017.10.25-09.26.29:946][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.006382s)
+[2017.10.25-09.26.29:980][114]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-09.26.29:988][114]LogInit: FAudioDevice initialized.
+[2017.10.25-09.26.30:023][114]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-09.26.30:026][114]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-11.26.30
+[2017.10.25-09.26.30:026][114]LogWorld: Bringing up level for play took: 0.002164
+[2017.10.25-09.26.30:029][114]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 1.021
+[2017.10.25-09.26.31:445][266]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-09.26.31:445][266]LogBlueprintUserMessages: [MainPlayerController_C_0] Sun Fruit added to inventory!
+[2017.10.25-09.26.33:607][502]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-09.26.33:607][502]LogBlueprintUserMessages: [MainPlayerController_C_0] Sun Fruit added to inventory!
+[2017.10.25-09.26.36:979][870]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-09.26.36:979][870]LogBlueprintUserMessages: [MainPlayerController_C_0] Sun Fruit added to inventory!
+[2017.10.25-09.27.59:175][945]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-09.28.01:079][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-09.28.01:154][993]LogSavePackage: Save=67.15ms
+[2017.10.25-09.28.01:154][993]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerControllerF481C82441639D913C429F93182F5CAE.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-09.28.01:161][993]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-09.28.02:598][139]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-09.28.02:622][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-09.28.02:622][139]PIE: New page: PIE session: Test (25 Oct 2017 13:28:02)
+[2017.10.25-09.28.02:623][139]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-09.28.02:629][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005420s)
+[2017.10.25-09.28.02:630][139]LogAIModule: Creating AISystem for world Test
+[2017.10.25-09.28.02:630][139]LogPlayLevel: PIE: World Init took: (0.001408s)
+[2017.10.25-09.28.02:631][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.007261s)
+[2017.10.25-09.28.02:667][139]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-09.28.02:676][139]LogInit: FAudioDevice initialized.
+[2017.10.25-09.28.02:714][139]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-09.28.02:717][139]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-11.28.02
+[2017.10.25-09.28.02:717][139]LogWorld: Bringing up level for play took: 0.002288
+[2017.10.25-09.28.02:721][139]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.287
+[2017.10.25-09.28.04:354][316]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-09.28.07:336][644]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-09.28.11:982][158]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-09.28.15:673][562]LogBlueprintUserMessages: [InteractableObject_Default5] Interact Pressed succesfully
+[2017.10.25-09.28.23:464][396]LogBlueprintUserMessages: [InteractableObject_Default4] Interact Pressed succesfully
+[2017.10.25-09.35.45:239][426]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-09.35.47:353][482]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-09.35.47:447][482]LogSavePackage: Save=71.73ms
+[2017.10.25-09.35.47:447][482]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController96CB471A423DFB816305C3BD3037D3C4.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-09.35.47:452][482]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-09.36.16:305][591]BlueprintLog: New page: Compile InteractableObject_Default
+[2017.10.25-09.36.19:341][676]LogSavePackage: Save=86.12ms
+[2017.10.25-09.36.19:341][676]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_DefaultCC1997954FE2E4D6CB0E39BFE91B4E25.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset'
+[2017.10.25-09.36.19:346][676]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset
+[2017.10.25-09.36.20:575][792]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-09.36.20:608][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-09.36.20:608][792]PIE: New page: PIE session: Test (25 Oct 2017 13:36:20)
+[2017.10.25-09.36.20:609][792]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-09.36.20:613][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004003s)
+[2017.10.25-09.36.20:614][792]LogAIModule: Creating AISystem for world Test
+[2017.10.25-09.36.20:614][792]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2017.10.25-09.36.20:615][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.005767s)
+[2017.10.25-09.36.20:654][792]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-09.36.20:663][792]LogInit: FAudioDevice initialized.
+[2017.10.25-09.36.20:698][792]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-09.36.20:701][792]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-11.36.20
+[2017.10.25-09.36.20:701][792]LogWorld: Bringing up level for play took: 0.002087
+[2017.10.25-09.36.20:704][792]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.303
+[2017.10.25-09.36.22:588][946]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-09.36.23:861][ 77]LogBlueprintUserMessages: [InteractableObject_Default_282] Interact Pressed succesfully
+[2017.10.25-09.36.26:503][352]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-09.38.58:314][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.25-09.38.58:412][ 74]LogSavePackage: Save=78.76ms
+[2017.10.25-09.38.58:412][ 74]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_Auto2EAD9975243A92A7C34B56DB2275F9C56.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto2.umap'
+[2017.10.25-09.38.58:415][ 74]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto2.umap
+[2017.10.25-09.38.58:418][ 74]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.168
+[2017.10.25-09.38.58:418][ 74]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.168
+[2017.10.25-09.38.58:421][ 74]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/InteractableObject_Default] ([1] browsable assets)...
+[2017.10.25-09.38.58:472][ 74]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/InteractableObject_Default.InteractableObject_Default]
+[2017.10.25-09.38.58:472][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InteractableObject_Default]
+[2017.10.25-09.38.58:634][ 74]LogSavePackage: Save=148.82ms
+[2017.10.25-09.38.58:634][ 74]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_Default_Auto226FED46343E0BDD4762CD28CE012799A.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/InteractableObject_Default_Auto2.uasset'
+[2017.10.25-09.38.58:638][ 74]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/InteractableObject_Default_Auto2.uasset
+[2017.10.25-09.38.58:639][ 74]LogFileHelpers: Auto-saving content packages took 0.219
+[2017.10.25-09.40.36:646][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-09.40.36:727][850]LogSavePackage: Save=71.55ms
+[2017.10.25-09.40.36:727][850]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController9106F111431F82CE285DD88A68112B6F.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-09.40.36:729][850]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-09.40.41:505][300]BlueprintLog: New page: Compile InteractableObject_Default
+[2017.10.25-09.40.43:577][339]LogSavePackage: Save=86.92ms
+[2017.10.25-09.40.43:578][339]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_DefaultB48E6BDA47939EF37747ECA094110947.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset'
+[2017.10.25-09.40.43:588][339]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset
+[2017.10.25-09.41.56:751][649]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-09.41.56:854][649]LogSavePackage: Save=80.19ms
+[2017.10.25-09.41.56:855][649]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController47FE485B4F3F0FB11A899CAA839FCC47.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-09.41.56:862][649]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-09.41.57:302][695]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-09.42.02:048][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.25-09.42.02:193][942]LogSavePackage: Save=91.45ms
+[2017.10.25-09.42.02:193][942]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/TestB887C3F445CA37CBFA3A68942C1C15DF.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap'
+[2017.10.25-09.42.02:200][942]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap
+[2017.10.25-09.42.02:253][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2017.10.25-09.42.02:486][942]LogSavePackage: Save=213.97ms
+[2017.10.25-09.42.02:486][942]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_BuiltDataBFD5B6244B5C7547F5C9AEAD140D780A.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset'
+[2017.10.25-09.42.02:489][942]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset
+[2017.10.25-09.46.32:513][466]BlueprintLog: New page: Compile InteractableObject_Default
+[2017.10.25-09.46.34:392][466]LogSavePackage: Save=89.26ms
+[2017.10.25-09.46.34:392][466]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_Default7D63FDD4457DB48F0981F29889635E23.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset'
+[2017.10.25-09.46.34:399][466]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset
+[2017.10.25-09.46.35:214][538]LogSavePackage: Save=71.26ms
+[2017.10.25-09.46.35:214][538]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_Default19910D0A458E10E3ED08058272C75AC2.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset'
+[2017.10.25-09.46.35:216][538]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset
+[2017.10.25-09.46.37:221][742]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-09.46.37:261][742]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-09.46.37:261][742]PIE: New page: PIE session: Test (25 Oct 2017 13:46:37)
+[2017.10.25-09.46.37:262][742]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-09.46.37:267][742]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004467s)
+[2017.10.25-09.46.37:268][742]LogAIModule: Creating AISystem for world Test
+[2017.10.25-09.46.37:269][742]LogPlayLevel: PIE: World Init took: (0.001677s)
+[2017.10.25-09.46.37:269][742]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.006701s)
+[2017.10.25-09.46.37:307][742]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-09.46.37:318][742]LogInit: FAudioDevice initialized.
+[2017.10.25-09.46.37:353][742]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-09.46.37:355][742]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-11.46.37
+[2017.10.25-09.46.37:356][742]LogWorld: Bringing up level for play took: 0.002483
+[2017.10.25-09.46.37:360][742]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.352
+[2017.10.25-09.46.39:639][970]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-09.46.42:705][275]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-09.46.45:121][518]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-09.46.48:820][889]LogBlueprintUserMessages: [InteractableObject_Default5] Interact Pressed succesfully
+[2017.10.25-09.46.52:865][299]LogBlueprintUserMessages: [InteractableObject_Default4] Interact Pressed succesfully
+[2017.10.25-09.46.55:333][550]LogBlueprintUserMessages: [InteractableObject_Default_282] Interact Pressed succesfully
+[2017.10.25-09.52.32:531][418]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.25-09.52.32:604][418]LogSavePackage: Save=57.18ms
+[2017.10.25-09.52.32:604][418]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_Auto3759DBCFF4CC85E661D083D9AE2AFCD70.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto3.umap'
+[2017.10.25-09.52.32:606][418]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto3.umap
+[2017.10.25-09.52.32:609][418]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.121
+[2017.10.25-09.52.32:609][418]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.121
+[2017.10.25-09.52.32:611][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/InteractableObject_Default] ([1] browsable assets)...
+[2017.10.25-09.52.32:611][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InteractableObject_Default]
+[2017.10.25-09.52.32:676][418]LogSavePackage: Save=49.26ms
+[2017.10.25-09.52.32:676][418]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_Default_Auto3A1C0642149576279C2E36A99A9C4E26C.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/InteractableObject_Default_Auto3.uasset'
+[2017.10.25-09.52.32:678][418]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/InteractableObject_Default_Auto3.uasset
+[2017.10.25-09.52.32:679][418]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MainPlayerController] ([1] browsable assets)...
+[2017.10.25-09.52.32:679][418]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MainPlayerController]
+[2017.10.25-09.52.32:742][418]LogSavePackage: Save=50.55ms
+[2017.10.25-09.52.32:742][418]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController_Auto30C82DD2D431F63A1EDAE789919301C62.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/MainPlayerController_Auto3.uasset'
+[2017.10.25-09.52.32:744][418]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/MainPlayerController_Auto3.uasset
+[2017.10.25-09.52.32:745][418]LogFileHelpers: Auto-saving content packages took 0.134
+[2017.10.25-10.06.47:296][239]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-10.06.47:376][239]LogSavePackage: Save=59.89ms
+[2017.10.25-10.06.47:376][239]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController383026494DF62BF8B8AD08B7B7893445.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-10.06.47:384][239]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-10.06.48:011][276]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-10.08.33:335][ 89]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.25-10.08.33:407][ 89]LogSavePackage: Save=56.25ms
+[2017.10.25-10.08.33:407][ 89]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_Auto4B2AA50964645739A4A49E786D454610C.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto4.umap'
+[2017.10.25-10.08.33:409][ 89]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto4.umap
+[2017.10.25-10.08.33:412][ 89]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.128
+[2017.10.25-10.08.33:412][ 89]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.128
+[2017.10.25-10.08.33:414][ 89]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/InteractableObject_Default] ([1] browsable assets)...
+[2017.10.25-10.08.33:454][ 89]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/InteractableObject_Default.InteractableObject_Default]
+[2017.10.25-10.08.33:454][ 89]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InteractableObject_Default]
+[2017.10.25-10.08.33:526][ 89]LogSavePackage: Save=59.56ms
+[2017.10.25-10.08.33:526][ 89]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_Default_Auto455E6082246D8D20E28A96A8E41D57D04.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/InteractableObject_Default_Auto4.uasset'
+[2017.10.25-10.08.33:528][ 89]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/InteractableObject_Default_Auto4.uasset
+[2017.10.25-10.08.33:528][ 89]LogFileHelpers: Auto-saving content packages took 0.115
+[2017.10.25-10.17.21:083][640]BlueprintLog: New page: Compile InteractableObject_Default
+[2017.10.25-10.17.21:105][640]LogBlueprint: Error: [Compiler InteractableObject_Default] The current value of the ' Context ' pin is invalid: 'Context' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2017.10.25-10.17.21:223][640]LogBlueprint: Warning: [Compiler InteractableObject_Default] [4998.56] Compile of InteractableObject_Default failed. 1 Fatal Issue(s) 0 Warning(s) [in 139 ms] (/Game/Blueprints/InteractableObject_Default.InteractableObject_Default)
+[2017.10.25-10.18.02:609][ 91]BlueprintLog: New page: Compile InteractableObject_Default
+[2017.10.25-10.18.03:689][139]LogSavePackage: Save=72.38ms
+[2017.10.25-10.18.03:689][139]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_Default259FF67E4EFD7104EBCBAF8C0041C844.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset'
+[2017.10.25-10.18.03:697][139]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset
+[2017.10.25-10.18.05:819][266]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-10.18.05:854][266]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-10.18.05:854][266]PIE: New page: PIE session: Test (25 Oct 2017 14:18:05)
+[2017.10.25-10.18.05:855][266]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-10.18.05:858][266]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003038s)
+[2017.10.25-10.18.05:859][266]LogAIModule: Creating AISystem for world Test
+[2017.10.25-10.18.05:859][266]LogPlayLevel: PIE: World Init took: (0.001118s)
+[2017.10.25-10.18.05:859][266]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.004451s)
+[2017.10.25-10.18.05:888][266]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-10.18.05:896][266]LogInit: FAudioDevice initialized.
+[2017.10.25-10.18.05:929][266]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-10.18.05:931][266]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2017.10.25-12.18.05
+[2017.10.25-10.18.05:931][266]LogWorld: Bringing up level for play took: 0.001785
+[2017.10.25-10.18.05:934][266]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.926
+[2017.10.25-10.18.08:368][412]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-10.18.13:686][731]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-10.18.36:009][ 42]BlueprintLog: New page: Compile InteractableObject_Default
+[2017.10.25-10.18.37:518][ 79]LogSavePackage: Save=58.11ms
+[2017.10.25-10.18.37:518][ 79]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_DefaultCA003B6E45788D4AD2E197AFD092F923.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset'
+[2017.10.25-10.18.37:522][ 79]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset
+[2017.10.25-10.19.02:966][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.25-10.19.03:030][213]LogSavePackage: Save=50.26ms
+[2017.10.25-10.19.03:030][213]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_Auto55A340CF043F975042962A7ABCCD5BB13.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto5.umap'
+[2017.10.25-10.19.03:032][213]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto5.umap
+[2017.10.25-10.19.03:037][213]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.108
+[2017.10.25-10.19.03:037][213]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.108
+[2017.10.25-10.29.03:905][356]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.044
+[2017.10.25-10.29.03:907][356]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/InteractableObject_Default] ([1] browsable assets)...
+[2017.10.25-10.29.03:949][356]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/InteractableObject_Default.InteractableObject_Default]
+[2017.10.25-10.29.03:949][356]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InteractableObject_Default]
+[2017.10.25-10.29.04:027][356]LogSavePackage: Save=61.34ms
+[2017.10.25-10.29.04:027][356]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_Default_Auto63EC182BB499A7F817FCD7B9B6B5A9088.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/InteractableObject_Default_Auto6.uasset'
+[2017.10.25-10.29.04:030][356]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/InteractableObject_Default_Auto6.uasset
+[2017.10.25-10.29.04:030][356]LogFileHelpers: Auto-saving content packages took 0.124
+[2017.10.25-10.33.14:486][110]LogSlate: Took 0.057909 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.10.25-10.34.22:628][200]BlueprintLog: New page: Compile HUDWidget
+[2017.10.25-10.34.23:714][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUDWidget" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset" SILENT=true
+[2017.10.25-10.34.23:772][281]LogSavePackage: Save=42.82ms
+[2017.10.25-10.34.23:772][281]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/HUDWidget5597763B4E9CDD7B91EF45A8D7670703.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset'
+[2017.10.25-10.34.23:776][281]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset
+[2017.10.25-10.34.25:398][463]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-10.34.25:443][463]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.25-10.34.25:451][463]LogPlayLevel: [PlayLevel] Compiling InteractableObject_Default before play...
+[2017.10.25-10.34.26:226][463]LogPlayLevel: PlayLevel: Blueprint regeneration took 783 ms (1 blueprints)
+[2017.10.25-10.34.26:227][463]PIE: New page: PIE session: Test (25 Oct 2017 14:34:26)
+[2017.10.25-10.34.26:228][463]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-10.34.26:231][463]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002877s)
+[2017.10.25-10.34.26:232][463]LogAIModule: Creating AISystem for world Test
+[2017.10.25-10.34.26:232][463]LogPlayLevel: PIE: World Init took: (0.001573s)
+[2017.10.25-10.34.26:233][463]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.004983s)
+[2017.10.25-10.34.26:255][463]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-10.34.26:262][463]LogInit: FAudioDevice initialized.
+[2017.10.25-10.34.26:293][463]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-10.34.26:295][463]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-12.34.26
+[2017.10.25-10.34.26:295][463]LogWorld: Bringing up level for play took: 0.001814
+[2017.10.25-10.34.26:298][463]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 1.29
+[2017.10.25-10.34.28:711][708]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-10.34.34:006][264]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-10.34.37:277][610]LogBlueprintUserMessages: [InteractableObject_Default5] Interact Pressed succesfully
+[2017.10.25-10.34.42:399][182]LogBlueprintUserMessages: [InteractableObject_Default_282] Interact Pressed succesfully
+[2017.10.25-10.34.44:302][404]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-10.34.49:078][963]LogBlueprintUserMessages: [InteractableObject_Default4] Interact Pressed succesfully
+[2017.10.25-10.38.19:563][823]BlueprintLog: New page: Compile InteractableObject_Default
+[2017.10.25-10.38.25:168][359]LogSavePackage: Save=65.57ms
+[2017.10.25-10.38.25:168][359]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_DefaultCBC9CF9F471150E299AAC8AE8236BA05.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset'
+[2017.10.25-10.38.25:173][359]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset
+[2017.10.25-10.38.26:769][544]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-10.38.26:799][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-10.38.26:799][544]PIE: New page: PIE session: Test (25 Oct 2017 14:38:26)
+[2017.10.25-10.38.26:800][544]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-10.38.26:804][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003502s)
+[2017.10.25-10.38.26:805][544]LogAIModule: Creating AISystem for world Test
+[2017.10.25-10.38.26:805][544]LogPlayLevel: PIE: World Init took: (0.001138s)
+[2017.10.25-10.38.26:805][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.005021s)
+[2017.10.25-10.38.26:829][544]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-10.38.26:836][544]LogInit: FAudioDevice initialized.
+[2017.10.25-10.38.26:869][544]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-10.38.26:871][544]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-12.38.26
+[2017.10.25-10.38.26:871][544]LogWorld: Bringing up level for play took: 0.001838
+[2017.10.25-10.38.26:874][544]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.134
+[2017.10.25-10.38.29:431][843]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3
+	InteractableObject_Default_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.InteractableObject_Default2
+	Function /Game/Blueprints/InteractableObject_Default.InteractableObject_Default_C:ExecuteUbergraph_InteractableObject_Default:0090
+[2017.10.25-10.38.29:432][843]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3 from function: 'ExecuteUbergraph_InteractableObject_Default' from node: Reset Notification in graph: EventGraph in object: InteractableObject_Default with description: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3
+[2017.10.25-10.38.33:598][330]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-10.38.36:488][669]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-10.38.39:260][993]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3
+	InteractableObject_Default_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.InteractableObject_Default5
+	Function /Game/Blueprints/InteractableObject_Default.InteractableObject_Default_C:ExecuteUbergraph_InteractableObject_Default:0090
+[2017.10.25-10.38.39:260][993]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3 from function: 'ExecuteUbergraph_InteractableObject_Default' from node: Reset Notification in graph: EventGraph in object: InteractableObject_Default with description: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3
+[2017.10.25-10.40.33:817][831]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.25-10.40.33:882][831]LogSavePackage: Save=52.25ms
+[2017.10.25-10.40.33:882][831]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_Auto7873411E642E0857CDCA8258B9AA1ACBF.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto7.umap'
+[2017.10.25-10.40.33:885][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto7.umap
+[2017.10.25-10.40.33:887][831]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.103
+[2017.10.25-10.40.33:887][831]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.103
+[2017.10.25-10.45.38:851][258]BlueprintLog: New page: Compile InteractableObject_Default
+[2017.10.25-10.45.40:240][302]LogSavePackage: Save=67.73ms
+[2017.10.25-10.45.40:240][302]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_Default317F79464FF2ACDA08ABBFBF02E05873.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset'
+[2017.10.25-10.45.40:245][302]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset
+[2017.10.25-10.45.44:509][522]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-10.45.44:535][522]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-10.45.44:536][522]PIE: New page: PIE session: Test (25 Oct 2017 14:45:44)
+[2017.10.25-10.45.44:536][522]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-10.45.44:539][522]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002955s)
+[2017.10.25-10.45.44:540][522]LogAIModule: Creating AISystem for world Test
+[2017.10.25-10.45.44:540][522]LogPlayLevel: PIE: World Init took: (0.001003s)
+[2017.10.25-10.45.44:541][522]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.004274s)
+[2017.10.25-10.45.44:564][522]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-10.45.44:572][522]LogInit: FAudioDevice initialized.
+[2017.10.25-10.45.44:606][522]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-10.45.44:608][522]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-12.45.44
+[2017.10.25-10.45.44:608][522]LogWorld: Bringing up level for play took: 0.001626
+[2017.10.25-10.45.44:611][522]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.397
+[2017.10.25-10.45.47:166][820]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3
+	InteractableObject_Default_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.InteractableObject_Default2
+	Function /Game/Blueprints/InteractableObject_Default.InteractableObject_Default_C:ExecuteUbergraph_InteractableObject_Default:011E
+[2017.10.25-10.45.47:166][820]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3 from function: 'ExecuteUbergraph_InteractableObject_Default' from node: Reset Notification in graph: EventGraph in object: InteractableObject_Default with description: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3
+[2017.10.25-10.45.59:963][338]LogBlueprintUserMessages: [InteractableObject_Default5] Interact Pressed succesfully
+[2017.10.25-10.46.20:683][764]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-10.46.20:702][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-10.46.20:703][764]PIE: New page: PIE session: Test (25 Oct 2017 14:46:20)
+[2017.10.25-10.46.20:703][764]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-10.46.20:707][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003736s)
+[2017.10.25-10.46.20:708][764]LogAIModule: Creating AISystem for world Test
+[2017.10.25-10.46.20:709][764]LogPlayLevel: PIE: World Init took: (0.001431s)
+[2017.10.25-10.46.20:709][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.005525s)
+[2017.10.25-10.46.20:734][764]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-10.46.20:741][764]LogInit: FAudioDevice initialized.
+[2017.10.25-10.46.20:777][764]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-10.46.20:779][764]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-12.46.20
+[2017.10.25-10.46.20:779][764]LogWorld: Bringing up level for play took: 0.001702
+[2017.10.25-10.46.20:782][764]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.226
+[2017.10.25-10.46.22:518][966]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-10.47.08:002][372]BlueprintLog: New page: Compile InteractableObject_Default
+[2017.10.25-10.47.09:377][415]LogSavePackage: Save=60.25ms
+[2017.10.25-10.47.09:377][415]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_Default211280F74FF3BF1AB67B299CA098427A.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset'
+[2017.10.25-10.47.09:381][415]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset
+[2017.10.25-10.47.11:277][629]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-10.47.11:304][629]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-10.47.11:304][629]PIE: New page: PIE session: Test (25 Oct 2017 14:47:11)
+[2017.10.25-10.47.11:305][629]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-10.47.11:308][629]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002779s)
+[2017.10.25-10.47.11:308][629]LogAIModule: Creating AISystem for world Test
+[2017.10.25-10.47.11:309][629]LogPlayLevel: PIE: World Init took: (0.001054s)
+[2017.10.25-10.47.11:309][629]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.004318s)
+[2017.10.25-10.47.11:339][629]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-10.47.11:345][629]LogInit: FAudioDevice initialized.
+[2017.10.25-10.47.11:381][629]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-10.47.11:382][629]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-12.47.11
+[2017.10.25-10.47.11:383][629]LogWorld: Bringing up level for play took: 0.001610
+[2017.10.25-10.47.11:385][629]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.377
+[2017.10.25-10.47.14:225][960]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3
+	InteractableObject_Default_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.InteractableObject_Default2
+	Function /Game/Blueprints/InteractableObject_Default.InteractableObject_Default_C:ExecuteUbergraph_InteractableObject_Default:04E0
+[2017.10.25-10.47.14:226][960]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3 from function: 'ExecuteUbergraph_InteractableObject_Default' from node: Reset Notification in graph: EventGraph in object: InteractableObject_Default with description: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3
+[2017.10.25-10.47.17:141][303]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3
+	InteractableObject_Default_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.InteractableObject_Default2
+	Function /Game/Blueprints/InteractableObject_Default.InteractableObject_Default_C:ExecuteUbergraph_InteractableObject_Default:04E0
+[2017.10.25-10.47.17:141][303]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3 from function: 'ExecuteUbergraph_InteractableObject_Default' from node: Reset Notification in graph: EventGraph in object: InteractableObject_Default with description: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3
+[2017.10.25-10.48.51:532][491]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-10.48.53:637][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-10.48.53:700][623]LogSavePackage: Save=49.00ms
+[2017.10.25-10.48.53:701][623]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerControllerB15A082B4F65925447EA07904AAF2133.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-10.48.53:705][623]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-10.48.55:218][794]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-10.48.55:240][794]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-10.48.55:240][794]PIE: New page: PIE session: Test (25 Oct 2017 14:48:55)
+[2017.10.25-10.48.55:241][794]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-10.48.55:245][794]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003993s)
+[2017.10.25-10.48.55:246][794]LogAIModule: Creating AISystem for world Test
+[2017.10.25-10.48.55:247][794]LogPlayLevel: PIE: World Init took: (0.001346s)
+[2017.10.25-10.48.55:247][794]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.005703s)
+[2017.10.25-10.48.55:274][794]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-10.48.55:281][794]LogInit: FAudioDevice initialized.
+[2017.10.25-10.48.55:314][794]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-10.48.55:316][794]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-12.48.55
+[2017.10.25-10.48.55:317][794]LogWorld: Bringing up level for play took: 0.001735
+[2017.10.25-10.48.55:319][794]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.311
+[2017.10.25-10.48.58:100][119]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3
+	InteractableObject_Default_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.InteractableObject_Default2
+	Function /Game/Blueprints/InteractableObject_Default.InteractableObject_Default_C:ExecuteUbergraph_InteractableObject_Default:04E0
+[2017.10.25-10.48.58:101][119]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3 from function: 'ExecuteUbergraph_InteractableObject_Default' from node: Reset Notification in graph: EventGraph in object: InteractableObject_Default with description: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3
+[2017.10.25-10.49.00:253][370]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3
+	InteractableObject_Default_C /Game/Maps/UEDPIE_0_Test.Test:PersistentLevel.InteractableObject_Default3
+	Function /Game/Blueprints/InteractableObject_Default.InteractableObject_Default_C:ExecuteUbergraph_InteractableObject_Default:04E0
+[2017.10.25-10.49.00:254][370]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3 from function: 'ExecuteUbergraph_InteractableObject_Default' from node: Reset Notification in graph: EventGraph in object: InteractableObject_Default with description: Accessed None trying to read property K2Node_DynamicCast_AsMain_Player_Controller3
+[2017.10.25-10.49.01:548][521]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-10.49.04:237][835]LogBlueprintUserMessages: [InteractableObject_Default5] Interact Pressed succesfully
+[2017.10.25-10.49.06:548][105]LogBlueprintUserMessages: [InteractableObject_Default4] Interact Pressed succesfully
+[2017.10.25-10.49.08:098][286]LogBlueprintUserMessages: [InteractableObject_Default_282] Interact Pressed succesfully
+[2017.10.25-10.49.09:831][487]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-10.49.13:526][918]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-10.50.01:601][360]BlueprintLog: New page: Compile InteractableObject_Default
+[2017.10.25-10.50.02:959][398]LogSavePackage: Save=59.70ms
+[2017.10.25-10.50.02:959][398]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_Default23A90B4D4B3880C4E57CE481A101D8D0.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset'
+[2017.10.25-10.50.02:963][398]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset
+[2017.10.25-10.50.04:182][534]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-10.50.04:208][534]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-10.50.04:208][534]PIE: New page: PIE session: Test (25 Oct 2017 14:50:04)
+[2017.10.25-10.50.04:209][534]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-10.50.04:212][534]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002823s)
+[2017.10.25-10.50.04:213][534]LogAIModule: Creating AISystem for world Test
+[2017.10.25-10.50.04:213][534]LogPlayLevel: PIE: World Init took: (0.001178s)
+[2017.10.25-10.50.04:213][534]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.004361s)
+[2017.10.25-10.50.04:242][534]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-10.50.04:248][534]LogInit: FAudioDevice initialized.
+[2017.10.25-10.50.04:280][534]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-10.50.04:282][534]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-12.50.04
+[2017.10.25-10.50.04:283][534]LogWorld: Bringing up level for play took: 0.001864
+[2017.10.25-10.50.04:285][534]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.723
+[2017.10.25-10.50.10:297][234]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-10.50.15:351][824]LogBlueprintUserMessages: [InteractableObject_Default4] Interact Pressed succesfully
+[2017.10.25-10.50.17:456][ 69]LogBlueprintUserMessages: [InteractableObject_Default_282] Interact Pressed succesfully
+[2017.10.25-10.50.22:713][683]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-10.52.00:045][275]BlueprintLog: New page: Compile InteractableObject_Default
+[2017.10.25-10.52.03:446][556]LogSavePackage: Save=74.14ms
+[2017.10.25-10.52.03:446][556]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_DefaultC699D9CD4652C243AF6EC6B9B017C8CD.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset'
+[2017.10.25-10.52.03:451][556]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset
+[2017.10.25-10.52.06:500][892]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-10.52.06:530][892]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-10.52.06:530][892]PIE: New page: PIE session: Test (25 Oct 2017 14:52:06)
+[2017.10.25-10.52.06:531][892]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-10.52.06:535][892]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003465s)
+[2017.10.25-10.52.06:536][892]LogAIModule: Creating AISystem for world Test
+[2017.10.25-10.52.06:536][892]LogPlayLevel: PIE: World Init took: (0.001261s)
+[2017.10.25-10.52.06:537][892]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.005148s)
+[2017.10.25-10.52.06:567][892]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-10.52.06:575][892]LogInit: FAudioDevice initialized.
+[2017.10.25-10.52.06:607][892]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-10.52.06:609][892]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-12.52.06
+[2017.10.25-10.52.06:609][892]LogWorld: Bringing up level for play took: 0.001706
+[2017.10.25-10.52.06:612][892]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.396
+[2017.10.25-10.52.10:049][292]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-10.52.12:734][607]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-10.52.15:888][978]LogBlueprintUserMessages: [InteractableObject_Default5] Interact Pressed succesfully
+[2017.10.25-10.52.26:996][262]LogBlueprintUserMessages: [InteractableObject_Default4] Interact Pressed succesfully
+[2017.10.25-10.52.30:949][732]LogBlueprintUserMessages: [InteractableObject_Default_282] Interact Pressed succesfully
+[2017.10.25-10.52.33:175][993]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-10.55.02:974][690]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-10.55.05:044][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-10.55.05:109][812]LogSavePackage: Save=51.04ms
+[2017.10.25-10.55.05:109][812]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController5FFB5F234F789C680BAFEFA70513698F.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-10.55.05:114][812]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-10.57.44:345][981]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto8.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.25-10.57.44:433][981]LogSavePackage: Save=66.08ms
+[2017.10.25-10.57.44:433][981]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_Auto81B74329B4E066130713D80862A56C1AD.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto8.umap'
+[2017.10.25-10.57.44:436][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto8.umap
+[2017.10.25-10.57.44:439][981]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.135
+[2017.10.25-10.57.44:439][981]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.135
+[2017.10.25-10.57.44:442][981]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/InteractableObject_Default] ([1] browsable assets)...
+[2017.10.25-10.57.44:484][981]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/InteractableObject_Default.InteractableObject_Default]
+[2017.10.25-10.57.44:484][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InteractableObject_Default]
+[2017.10.25-10.57.44:563][981]LogSavePackage: Save=65.53ms
+[2017.10.25-10.57.44:563][981]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_Default_Auto8730E7A6F47977BD7426AFEA8A3C29573.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/InteractableObject_Default_Auto8.uasset'
+[2017.10.25-10.57.44:566][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/InteractableObject_Default_Auto8.uasset
+[2017.10.25-10.57.44:567][981]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MainPlayerController] ([1] browsable assets)...
+[2017.10.25-10.57.44:567][981]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MainPlayerController]
+[2017.10.25-10.57.44:625][981]LogSavePackage: Save=50.44ms
+[2017.10.25-10.57.44:625][981]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController_Auto858FF0154479C4EA1893FF0BA8776FBB5.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/MainPlayerController_Auto8.uasset'
+[2017.10.25-10.57.44:627][981]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/MainPlayerController_Auto8.uasset
+[2017.10.25-10.57.44:627][981]LogFileHelpers: Auto-saving content packages took 0.187
+[2017.10.25-11.00.55:711][939]LogEditorTransaction: Undo Move Node
+[2017.10.25-11.00.56:112][981]LogEditorTransaction: Undo Delete current selection
+[2017.10.25-11.01.28:242][768]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-11.01.29:641][809]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-11.01.29:709][809]LogSavePackage: Save=53.99ms
+[2017.10.25-11.01.29:709][809]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController7B763094488CB07DF3F7D6B28BCD09E8.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-11.01.29:717][809]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-11.01.31:202][975]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-11.01.31:222][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-11.01.31:222][975]PIE: New page: PIE session: Test (25 Oct 2017 15:01:31)
+[2017.10.25-11.01.31:223][975]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-11.01.31:227][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004097s)
+[2017.10.25-11.01.31:228][975]LogAIModule: Creating AISystem for world Test
+[2017.10.25-11.01.31:228][975]LogPlayLevel: PIE: World Init took: (0.001236s)
+[2017.10.25-11.01.31:228][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.005762s)
+[2017.10.25-11.01.31:254][975]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-11.01.31:261][975]LogInit: FAudioDevice initialized.
+[2017.10.25-11.01.31:296][975]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-11.01.31:298][975]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-13.01.31
+[2017.10.25-11.01.31:298][975]LogWorld: Bringing up level for play took: 0.001694
+[2017.10.25-11.01.31:301][975]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.293
+[2017.10.25-11.01.36:469][577]LogBlueprintUserMessages: [InteractableObject_Default4] Interact Pressed succesfully
+[2017.10.25-11.01.40:597][ 63]LogBlueprintUserMessages: [InteractableObject_Default5] Interact Pressed succesfully
+[2017.10.25-11.01.50:277][203]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-11.04.05:483][306]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-11.04.06:994][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-11.04.07:058][358]LogSavePackage: Save=55.95ms
+[2017.10.25-11.04.07:058][358]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController8DCAB2E048DEED78DEF094B3E175F7E8.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-11.04.07:062][358]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-11.04.37:090][928]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-11.04.38:474][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-11.04.38:540][976]LogSavePackage: Save=57.77ms
+[2017.10.25-11.04.38:540][976]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerControllerC50FDD3E4CE950FF99556EAB44C29C97.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-11.04.38:544][976]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-11.05.25:450][523]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-11.05.26:863][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-11.05.26:926][572]LogSavePackage: Save=54.87ms
+[2017.10.25-11.05.26:926][572]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerControllerD35A228B49078886F0D9F18FC5152568.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-11.05.26:930][572]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-11.05.28:371][735]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-11.05.28:390][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-11.05.28:390][735]PIE: New page: PIE session: Test (25 Oct 2017 15:05:28)
+[2017.10.25-11.05.28:391][735]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-11.05.28:394][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002984s)
+[2017.10.25-11.05.28:395][735]LogAIModule: Creating AISystem for world Test
+[2017.10.25-11.05.28:396][735]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2017.10.25-11.05.28:396][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.004516s)
+[2017.10.25-11.05.28:423][735]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-11.05.28:430][735]LogInit: FAudioDevice initialized.
+[2017.10.25-11.05.28:462][735]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-11.05.28:464][735]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-13.05.28
+[2017.10.25-11.05.28:464][735]LogWorld: Bringing up level for play took: 0.001697
+[2017.10.25-11.05.28:467][735]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.541
+[2017.10.25-11.05.36:686][705]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-11.05.40:822][193]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-11.05.51:341][431]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-11.05.52:520][570]LogBlueprintUserMessages: [InteractableObject_Default_282] Interact Pressed succesfully
+[2017.10.25-11.05.55:023][865]LogBlueprintUserMessages: [InteractableObject_Default4] Interact Pressed succesfully
+[2017.10.25-11.06.01:864][673]LogBlueprintUserMessages: [InteractableObject_Default5] Interact Pressed succesfully
+[2017.10.25-11.06.03:161][818]Cmd: SELECT NONE
+[2017.10.25-11.06.12:332][884]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-11.06.13:648][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-11.06.13:710][923]LogSavePackage: Save=55.01ms
+[2017.10.25-11.06.13:711][923]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController37CD6FF140D5AAAA2A9917853BFEC5E8.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-11.06.13:715][923]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-11.06.15:073][ 78]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-11.06.15:092][ 78]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-11.06.15:092][ 78]PIE: New page: PIE session: Test (25 Oct 2017 15:06:15)
+[2017.10.25-11.06.15:093][ 78]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-11.06.15:097][ 78]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003730s)
+[2017.10.25-11.06.15:098][ 78]LogAIModule: Creating AISystem for world Test
+[2017.10.25-11.06.15:098][ 78]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2017.10.25-11.06.15:098][ 78]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.005176s)
+[2017.10.25-11.06.15:125][ 78]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-11.06.15:131][ 78]LogInit: FAudioDevice initialized.
+[2017.10.25-11.06.15:162][ 78]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-11.06.15:164][ 78]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-13.06.15
+[2017.10.25-11.06.15:165][ 78]LogWorld: Bringing up level for play took: 0.001656
+[2017.10.25-11.06.15:167][ 78]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.159
+[2017.10.25-11.06.18:186][433]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-11.06.26:128][357]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-11.06.29:230][722]LogBlueprintUserMessages: [InteractableObject_Default5] Interact Pressed succesfully
+[2017.10.25-11.06.32:086][ 57]LogBlueprintUserMessages: [InteractableObject_Default4] Interact Pressed succesfully
+[2017.10.25-11.06.36:797][537]LogBlueprintUserMessages: [InteractableObject_Default_282] Interact Pressed succesfully
+[2017.10.25-11.06.46:085][615]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-11.07.05:808][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.25-11.07.05:904][846]LogSavePackage: Save=54.66ms
+[2017.10.25-11.07.05:904][846]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test7D885FC54D145E7132A7C2903FD88B37.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap'
+[2017.10.25-11.07.05:911][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap
+[2017.10.25-11.07.05:939][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2017.10.25-11.07.06:090][846]LogSavePackage: Save=137.41ms
+[2017.10.25-11.07.06:091][846]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_BuiltDataC470E5F04603D6987E4F34995BBD9EFA.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset'
+[2017.10.25-11.07.06:092][846]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset
+[2017.10.25-11.07.14:223][659]LogSavePackage: Save=64.22ms
+[2017.10.25-11.07.14:223][659]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_Default5F097E2C4C1F5214D59BA7AE071CDB9F.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset'
+[2017.10.25-11.07.14:227][659]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset
+[2017.10.25-11.07.20:778][381]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-11.07.20:799][381]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-11.07.20:799][381]PIE: New page: PIE session: Test (25 Oct 2017 15:07:20)
+[2017.10.25-11.07.20:801][381]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-11.07.20:804][381]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003085s)
+[2017.10.25-11.07.20:805][381]LogAIModule: Creating AISystem for world Test
+[2017.10.25-11.07.20:805][381]LogPlayLevel: PIE: World Init took: (0.001327s)
+[2017.10.25-11.07.20:806][381]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.004747s)
+[2017.10.25-11.07.20:833][381]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-11.07.20:840][381]LogInit: FAudioDevice initialized.
+[2017.10.25-11.07.20:877][381]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-11.07.20:878][381]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-13.07.20
+[2017.10.25-11.07.20:879][381]LogWorld: Bringing up level for play took: 0.001691
+[2017.10.25-11.07.20:881][381]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.126
+[2017.10.25-11.07.22:565][577]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-11.07.23:947][739]LogBlueprintUserMessages: [InteractableObject_Default_282] Interact Pressed succesfully
+[2017.10.25-11.07.27:240][124]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-11.07.29:874][432]LogBlueprintUserMessages: [InteractableObject_Default5] Interact Pressed succesfully
+[2017.10.25-11.07.33:306][836]LogBlueprintUserMessages: [InteractableObject_Default4] Interact Pressed succesfully
+[2017.10.25-11.07.37:077][278]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-11.12.17:073][ 75]BlueprintLog: New page: Compile MainPlayerController
+[2017.10.25-11.12.19:435][229]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-11.12.19:521][229]LogSavePackage: Save=69.44ms
+[2017.10.25-11.12.19:521][229]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerControllerFACFDC9D405D96851B7BD3932AC3F3F8.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-11.12.19:526][229]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-11.12.44:444][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.25-11.12.44:534][163]LogSavePackage: Save=53.06ms
+[2017.10.25-11.12.44:534][163]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test8DE11649479AEB8EB1252DB6D0F4A1A3.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap'
+[2017.10.25-11.12.44:538][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap
+[2017.10.25-11.12.44:586][163]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2017.10.25-11.12.44:718][163]LogSavePackage: Save=119.61ms
+[2017.10.25-11.12.44:718][163]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_BuiltData852A965745D0AA7BE80C7D89DED85ACE.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset'
+[2017.10.25-11.12.44:720][163]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset
+[2017.10.25-11.13.36:784][335]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-11.13.36:813][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-11.13.36:813][335]PIE: New page: PIE session: Test (25 Oct 2017 15:13:36)
+[2017.10.25-11.13.36:814][335]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-11.13.36:818][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003832s)
+[2017.10.25-11.13.36:820][335]LogAIModule: Creating AISystem for world Test
+[2017.10.25-11.13.36:820][335]LogPlayLevel: PIE: World Init took: (0.001613s)
+[2017.10.25-11.13.36:820][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.005838s)
+[2017.10.25-11.13.36:847][335]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-11.13.36:855][335]LogInit: FAudioDevice initialized.
+[2017.10.25-11.13.36:890][335]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-11.13.36:892][335]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-13.13.36
+[2017.10.25-11.13.36:892][335]LogWorld: Bringing up level for play took: 0.001937
+[2017.10.25-11.13.36:895][335]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.112
+[2017.10.25-11.13.38:873][566]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-11.13.43:542][107]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-11.13.49:396][794]LogBlueprintUserMessages: [InteractableObject_Default_282] Interact Pressed succesfully
+[2017.10.25-11.13.56:699][654]LogBlueprintUserMessages: [InteractableObject_Default5] Interact Pressed succesfully
+[2017.10.25-11.13.59:397][969]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-11.14.05:864][725]LogBlueprintUserMessages: [InteractableObject_Default4] Interact Pressed succesfully
+[2017.10.25-11.14.19:246][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2017.10.25-11.14.43:360][473]MapCheck: New page: Map Check
+[2017.10.25-11.14.43:401][473]LightingResults: New page: Lighting Build - 25 Oct 2017 15:14:43
+[2017.10.25-11.14.43:611][473]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.10.25-11.14.43:747][473]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.10.25-11.14.43:820][473]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.10.25-11.14.44:877][473]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.10.25-11.14.44:877][473]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1940
+[2017.10.25-11.14.48:464][473]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.10.25-11.14.48:481][473]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.10.25-11.14.48:481][473]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.10.25-11.14.48:481][473]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.10.25-11.14.48:481][473]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.10.25-11.14.48:481][473]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.10.25-11.14.48:662][473]LogEditorBuildUtils: Build time 0:05
+[2017.10.25-11.14.55:658][735]Job is a success!
+[2017.10.25-11.14.56:296][736]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2017.10.25-11.14.56:296][736]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2017.10.25-11.14.56:296][736]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2017.10.25-11.14.56:296][736]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2017.10.25-11.14.56:296][736]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2017.10.25-11.14.56:296][736]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2017.10.25-11.14.56:682][736]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2017.10.25-11.14.56:682][736]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2017.10.25-11.14.56:774][736]Lightmass on DESKTOP-O65I7RR: 5.84 sec total, 220 ms importing, 53 ms setup, 685 ms photons, 4.85 sec processing, 0 ms extra exporting [37/37 mappings]. Threads: 19.3 sec total, 10.9 sec processing.
+[2017.10.25-11.14.56:817][736]LogStaticLightingSystem: Illumination: 13.3 sec (527 ms encoding lightmaps, 380 ms encoding shadowmaps)
+[2017.10.25-11.14.56:817][736]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (2.5 MB streaming, 0.0 MB non-streaming), 6 textures
+[2017.10.25-11.14.56:817][736]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.10.25-11.14.57:473][736]DumpUnbuiltLightIteractions
+[2017.10.25-11.14.57:473][736]Lights with unbuilt interactions: 0
+[2017.10.25-11.14.57:473][736]
+[2017.10.25-11.14.57:473][736]Primitives with unbuilt interactions: 0
+[2017.10.25-11.14.57:495][737]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.10.25-11.14.57:496][737]MapCheck: New page: Test - 25 Oct 2017 15:14:57
+[2017.10.25-11.14.57:588][737]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 92.836ms to complete.
+[2017.10.25-11.14.59:139][826]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-11.14.59:162][826]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-11.14.59:162][826]PIE: New page: PIE session: Test (25 Oct 2017 15:14:59)
+[2017.10.25-11.14.59:163][826]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-11.14.59:168][826]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004816s)
+[2017.10.25-11.14.59:169][826]LogAIModule: Creating AISystem for world Test
+[2017.10.25-11.14.59:170][826]LogPlayLevel: PIE: World Init took: (0.001622s)
+[2017.10.25-11.14.59:170][826]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.006931s)
+[2017.10.25-11.14.59:192][826]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-11.14.59:199][826]LogInit: FAudioDevice initialized.
+[2017.10.25-11.14.59:231][826]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-11.14.59:234][826]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-13.14.59
+[2017.10.25-11.14.59:234][826]LogWorld: Bringing up level for play took: 0.002677
+[2017.10.25-11.14.59:237][826]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.229
+[2017.10.25-11.15.02:002][145]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-11.15.05:865][594]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-11.15.07:779][817]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-11.15.10:256][106]LogBlueprintUserMessages: [InteractableObject_Default5] Interact Pressed succesfully
+[2017.10.25-11.15.13:421][477]LogBlueprintUserMessages: [InteractableObject_Default4] Interact Pressed succesfully
+[2017.10.25-11.15.25:240][868]LogBlueprintUserMessages: [InteractableObject_Default_282] Interact Pressed succesfully
+[2017.10.25-11.16.00:347][800]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-11.16.00:369][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-11.16.00:370][800]PIE: New page: PIE session: Test (25 Oct 2017 15:16:00)
+[2017.10.25-11.16.00:371][800]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-11.16.00:377][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006033s)
+[2017.10.25-11.16.00:378][800]LogAIModule: Creating AISystem for world Test
+[2017.10.25-11.16.00:378][800]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2017.10.25-11.16.00:378][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.007740s)
+[2017.10.25-11.16.00:404][800]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-11.16.00:411][800]LogInit: FAudioDevice initialized.
+[2017.10.25-11.16.00:446][800]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-11.16.00:448][800]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-13.16.00
+[2017.10.25-11.16.00:449][800]LogWorld: Bringing up level for play took: 0.002408
+[2017.10.25-11.16.00:451][800]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.557
+[2017.10.25-11.16.07:492][624]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-11.16.13:040][282]LogBlueprintUserMessages: [InteractableObject_Default5] Interact Pressed succesfully
+[2017.10.25-11.16.19:581][ 59]LogBlueprintUserMessages: [InteractableObject_Default4] Interact Pressed succesfully
+[2017.10.25-11.16.21:188][247]LogBlueprintUserMessages: [InteractableObject_Default_282] Interact Pressed succesfully
+[2017.10.25-11.16.23:388][500]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-11.16.25:762][776]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-11.25.00:987][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.25-11.25.01:095][386]LogSavePackage: Save=87.83ms
+[2017.10.25-11.25.01:095][386]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_Auto9C2387F324929C79BEAC802A88C9E0692.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto9.umap'
+[2017.10.25-11.25.01:097][386]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto9.umap
+[2017.10.25-11.25.01:103][386]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.162
+[2017.10.25-11.25.01:103][386]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.162
+[2017.10.25-11.25.01:105][386]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Test_BuiltData] ([1] browsable assets)...
+[2017.10.25-11.25.01:105][386]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Test_BuiltData]
+[2017.10.25-11.25.01:141][386]LogSavePackage: Save=22.57ms
+[2017.10.25-11.25.01:141][386]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_BuiltData_Auto9C1D678DA4B3B938A3CD8F389B4B36CFC.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_BuiltData_Auto9.uasset'
+[2017.10.25-11.25.01:143][386]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_BuiltData_Auto9.uasset
+[2017.10.25-11.25.01:143][386]LogFileHelpers: Auto-saving content packages took 0.038
+[2017.10.25-11.26.37:652][293]LogEditorViewport: Clicking on Actor (LMB): InteractableObject_Default_C (InteractableObject_Default6)
+[2017.10.25-11.27.11:417][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-11.27.11:500][203]LogSavePackage: Save=62.96ms
+[2017.10.25-11.27.11:500][203]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController0136599D4E99F3CD0FA0E082F79ED082.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-11.27.11:504][203]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-11.27.46:307][235]BlueprintLog: New page: Compile HUDWidget
+[2017.10.25-11.27.47:170][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUDWidget" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset" SILENT=true
+[2017.10.25-11.27.47:233][285]LogSavePackage: Save=45.81ms
+[2017.10.25-11.27.47:233][285]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/HUDWidget1345165542F6ECC9470AFBA3178AD510.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset'
+[2017.10.25-11.27.47:237][285]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset
+[2017.10.25-11.27.48:351][395]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-11.27.48:374][395]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-11.27.48:374][395]PIE: New page: PIE session: Test (25 Oct 2017 15:27:48)
+[2017.10.25-11.27.48:376][395]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-11.27.48:382][395]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005500s)
+[2017.10.25-11.27.48:383][395]LogAIModule: Creating AISystem for world Test
+[2017.10.25-11.27.48:383][395]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2017.10.25-11.27.48:383][395]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.007050s)
+[2017.10.25-11.27.48:410][395]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-11.27.48:417][395]LogInit: FAudioDevice initialized.
+[2017.10.25-11.27.48:451][395]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-11.27.48:454][395]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-13.27.48
+[2017.10.25-11.27.48:454][395]LogWorld: Bringing up level for play took: 0.002496
+[2017.10.25-11.27.48:457][395]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.551
+[2017.10.25-11.27.53:296][950]LogBlueprintUserMessages: [InteractableObject_Default3] Interact Pressed succesfully
+[2017.10.25-11.27.55:275][177]LogBlueprintUserMessages: [InteractableObject_Default6] Interact Pressed succesfully
+[2017.10.25-11.27.57:803][466]LogBlueprintUserMessages: [InteractableObject_Default5] Interact Pressed succesfully
+[2017.10.25-11.28.00:313][741]LogBlueprintUserMessages: [InteractableObject_Default4] Interact Pressed succesfully
+[2017.10.25-11.28.02:507][985]LogBlueprintUserMessages: [InteractableObject_Default_282] Interact Pressed succesfully
+[2017.10.25-11.28.04:100][159]LogBlueprintUserMessages: [InteractableObject_Default2] Interact Pressed succesfully
+[2017.10.25-11.28.27:622][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.25-11.28.27:758][779]LogSavePackage: Save=96.73ms
+[2017.10.25-11.28.27:758][779]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test3BE5A01B446B57D8B0AABDB2B877CF37.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap'
+[2017.10.25-11.28.27:766][779]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap
+[2017.10.25-11.28.27:788][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test_BuiltData" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset" SILENT=true
+[2017.10.25-11.28.28:031][779]LogSavePackage: Save=231.18ms
+[2017.10.25-11.28.28:031][779]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_BuiltData00EBDB054291676060315F848B51B49E.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset'
+[2017.10.25-11.28.28:035][779]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test_BuiltData.uasset
+[2017.10.25-11.28.29:106][863]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor8)
+[2017.10.25-11.28.30:435][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.25-11.28.33:646][237]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2017.10.25-11.28.33:719][237]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2017.10.25-11.28.33:759][237]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2017.10.25-11.28.33:842][237]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2017.10.25-11.28.33:913][237]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2017.10.25-11.28.34:066][237]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.10.25-11.28.34:114][237]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.10.25-11.28.34:178][237]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.10.25-11.28.34:246][237]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.10.25-11.28.34:319][237]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2017.10.25-11.28.34:394][237]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.10.25-11.28.34:463][237]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2017.10.25-11.28.34:497][237]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2017.10.25-11.28.34:515][237]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2017.10.25-11.28.36:482][345]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2017.10.25-11.28.36:487][345]LogTexture: Display: Building textures: Texture2D_3 (G8, 128X128)
+[2017.10.25-11.29.42:781][590]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 128X128)
+[2017.10.25-11.29.42:797][590]LogMaterial: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2017.10.25-11.30.37:446][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:448][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:449][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:450][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:451][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:452][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:453][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:454][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:455][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:456][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:457][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:459][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:460][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:461][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:463][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:464][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:465][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:465][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:466][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:468][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:469][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:470][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:471][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:472][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:473][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:475][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:476][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:477][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:478][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:479][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:480][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:481][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:483][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:484][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:485][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:486][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.25-11.30.37:571][466]LogEditorActor: Deleted 36 Actors (0.127 secs)
+[2017.10.25-11.30.38:547][531]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.10.25-11.32.20:076][978]LogEditorActor: Deleted Actor: InteractableObject_Default_C
+[2017.10.25-11.32.20:078][978]LogEditorActor: Deleted Actor: InteractableObject_Default_C
+[2017.10.25-11.32.20:079][978]LogEditorActor: Deleted Actor: InteractableObject_Default_C
+[2017.10.25-11.32.20:080][978]LogEditorActor: Deleted Actor: InteractableObject_Default_C
+[2017.10.25-11.32.20:081][978]LogEditorActor: Deleted Actor: InteractableObject_Default_C
+[2017.10.25-11.32.20:082][978]LogEditorActor: Deleted Actor: InteractableObject_Default_C
+[2017.10.25-11.32.20:128][978]LogEditorActor: Deleted 6 Actors (0.053 secs)
+[2017.10.25-11.32.27:360][577]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.25-11.32.28:249][647]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-11.32.28:278][647]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-11.32.28:278][647]PIE: New page: PIE session: Test (25 Oct 2017 15:32:28)
+[2017.10.25-11.32.28:279][647]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-11.32.28:292][647]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012448s)
+[2017.10.25-11.32.28:293][647]LogAIModule: Creating AISystem for world Test
+[2017.10.25-11.32.28:294][647]LogPlayLevel: PIE: World Init took: (0.001696s)
+[2017.10.25-11.32.28:294][647]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.014606s)
+[2017.10.25-11.32.28:328][647]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-11.32.28:336][647]LogInit: FAudioDevice initialized.
+[2017.10.25-11.32.28:372][647]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-11.32.28:376][647]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-13.32.28
+[2017.10.25-11.32.28:376][647]LogWorld: Bringing up level for play took: 0.004155
+[2017.10.25-11.32.28:379][647]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.628
+[2017.10.25-11.33.09:826][684]MapCheck: New page: Map Check
+[2017.10.25-11.33.09:842][684]LightingResults: New page: Lighting Build - 25 Oct 2017 15:33:09
+[2017.10.25-11.33.09:863][684]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.10.25-11.33.09:865][684]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.10.25-11.33.09:866][684]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.10.25-11.33.09:867][684]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.10.25-11.33.09:867][684]LogSwarmInterface: [TryOpenConnection] Local Process ID is 1940
+[2017.10.25-11.33.14:423][684]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.10.25-11.33.14:423][684]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.10.25-11.33.14:423][684]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.10.25-11.33.14:423][684]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.10.25-11.33.14:423][684]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.10.25-11.33.14:423][684]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.10.25-11.33.14:534][684]LogEditorBuildUtils: Build time 0:04
+[2017.10.25-11.33.14:545][684]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. Is special engine material.
+[2017.10.25-11.33.14:556][684]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_1, compiling. Is special engine material.
+[2017.10.25-11.33.24:858][115]Job is a success!
+[2017.10.25-11.33.25:326][116]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2017.10.25-11.33.25:326][116]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2017.10.25-11.33.25:414][116]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X128)
+[2017.10.25-11.33.25:466][116]Lightmass on DESKTOP-O65I7RR: 6.38 sec total, 315 ms importing, 97 ms setup, 1.16 sec photons, 4.75 sec processing, 0 ms extra exporting [65/65 mappings]. Threads: 19.0 sec total, 11.4 sec processing.
+[2017.10.25-11.33.25:477][116]LogStaticLightingSystem: Illumination: 15.6 sec (368 ms encoding lightmaps, 83 ms encoding shadowmaps)
+[2017.10.25-11.33.25:478][116]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.10.25-11.33.25:478][116]LogStaticLightingSystem: Shadowmap texture memory: 0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 1 textures
+[2017.10.25-11.33.26:429][116]DumpUnbuiltLightIteractions
+[2017.10.25-11.33.26:429][116]Lights with unbuilt interactions: 0
+[2017.10.25-11.33.26:429][116]
+[2017.10.25-11.33.26:429][116]Primitives with unbuilt interactions: 0
+[2017.10.25-11.33.26:445][117]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.10.25-11.33.26:446][117]MapCheck: New page: Test - 25 Oct 2017 15:33:26
+[2017.10.25-11.33.26:540][117]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 94.543ms to complete.
+[2017.10.25-11.34.05:586][169]BlueprintLog: New page: Compile InteractableObject_Default
+[2017.10.25-11.34.06:541][196]LogSavePackage: Save=65.06ms
+[2017.10.25-11.34.06:541][196]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_Default58595F8E4AF355261B9B3BBDBD2AD499.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset'
+[2017.10.25-11.34.06:546][196]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset
+[2017.10.25-11.34.25:058][421]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-11.34.25:094][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-11.34.25:094][421]PIE: New page: PIE session: Test (25 Oct 2017 15:34:25)
+[2017.10.25-11.34.25:095][421]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-11.34.25:108][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012078s)
+[2017.10.25-11.34.25:109][421]LogAIModule: Creating AISystem for world Test
+[2017.10.25-11.34.25:109][421]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2017.10.25-11.34.25:109][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.013640s)
+[2017.10.25-11.34.25:143][421]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-11.34.25:150][421]LogInit: FAudioDevice initialized.
+[2017.10.25-11.34.25:182][421]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-11.34.25:186][421]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-13.34.25
+[2017.10.25-11.34.25:199][421]LogWorld: Bringing up level for play took: 0.017033
+[2017.10.25-11.34.25:202][421]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.194
+[2017.10.25-11.34.30:023][936]LogBlueprintUserMessages: [InteractableObject_Default3_984] Interact Pressed succesfully
+[2017.10.25-11.34.33:089][267]LogBlueprintUserMessages: [InteractableObject_Default2_805] Interact Pressed succesfully
+[2017.10.25-11.34.39:747][997]LogBlueprintUserMessages: [InteractableObject_Default8_1951] Interact Pressed succesfully
+[2017.10.25-11.34.42:508][303]LogBlueprintUserMessages: [InteractableObject_Default7_1728] Interact Pressed succesfully
+[2017.10.25-11.34.46:224][711]LogBlueprintUserMessages: [InteractableObject_Default6_1557] Interact Pressed succesfully
+[2017.10.25-11.34.51:092][241]LogBlueprintUserMessages: [InteractableObject_Default5_1410] Interact Pressed succesfully
+[2017.10.25-11.34.55:016][634]LogBlueprintUserMessages: [InteractableObject_Default_550] Interact Pressed succesfully
+[2017.10.25-11.34.55:844][725]LogBlueprintUserMessages: [InteractableObject_Default4_1123] Interact Pressed succesfully
+[2017.10.25-11.36.03:775][ 56]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-11.36.03:805][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-11.36.03:805][ 56]PIE: New page: PIE session: Test (25 Oct 2017 15:36:03)
+[2017.10.25-11.36.03:806][ 56]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-11.36.03:824][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017789s)
+[2017.10.25-11.36.03:826][ 56]LogAIModule: Creating AISystem for world Test
+[2017.10.25-11.36.03:827][ 56]LogPlayLevel: PIE: World Init took: (0.002992s)
+[2017.10.25-11.36.03:827][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.021170s)
+[2017.10.25-11.36.03:872][ 56]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-11.36.03:880][ 56]LogInit: FAudioDevice initialized.
+[2017.10.25-11.36.03:919][ 56]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-11.36.03:923][ 56]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.25-13.36.03
+[2017.10.25-11.36.03:923][ 56]LogWorld: Bringing up level for play took: 0.003828
+[2017.10.25-11.36.03:926][ 56]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.918
+[2017.10.25-11.36.06:833][365]LogBlueprintUserMessages: [InteractableObject_Default16_3743] Interact Pressed succesfully
+[2017.10.25-11.36.10:626][781]LogBlueprintUserMessages: [InteractableObject_Default12_2679] Interact Pressed succesfully
+[2017.10.25-11.36.11:499][876]LogBlueprintUserMessages: [InteractableObject_Default5_1410] Interact Pressed succesfully
+[2017.10.25-11.36.13:221][ 62]LogBlueprintUserMessages: [InteractableObject_Default13_2994] Interact Pressed succesfully
+[2017.10.25-11.36.14:496][200]LogBlueprintUserMessages: [InteractableObject_Default6_1557] Interact Pressed succesfully
+[2017.10.25-11.36.15:339][294]LogBlueprintUserMessages: [InteractableObject_Default14_3197] Interact Pressed succesfully
+[2017.10.25-11.36.17:707][550]LogBlueprintUserMessages: [InteractableObject_Default3_984] Interact Pressed succesfully
+[2017.10.25-11.36.19:756][773]LogBlueprintUserMessages: [InteractableObject_Default11_2484] Interact Pressed succesfully
+[2017.10.25-11.36.23:452][170]LogBlueprintUserMessages: [InteractableObject_Default9_2150] Interact Pressed succesfully
+[2017.10.25-11.36.28:623][734]LogBlueprintUserMessages: [InteractableObject_Default_550] Interact Pressed succesfully
+[2017.10.25-11.36.29:142][786]LogBlueprintUserMessages: [InteractableObject_Default4_1123] Interact Pressed succesfully
+[2017.10.25-11.36.32:928][197]LogBlueprintUserMessages: [InteractableObject_Default15_3424] Interact Pressed succesfully
+[2017.10.25-11.36.35:027][429]LogBlueprintUserMessages: [InteractableObject_Default18_4201] Interact Pressed succesfully
+[2017.10.25-11.36.37:907][726]LogBlueprintUserMessages: [InteractableObject_Default8_1951] Interact Pressed succesfully
+[2017.10.25-11.36.39:857][930]LogBlueprintUserMessages: [InteractableObject_Default19_4432] Interact Pressed succesfully
+[2017.10.25-11.36.42:720][242]LogBlueprintUserMessages: [InteractableObject_Default17_3970] Interact Pressed succesfully
+[2017.10.25-11.36.46:404][641]LogBlueprintUserMessages: [InteractableObject_Default7_1728] Interact Pressed succesfully
+[2017.10.25-11.36.47:858][797]LogBlueprintUserMessages: [InteractableObject_Default2_805] Interact Pressed succesfully
+[2017.10.25-11.36.53:079][365]LogBlueprintUserMessages: [InteractableObject_Default10_2281] Interact Pressed succesfully
+[2017.10.25-11.41.45:640][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.25-11.41.45:709][413]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 128X128)
+[2017.10.25-11.41.46:027][413]LogSavePackage: Save=365.22ms
+[2017.10.25-11.41.46:027][413]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_Auto06D0F47DC41F42804B01BB797A355DF78.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto0.umap'
+[2017.10.25-11.41.46:032][413]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto0.umap
+[2017.10.25-11.41.46:036][413]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.439
+[2017.10.25-11.41.46:036][413]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.439
+[2017.10.25-11.41.46:038][413]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Maps/Test_BuiltData] ([1] browsable assets)...
+[2017.10.25-11.41.46:038][413]OBJ SavePackage: Finished generating thumbnails for package [/Game/Maps/Test_BuiltData]
+[2017.10.25-11.41.46:104][413]LogSavePackage: Save=42.95ms
+[2017.10.25-11.41.46:104][413]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_BuiltData_Auto0CF28D1464E1BB6931C96E2BD95401144.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_BuiltData_Auto0.uasset'
+[2017.10.25-11.41.46:107][413]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_BuiltData_Auto0.uasset
+[2017.10.25-11.41.46:107][413]LogFileHelpers: Auto-saving content packages took 0.070
+[2017.10.25-12.36.38:844][544]LogEditorTransaction: Undo Break Pin Link
+[2017.10.25-12.36.51:170][253]LogEditorTransaction: Undo Add Execution Pin
+[2017.10.25-12.38.01:482][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.25-12.38.01:753][459]LogSavePackage: Save=255.11ms
+[2017.10.25-12.38.01:754][459]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_Auto1F4DD71FA488CD1E50A11DA9B189F9948.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto1.umap'
+[2017.10.25-12.38.01:756][459]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto1.umap
+[2017.10.25-12.38.01:759][459]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.313
+[2017.10.25-12.38.01:759][459]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.313
+[2017.10.25-12.38.01:761][459]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/InteractableObject_Default] ([1] browsable assets)...
+[2017.10.25-12.38.01:800][459]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/InteractableObject_Default.InteractableObject_Default]
+[2017.10.25-12.38.01:800][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/InteractableObject_Default]
+[2017.10.25-12.38.01:879][459]LogSavePackage: Save=64.10ms
+[2017.10.25-12.38.01:879][459]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_Default_Auto139B7363F48043E5D8929D7919F54FCFA.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/InteractableObject_Default_Auto1.uasset'
+[2017.10.25-12.38.01:881][459]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/InteractableObject_Default_Auto1.uasset
+[2017.10.25-12.38.01:882][459]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MainPlayerController] ([1] browsable assets)...
+[2017.10.25-12.38.01:882][459]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MainPlayerController]
+[2017.10.25-12.38.01:955][459]LogSavePackage: Save=58.89ms
+[2017.10.25-12.38.01:955][459]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController_Auto13FC1A59A4BC1045DC32BC698E976DC77.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/MainPlayerController_Auto1.uasset'
+[2017.10.25-12.38.01:957][459]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/MainPlayerController_Auto1.uasset
+[2017.10.25-12.38.01:957][459]LogFileHelpers: Auto-saving content packages took 0.197
+[2017.10.25-12.48.57:906][691]BlueprintLog: New page: Compile HUDWidget
+[2017.10.25-12.48.58:946][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUDWidget" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset" SILENT=true
+[2017.10.25-12.48.59:034][730]LogSavePackage: Save=69.82ms
+[2017.10.25-12.48.59:034][730]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/HUDWidgetAAB5C61C4260A59963753DBA4630F405.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset'
+[2017.10.25-12.48.59:038][730]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset
+[2017.10.25-12.51.11:812][486]BlueprintLog: New page: Compile InteractableObject_Default
+[2017.10.25-12.51.14:484][522]LogSavePackage: Save=67.09ms
+[2017.10.25-12.51.14:485][522]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_DefaultA2E7E1A243311C5D7F210296A215EB09.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset'
+[2017.10.25-12.51.14:495][522]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset
+[2017.10.25-12.51.16:459][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainPlayerController" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset" SILENT=true
+[2017.10.25-12.51.16:533][638]LogSavePackage: Save=59.25ms
+[2017.10.25-12.51.16:533][638]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/MainPlayerController71FAAE824624F502FAC059AD3207E1A4.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset'
+[2017.10.25-12.51.16:541][638]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/MainPlayerController.uasset
+[2017.10.25-12.51.17:857][717]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-12.51.17:895][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-12.51.17:895][717]PIE: New page: PIE session: Test (25 Oct 2017 16:51:17)
+[2017.10.25-12.51.17:896][717]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-12.51.17:908][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012553s)
+[2017.10.25-12.51.17:910][717]LogAIModule: Creating AISystem for world Test
+[2017.10.25-12.51.17:911][717]LogPlayLevel: PIE: World Init took: (0.002152s)
+[2017.10.25-12.51.17:911][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.015109s)
+[2017.10.25-12.51.17:934][717]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-12.51.17:942][717]LogInit: FAudioDevice initialized.
+[2017.10.25-12.51.17:973][717]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-12.51.17:977][717]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2017.10.25-14.51.17
+[2017.10.25-12.51.17:978][717]LogWorld: Bringing up level for play took: 0.004253
+[2017.10.25-12.51.17:981][717]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.973
+[2017.10.25-12.51.24:023][ 61]LogBlueprintUserMessages: [InteractableObject_Default12_2679] Interact Pressed succesfully
+[2017.10.25-12.51.26:432][155]LogBlueprintUserMessages: [InteractableObject_Default5_1410] Interact Pressed succesfully
+[2017.10.25-12.52.58:035][587]BlueprintLog: New page: Compile InteractableObject_Default
+[2017.10.25-12.53.01:039][644]LogSavePackage: Save=64.89ms
+[2017.10.25-12.53.01:039][644]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/InteractableObject_DefaultAC3F5FDA442BF903049FB19157F462CA.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset'
+[2017.10.25-12.53.01:043][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/InteractableObject_Default.uasset
+[2017.10.25-12.53.02:373][723]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-12.53.02:404][723]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-12.53.02:404][723]PIE: New page: PIE session: Test (25 Oct 2017 16:53:02)
+[2017.10.25-12.53.02:405][723]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-12.53.02:416][723]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010586s)
+[2017.10.25-12.53.02:417][723]LogAIModule: Creating AISystem for world Test
+[2017.10.25-12.53.02:417][723]LogPlayLevel: PIE: World Init took: (0.001232s)
+[2017.10.25-12.53.02:417][723]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.012155s)
+[2017.10.25-12.53.02:444][723]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-12.53.02:451][723]LogInit: FAudioDevice initialized.
+[2017.10.25-12.53.02:487][723]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-12.53.02:493][723]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2017.10.25-14.53.02
+[2017.10.25-12.53.02:493][723]LogWorld: Bringing up level for play took: 0.005621
+[2017.10.25-12.53.02:496][723]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.512
+[2017.10.25-12.53.28:337][263]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-12.53.28:356][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-12.53.28:356][263]PIE: New page: PIE session: Test (25 Oct 2017 16:53:28)
+[2017.10.25-12.53.28:358][263]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-12.53.28:369][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011204s)
+[2017.10.25-12.53.28:370][263]LogAIModule: Creating AISystem for world Test
+[2017.10.25-12.53.28:370][263]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2017.10.25-12.53.28:370][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.012821s)
+[2017.10.25-12.53.28:397][263]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-12.53.28:403][263]LogInit: FAudioDevice initialized.
+[2017.10.25-12.53.28:439][263]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-12.53.28:443][263]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2017.10.25-14.53.28
+[2017.10.25-12.53.28:444][263]LogWorld: Bringing up level for play took: 0.003812
+[2017.10.25-12.53.28:446][263]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.562
+[2017.10.25-12.53.34:086][599]LogBlueprintUserMessages: [InteractableObject_Default11_2484] Interact Pressed succesfully
+[2017.10.25-12.53.34:686][629]LogBlueprintUserMessages: [InteractableObject_Default11_2484] Interact Pressed succesfully
+[2017.10.25-12.53.35:033][645]LogBlueprintUserMessages: [InteractableObject_Default11_2484] Interact Pressed succesfully
+[2017.10.25-12.53.36:799][716]LogBlueprintUserMessages: [InteractableObject_Default12_2679] Interact Pressed succesfully
+[2017.10.25-12.53.37:076][726]LogBlueprintUserMessages: [InteractableObject_Default12_2679] Interact Pressed succesfully
+[2017.10.25-12.53.38:660][775]Cmd: SELECT NONE
+[2017.10.25-12.53.38:710][778]Cmd: SELECT NONE
+[2017.10.25-12.55.04:131][897]BlueprintLog: New page: Compile HUDWidget
+[2017.10.25-12.55.05:510][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUDWidget" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset" SILENT=true
+[2017.10.25-12.55.05:589][960]LogSavePackage: Save=63.23ms
+[2017.10.25-12.55.05:589][960]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/HUDWidget19A514BF42FBEAC19A7D9F88CB1597C2.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset'
+[2017.10.25-12.55.05:593][960]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset
+[2017.10.25-12.55.07:221][ 58]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-12.55.07:242][ 58]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-12.55.07:242][ 58]PIE: New page: PIE session: Test (25 Oct 2017 16:55:07)
+[2017.10.25-12.55.07:243][ 58]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-12.55.07:254][ 58]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011184s)
+[2017.10.25-12.55.07:255][ 58]LogAIModule: Creating AISystem for world Test
+[2017.10.25-12.55.07:255][ 58]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2017.10.25-12.55.07:256][ 58]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.012896s)
+[2017.10.25-12.55.07:282][ 58]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-12.55.07:288][ 58]LogInit: FAudioDevice initialized.
+[2017.10.25-12.55.07:319][ 58]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-12.55.07:323][ 58]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2017.10.25-14.55.07
+[2017.10.25-12.55.07:324][ 58]LogWorld: Bringing up level for play took: 0.003886
+[2017.10.25-12.55.07:326][ 58]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.318
+[2017.10.25-12.56.32:793][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2017.10.25-12.56.33:037][788]LogSavePackage: Save=228.02ms
+[2017.10.25-12.56.33:037][788]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Test_Auto291363F7A40191578080162B7F4126183.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto2.umap'
+[2017.10.25-12.56.33:039][788]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Maps/Test_Auto2.umap
+[2017.10.25-12.56.33:042][788]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Test' took 0.284
+[2017.10.25-12.56.33:042][788]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.284
+[2017.10.25-12.56.33:044][788]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HUDWidget] ([1] browsable assets)...
+[2017.10.25-12.56.33:044][788]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HUDWidget]
+[2017.10.25-12.56.33:104][788]LogSavePackage: Save=50.93ms
+[2017.10.25-12.56.33:104][788]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/HUDWidget_Auto2DD00128A4D10C171E50C4AB4579D4F14.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/HUDWidget_Auto2.uasset'
+[2017.10.25-12.56.33:105][788]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Autosaves/Game/Blueprints/HUDWidget_Auto2.uasset
+[2017.10.25-12.56.33:106][788]LogFileHelpers: Auto-saving content packages took 0.063
+[2017.10.25-13.05.46:810][ 23]BlueprintLog: New page: Compile HUDWidget
+[2017.10.25-13.05.48:311][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HUDWidget" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset" SILENT=true
+[2017.10.25-13.05.48:428][ 93]LogSavePackage: Save=88.71ms
+[2017.10.25-13.05.48:428][ 93]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/HUDWidget32533F594014A2BC7E4974A66A8AEDFB.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset'
+[2017.10.25-13.05.48:440][ 93]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/HUDWidget.uasset
+[2017.10.25-13.05.49:631][163]LogTemp: Repeating last play command: Selected Viewport
+[2017.10.25-13.05.49:653][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.25-13.05.49:653][163]PIE: New page: PIE session: Test (25 Oct 2017 17:05:49)
+[2017.10.25-13.05.49:654][163]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.25-13.05.49:666][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011883s)
+[2017.10.25-13.05.49:667][163]LogAIModule: Creating AISystem for world Test
+[2017.10.25-13.05.49:667][163]LogPlayLevel: PIE: World Init took: (0.001436s)
+[2017.10.25-13.05.49:668][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.013778s)
+[2017.10.25-13.05.49:693][163]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.25-13.05.49:700][163]LogInit: FAudioDevice initialized.
+[2017.10.25-13.05.49:731][163]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.25-13.05.49:735][163]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 60) at 2017.10.25-15.05.49
+[2017.10.25-13.05.49:735][163]LogWorld: Bringing up level for play took: 0.003883
+[2017.10.25-13.05.49:738][163]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.73
+[2017.10.25-13.05.49:748][163]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.49:763][164]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.49:777][165]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.49:794][166]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.49:811][167]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.49:827][168]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.49:844][169]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.49:861][170]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.49:877][171]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.49:894][172]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.49:911][173]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.49:927][174]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.49:944][175]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.49:961][176]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.49:977][177]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.49:994][178]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:012][179]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:027][180]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:044][181]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:061][182]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:077][183]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:095][184]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:111][185]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:127][186]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:144][187]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:161][188]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:178][189]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:195][190]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:211][191]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:228][192]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:245][193]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:261][194]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:278][195]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:295][196]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:312][197]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:329][198]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:346][199]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:361][200]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:378][201]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:395][202]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:412][203]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:427][204]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.50:445][205]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'notifications' of length 0 in '/Game/Blueprints/MainPlayerController.MainPlayerController_C'!
+[2017.10.25-13.05.59:544][739]LogUObjectBase: Warning: Object is not registered
+[2017.10.25-13.06.00:323][739]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.768 s
+[2017.10.25-13.06.00:324][739]LogOutputDevice: Error: === Handled ensure: ===
+[2017.10.25-13.06.00:324][739]LogOutputDevice: Error: 
+[2017.10.25-13.06.00:324][739]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1037]
+[2017.10.25-13.06.00:324][739]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2017.10.25-13.06.00:324][739]LogOutputDevice: Error: Stack: 
+[2017.10.25-13.06.00:324][739]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000099EB3E36
+[2017.10.25-13.06.00:324][739]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000099C3C2D2
+[2017.10.25-13.06.00:324][739]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000099C54746
+[2017.10.25-13.06.00:324][739]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000009820D3E6
+[2017.10.25-13.06.00:324][739]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x000000009329FB2B
+[2017.10.25-13.06.00:324][739]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x000000009284259A
+[2017.10.25-13.06.00:324][739]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x00000000926D737C
+[2017.10.25-13.06.00:324][739]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x00000000926DA8E9
+[2017.10.25-13.06.00:324][739]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x0000000092806C25
+[2017.10.25-13.06.00:324][739]LogOutputDevice: Error: UE4Editor-Slate.dll!0x0000000099564A47
+[2017.10.25-13.06.00:324][739]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000009956AC21
+[2017.10.25-13.06.00:324][739]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000997A03A3
+[2017.10.25-13.06.00:325][739]LogOutputDevice: Error: UE4Editor-Slate.dll!0x00000000995C1E65
+[2017.10.25-13.06.00:325][739]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000009959A28C
+[2017.10.25-13.06.00:325][739]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000009958B444
+[2017.10.25-13.06.00:325][739]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000099E8B5AC
+[2017.10.25-13.06.00:325][739]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000099E73EE1
+[2017.10.25-13.06.00:325][739]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000099E8D5BB
+[2017.10.25-13.06.00:325][739]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000099E6F042
+[2017.10.25-13.06.00:325][739]LogOutputDevice: Error: USER32.dll!0x00000000D132B85D
+[2017.10.25-13.06.00:325][739]LogOutputDevice: Error: USER32.dll!0x00000000D132B1EF
+[2017.10.25-13.06.00:325][739]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000099E8DCC6
+[2017.10.25-13.06.00:325][739]LogOutputDevice: Error: UE4Editor.exe!0x00000000B00F4BE2
+[2017.10.25-13.06.00:325][739]LogOutputDevice: Error: UE4Editor.exe!0x00000000B0103970
+[2017.10.25-13.06.00:325][739]LogOutputDevice: Error: UE4Editor.exe!0x00000000B01039EA
+[2017.10.25-13.06.00:325][739]LogOutputDevice: Error: UE4Editor.exe!0x00000000B01102D9
+[2017.10.25-13.06.00:325][739]LogOutputDevice: Error: UE4Editor.exe!0x00000000B0111C47
+[2017.10.25-13.06.00:325][739]LogOutputDevice: Error: KERNEL32.DLL!0x00000000D10C1FE4
+[2017.10.25-13.06.00:325][739]LogOutputDevice: Error: ntdll.dll!0x00000000D371EF91
+[2017.10.25-13.06.00:325][739]LogOutputDevice: Error: 
+[2017.10.25-13.06.00:327][739]LogStats:                SubmitErrorReport -  0.000 s

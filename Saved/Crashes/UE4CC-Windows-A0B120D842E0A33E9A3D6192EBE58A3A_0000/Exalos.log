@@ -1,0 +1,449 @@
+﻿Log file open, 10/27/17 13:03:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Exalos
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1962808221) SRandInit(-1962808220).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.124298
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.27-11.03.44:558][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.27-11.03.44:558][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.27-11.03.44:623][  0]LogInit: Computer: DESKTOP-O65I7RR
+[2017.10.27-11.03.44:623][  0]LogInit: User: roysc
+[2017.10.27-11.03.44:623][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.10.27-11.03.44:623][  0]LogInit: High frequency timer resolution =2.533196 MHz
+[2017.10.27-11.03.44:624][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.10.27-11.03.44:624][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.27-11.03.44:624][  0]LogMemory: Process Physical Memory: 277.77 MB used, 277.77 MB peak
+[2017.10.27-11.03.44:624][  0]LogMemory: Process Virtual Memory: 275.77 MB used, 275.77 MB peak
+[2017.10.27-11.03.44:624][  0]LogMemory: Physical Memory: 3008.42 MB used,  5063.85 MB free, 8072.27 MB total
+[2017.10.27-11.03.44:624][  0]LogMemory: Virtual Memory: 700.05 MB used,  5063.85 MB free, 134217728.00 MB total
+[2017.10.27-11.03.45:448][  0]LogInit: Using OS detected language (en-US).
+[2017.10.27-11.03.45:448][  0]LogInit: Using OS detected locale (en-GB).
+[2017.10.27-11.03.45:568][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.27-11.03.52:433][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.27-11.03.52:505][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 850M' (Feature Level 11_0)
+[2017.10.27-11.03.52:505][  0]LogD3D11RHI:       4065/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.27-11.03.52:513][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics Family' (Feature Level 11_0)
+[2017.10.27-11.03.52:513][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.10.27-11.03.52:516][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.27-11.03.52:516][  0]LogD3D11RHI:       0/0/4036 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.27-11.03.52:516][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.27-11.03.52:523][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.27-11.03.52:524][  0]LogD3D11RHI:     GPU DeviceId: 0x1391 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.27-11.03.52:524][  0]LogWindows: EnumDisplayDevices:
+[2017.10.27-11.03.52:524][  0]LogWindows:    0. 'Intel(R) HD Graphics Family' (P:1 D:1)
+[2017.10.27-11.03.52:524][  0]LogWindows:    1. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2017.10.27-11.03.52:524][  0]LogWindows:    2. 'Intel(R) HD Graphics Family' (P:0 D:0)
+[2017.10.27-11.03.52:524][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.10.27-11.03.52:524][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 850M
+[2017.10.27-11.03.52:524][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.10.27-11.03.52:524][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.10.27-11.03.52:524][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.27-11.03.52:552][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.27-11.03.52:573][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.10.27-11.03.52:573][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Intermediate/Shaders/WorkingDirectory/5740/).
+[2017.10.27-11.03.52:574][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/roysc/AppData/Local/Temp/UnrealShaderWorkingDir/CCB72205410C075C6E5C0FB14A5DB3BA/'.
+[2017.10.27-11.03.52:574][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.27-11.03.56:246][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.27-11.03.56:374][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.27-11.03.56:456][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.27-11.03.56:558][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.27-11.03.56:664][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.27-11.03.56:753][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.27-11.03.56:840][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.27-11.03.56:926][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.27-11.03.57:002][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.27-11.03.57:094][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.27-11.03.57:179][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.27-11.03.57:279][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.27-11.03.57:363][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.27-11.03.57:479][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.27-11.03.57:563][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.27-11.03.57:750][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.27-11.03.57:750][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.27-11.03.57:808][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.27-11.03.57:976][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.27-11.03.58:043][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.27-11.03.58:133][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.27-11.03.58:229][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.27-11.03.58:309][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.27-11.03.58:407][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.27-11.03.58:407][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.27-11.03.59:414][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.27-11.04.00:911][  0]LogDerivedDataCache: Loaded boot cache 1.50s 93MB C:/Users/roysc/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.27-11.04.00:911][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/roysc/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.27-11.04.00:912][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.27-11.04.00:912][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.27-11.04.00:912][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.27-11.04.00:912][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.27-11.04.00:942][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.27-11.04.00:955][  0]LogDerivedDataCache: Using Local data cache path C:/Users/roysc/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.27-11.04.00:967][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.27-11.04.00:968][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.27-11.04.00:993][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.27-11.04.00:994][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.27-11.04.03:182][  0]LogAssetRegistry: FAssetRegistry took 0.0270 seconds to start up
+[2017.10.27-11.04.03:413][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.27-11.04.04:145][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.27-11.04.04:783][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.27-11.04.04:860][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.27-11.04.04:860][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.27-11.04.04:860][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.27-11.04.04:860][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.27-11.04.04:860][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.27-11.04.05:888][  0]LogNetVersion: Exalos , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 803988355)
+[2017.10.27-11.04.06:573][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.111338 seconds
+[2017.10.27-11.04.06:586][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.27-11.04.06:586][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.10.27-11.04.06:586][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.27-11.04.06:690][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.27-11.04.16:709][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.27-11.04.16:766][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.27-11.04.17:894][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.27-11.04.18:511][  0]SourceControl: Source control is disabled
+[2017.10.27-11.04.18:511][  0]SourceControl: Source control is disabled
+[2017.10.27-11.04.18:579][  0]SourceControl: Source control is disabled
+[2017.10.27-11.04.18:645][  0]SourceControl: Source control is disabled
+[2017.10.27-11.04.19:561][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.27-11.04.19:915][  0]LogOcInput: OculusInput pre-init called
+[2017.10.27-11.04.20:227][  0]LogEngine: Initializing Engine...
+[2017.10.27-11.04.20:229][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.27-11.04.20:637][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.27-11.04.20:637][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.27-11.04.20:779][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.27-11.04.20:785][  0]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-11.04.20:806][  0]LogInit: FAudioDevice initialized.
+[2017.10.27-11.04.20:982][  0]LogDerivedDataCache: Saved boot cache 0.18s 93MB C:/Users/roysc/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.27-11.04.21:017][  0]LogInit: Texture streaming: Enabled
+[2017.10.27-11.04.21:258][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.27-11.04.21:517][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.27-11.04.21:517][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.27-11.04.21:544][  0]LogInit: Transaction tracking system initialized
+[2017.10.27-11.04.21:946][  0]BlueprintLog: New page: Editor Load
+[2017.10.27-11.04.23:337][  0]LocalizationService: Localization service is disabled
+[2017.10.27-11.04.24:331][  0]LogConsoleResponse: Display: 
+[2017.10.27-11.04.24:807][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.27-11.04.24:807][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.27-11.04.24:807][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.27-11.04.25:178][  0]LogFileCache: Scanning file cache for directory 'C:/Users/roysc/Documents/Unreal Projects/Exalos/Content/' took 0.02s
+[2017.10.27-11.04.26:198][  0]SourceControl: Source control is disabled
+[2017.10.27-11.04.26:199][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.27-11.04.26:204][  0]LightingResults: New page: Lighting Build
+[2017.10.27-11.04.26:254][  0]MapCheck: New page: Map Check
+[2017.10.27-11.04.26:254][  0]LightingResults: New page: Lighting Build
+[2017.10.27-11.04.26:567][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.10.27-11.04.26:579][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.27-11.04.26:597][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.27-11.04.26:653][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.666ms to complete.
+[2017.10.27-11.04.26:653][  0]LogFileHelpers: Loading map 'Template_Default' took 0.454
+[2017.10.27-11.04.26:899][  0]LogCollectionManager: Loaded 0 collections in 0.002074 seconds
+[2017.10.27-11.04.26:983][  0]LogFileCache: Scanning file cache for directory 'C:/Users/roysc/Documents/Unreal Projects/Exalos/Saved/Collections/' took 0.01s
+[2017.10.27-11.04.26:983][  0]LogFileCache: Scanning file cache for directory 'C:/Users/roysc/Documents/Unreal Projects/Exalos/Content/Developers/roysc/Collections/' took 0.01s
+[2017.10.27-11.04.26:983][  0]LogFileCache: Scanning file cache for directory 'C:/Users/roysc/Documents/Unreal Projects/Exalos/Content/Collections/' took 0.01s
+[2017.10.27-11.04.26:983][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.10.27-11.04.26:992][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2386 classes and 500 folders.
+[2017.10.27-11.04.27:065][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.10.27-11.04.27:758][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.10.27-11.04.27:820][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.10.27-11.04.27:879][  0]LogSlate: Took 0.032403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.27-11.04.27:904][  0]LogSlate: Took 0.022660 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.27-11.04.27:940][  0]LogSlate: Took 0.030641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.27-11.04.28:297][  0]LogRenderer: Reallocating scene render targets to support 884x468 Format 10 NumSamples 1 (Frame:1).
+[2017.10.27-11.04.28:470][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.10.27-11.04.28:471][  0]LogLoad: (Engine Initialization) Total time: 48.46 seconds
+[2017.10.27-11.04.28:471][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.27-11.04.28:471][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.10.27-11.04.28:498][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.27-11.04.28:564][  1]LogAssetRegistry: Asset discovery search completed in 25.4038 seconds
+[2017.10.27-11.04.28:566][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.10.27-11.04.28:566][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000045 seconds (updated 0 objects)
+[2017.10.27-11.04.29:521][ 85]LogSlate: Took 0.008063 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.27-11.04.32:571][420]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.27-11.05.04:222][ 66]LogSlate: Took 0.000207 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.27-11.05.05:045][ 66]LogAIModule: Creating AISystem for world Test
+[2017.10.27-11.05.05:055][ 66]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.27-11.05.05:086][ 66]Cmd: MAP LOAD FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.27-11.05.05:086][ 66]LightingResults: New page: Lighting Build
+[2017.10.27-11.05.05:087][ 66]LoadErrors: New page: Loading map: Test.umap
+[2017.10.27-11.05.05:087][ 66]MapCheck: New page: Map Check
+[2017.10.27-11.05.05:087][ 66]LightingResults: New page: Lighting Build
+[2017.10.27-11.05.05:518][ 66]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.27-11.05.05:572][ 66]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.27-11.05.05:631][ 66]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.78ms to complete.
+[2017.10.27-11.05.05:631][ 66]LogFileHelpers: Loading map 'Test' took 0.546
+[2017.10.27-11.05.31:996][703]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.27-11.05.31:997][703]PIE: New page: PIE session: Test (27 Oct 2017 15:05:31)
+[2017.10.27-11.05.31:998][703]LogLinker: Warning: Can't find file '/Game/Blueprints/MainGameInstance'
+[2017.10.27-11.05.31:998][703]LogLinker: Warning: Can't find file '/Game/Blueprints/MainGameInstance'
+[2017.10.27-11.05.31:999][703]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/MainGameInstance.MainGameInstance_C'
+[2017.10.27-11.05.31:999][703]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-11.05.32:022][703]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023143s)
+[2017.10.27-11.05.32:024][703]LogAIModule: Creating AISystem for world Test
+[2017.10.27-11.05.32:025][703]LogPlayLevel: PIE: World Init took: (0.002462s)
+[2017.10.27-11.05.32:026][703]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.026575s)
+[2017.10.27-11.05.32:046][703]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-11.05.32:052][703]LogInit: FAudioDevice initialized.
+[2017.10.27-11.05.32:147][703]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-11.05.32:153][703]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.27-13.05.32
+[2017.10.27-11.05.32:154][703]LogWorld: Bringing up level for play took: 0.005581
+[2017.10.27-11.05.32:203][703]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.10.27-11.05.32:211][703]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.452
+[2017.10.27-11.05.32:251][703]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 1 (Frame:1).
+[2017.10.27-11.05.37:098][992]LogBlueprintUserMessages: [Item_SunFruit2_62] Item was not yet in inventory. Succesfully added to inventory!
+[2017.10.27-11.05.41:578][245]LogBlueprintUserMessages: [Item_SunFruit_234] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.05.45:765][479]LogBlueprintUserMessages: [Item_SunFruit3_173] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.05.49:958][707]LogBlueprintUserMessages: [Item_SunFruit5_359] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.05.53:793][885]LogBlueprintUserMessages: [Item_SunFruit4_256] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.06.32:579][506]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 113 classes and 0 folders.
+[2017.10.27-11.06.33:338][506]LogSlate: Took 0.006344 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.27-11.07.12:908][462]LogSlate: Took 0.070768 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.10.27-11.07.37:511][596]LogSlate: Took 0.005533 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.27-11.08.09:033][825]BlueprintLog: New page: Compile Widget_Inventory
+[2017.10.27-11.08.09:753][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Widget_Inventory" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset" SILENT=true
+[2017.10.27-11.08.09:844][866]LogSavePackage: Save=41.06ms
+[2017.10.27-11.08.09:844][866]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Widget_Inventory1F2D18C144F7D1201ED138ADFD2E4444.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset'
+[2017.10.27-11.08.09:847][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset
+[2017.10.27-11.08.20:021][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Widget_Inventory" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset" SILENT=true
+[2017.10.27-11.08.20:082][491]LogSavePackage: Save=42.44ms
+[2017.10.27-11.08.20:082][491]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Widget_InventoryCF4EC2BF49DC27A7C326AEB0119D0E6A.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset'
+[2017.10.27-11.08.20:084][491]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset
+[2017.10.27-11.08.23:255][813]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-11.08.23:291][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.27-11.08.23:291][813]PIE: New page: PIE session: Test (27 Oct 2017 15:08:23)
+[2017.10.27-11.08.23:292][813]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-11.08.23:302][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010293s)
+[2017.10.27-11.08.23:303][813]LogAIModule: Creating AISystem for world Test
+[2017.10.27-11.08.23:303][813]LogPlayLevel: PIE: World Init took: (0.001435s)
+[2017.10.27-11.08.23:304][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.012105s)
+[2017.10.27-11.08.23:330][813]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-11.08.23:337][813]LogInit: FAudioDevice initialized.
+[2017.10.27-11.08.23:383][813]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-11.08.23:389][813]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.27-13.08.23
+[2017.10.27-11.08.23:389][813]LogWorld: Bringing up level for play took: 0.005370
+[2017.10.27-11.08.23:398][813]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.361
+[2017.10.27-11.12.04:529][194]BlueprintLog: New page: Compile Widget_ToolBar
+[2017.10.27-11.12.05:010][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Widget_ToolBar" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_ToolBar.uasset" SILENT=true
+[2017.10.27-11.12.05:140][237]LogSavePackage: Save=100.66ms
+[2017.10.27-11.12.05:140][237]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Widget_ToolBar62AB125A456CEAC159C398B8A9147D5D.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_ToolBar.uasset'
+[2017.10.27-11.12.05:144][237]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_ToolBar.uasset
+[2017.10.27-11.12.06:797][405]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-11.12.06:824][405]BlueprintLog: New page: Pre-Play auto-recompile
+[2017.10.27-11.12.06:841][405]LogPlayLevel: [PlayLevel] Compiling Widget_Inventory before play...
+[2017.10.27-11.12.06:848][405]LogPlayLevel: [PlayLevel]   Compiling Widget_ToolBar as a dependent...
+[2017.10.27-11.12.06:988][405]LogPlayLevel: PlayLevel: Blueprint regeneration took 163 ms (2 blueprints)
+[2017.10.27-11.12.06:988][405]PIE: New page: PIE session: Test (27 Oct 2017 15:12:06)
+[2017.10.27-11.12.06:989][405]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-11.12.06:999][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009199s)
+[2017.10.27-11.12.07:000][405]LogAIModule: Creating AISystem for world Test
+[2017.10.27-11.12.07:000][405]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2017.10.27-11.12.07:000][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.010645s)
+[2017.10.27-11.12.07:026][405]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-11.12.07:033][405]LogInit: FAudioDevice initialized.
+[2017.10.27-11.12.07:080][405]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-11.12.07:086][405]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.27-13.12.07
+[2017.10.27-11.12.07:087][405]LogWorld: Bringing up level for play took: 0.006018
+[2017.10.27-11.12.07:095][405]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test -0.663
+[2017.10.27-11.12.12:456][723]LogBlueprintUserMessages: [Item_SunFruit2_62] Item was not yet in inventory. Succesfully added to inventory!
+[2017.10.27-11.12.16:420][948]LogBlueprintUserMessages: [Item_SunFruit5_359] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.12.18:967][ 94]LogBlueprintUserMessages: [Item_SunFruit4_256] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.12.22:833][316]LogBlueprintUserMessages: [Item_SunFruit_234] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.12.34:437][976]LogBlueprintUserMessages: [Item_SunFruit3_173] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.14.43:293][999]BlueprintLog: New page: Compile Widget_Inventory_Slot
+[2017.10.27-11.14.44:014][ 49]LogSavePackage: Save=36.36ms
+[2017.10.27-11.14.44:014][ 49]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Widget_Inventory_Slot592EBE814B440730879A76B7DB1691A2.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory_Slot.uasset'
+[2017.10.27-11.14.44:019][ 49]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory_Slot.uasset
+[2017.10.27-11.14.45:440][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Widget_Inventory" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset" SILENT=true
+[2017.10.27-11.14.45:511][208]LogSavePackage: Save=46.49ms
+[2017.10.27-11.14.45:511][208]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Widget_InventoryD04BB2FD416CDABB2B93298E0FABC0E2.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset'
+[2017.10.27-11.14.45:516][208]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset
+[2017.10.27-11.14.48:019][480]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-11.14.48:062][480]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.27-11.14.48:062][480]PIE: New page: PIE session: Test (27 Oct 2017 15:14:48)
+[2017.10.27-11.14.48:063][480]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-11.14.48:073][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009806s)
+[2017.10.27-11.14.48:074][480]LogAIModule: Creating AISystem for world Test
+[2017.10.27-11.14.48:075][480]LogPlayLevel: PIE: World Init took: (0.001133s)
+[2017.10.27-11.14.48:075][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.011343s)
+[2017.10.27-11.14.48:099][480]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-11.14.48:106][480]LogInit: FAudioDevice initialized.
+[2017.10.27-11.14.48:152][480]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-11.14.48:157][480]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.27-13.14.48
+[2017.10.27-11.14.48:157][480]LogWorld: Bringing up level for play took: 0.004645
+[2017.10.27-11.14.48:167][480]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.408
+[2017.10.27-11.14.53:647][818]LogBlueprintUserMessages: [Item_SunFruit2_62] Item was not yet in inventory. Succesfully added to inventory!
+[2017.10.27-11.14.54:664][875]LogBlueprintUserMessages: [Item_SunFruit_234] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.14.57:653][ 43]LogBlueprintUserMessages: [Item_SunFruit5_359] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.14.59:217][132]LogBlueprintUserMessages: [Item_SunFruit4_256] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.15.02:795][334]LogBlueprintUserMessages: [Item_SunFruit3_173] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.17.21:242][677]BlueprintLog: New page: Compile Widget_Inventory
+[2017.10.27-11.17.21:836][731]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Widget_Inventory" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset" SILENT=true
+[2017.10.27-11.17.21:901][731]LogSavePackage: Save=43.71ms
+[2017.10.27-11.17.21:901][731]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Widget_Inventory4678306D4570E5C5C6304E87F0152661.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset'
+[2017.10.27-11.17.21:905][731]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_Inventory.uasset
+[2017.10.27-11.17.32:501][946]BlueprintLog: New page: Compile Widget_ToolBar
+[2017.10.27-11.17.33:257][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/UI/Widget_ToolBar" FILE="../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_ToolBar.uasset" SILENT=true
+[2017.10.27-11.17.33:385][992]LogSavePackage: Save=98.30ms
+[2017.10.27-11.17.33:385][992]LogSavePackage: Moving '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Saved/Widget_ToolBarF6E84D6A444DC021579556ACFF15FB7F.tmp' to '../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_ToolBar.uasset'
+[2017.10.27-11.17.33:389][992]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/roysc/Documents/Unreal Projects/Exalos/Content/Blueprints/UI/Widget_ToolBar.uasset
+[2017.10.27-11.17.34:507][106]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.27-11.17.34:536][106]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.27-11.17.34:536][106]PIE: New page: PIE session: Test (27 Oct 2017 15:17:34)
+[2017.10.27-11.17.34:538][106]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Test
+[2017.10.27-11.17.34:551][106]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012802s)
+[2017.10.27-11.17.34:552][106]LogAIModule: Creating AISystem for world Test
+[2017.10.27-11.17.34:552][106]LogPlayLevel: PIE: World Init took: (0.001508s)
+[2017.10.27-11.17.34:552][106]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Test.Test to /Game/Maps/UEDPIE_0_Test.Test (0.014690s)
+[2017.10.27-11.17.34:585][106]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2017.10.27-11.17.34:591][106]LogInit: FAudioDevice initialized.
+[2017.10.27-11.17.34:634][106]LogLoad: Game class is 'MainGameModeBase_C'
+[2017.10.27-11.17.34:645][106]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2017.10.27-13.17.34
+[2017.10.27-11.17.34:646][106]LogWorld: Bringing up level for play took: 0.011713
+[2017.10.27-11.17.34:667][106]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Test 0.909
+[2017.10.27-11.17.38:825][359]LogBlueprintUserMessages: [Item_SunFruit2_62] Item was not yet in inventory. Succesfully added to inventory!
+[2017.10.27-11.17.39:679][407]LogBlueprintUserMessages: [Item_SunFruit_234] Item was already in inventory. Item succesfully added to inventory!
+[2017.10.27-11.18.55:477][ 80]LogUObjectBase: Warning: Object is not registered
+[2017.10.27-11.18.55:916][ 80]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.439 s
+[2017.10.27-11.18.55:916][ 80]LogOutputDevice: Error: === Handled ensure: ===
+[2017.10.27-11.18.55:916][ 80]LogOutputDevice: Error: 
+[2017.10.27-11.18.55:916][ 80]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1037]
+[2017.10.27-11.18.55:916][ 80]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2017.10.27-11.18.55:916][ 80]LogOutputDevice: Error: Stack: 
+[2017.10.27-11.18.55:916][ 80]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000094013E36
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000093D9C2D2
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000093DB4746
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-UnrealEd.dll!0x000000008E8FD3E6
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-BlueprintGraph.dll!0x000000008CACFB2B
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x000000008BD3259A
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x000000008BBC737C
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x000000008BBCA8E9
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-GraphEditor.dll!0x000000008BCF6C25
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000008F934A47
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000008F93AC21
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000008FB703A3
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000008F991E65
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000008F96A28C
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Slate.dll!0x000000008F95B444
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000093FEB5AC
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000093FD3EE1
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000093FED5BB
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000093FCF042
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: USER32.dll!0x00000000D132B85D
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: USER32.dll!0x00000000D132B1EF
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor-Core.dll!0x0000000093FEDCC6
+[2017.10.27-11.18.55:917][ 80]LogOutputDevice: Error: UE4Editor.exe!0x0000000054CF4BE2
+[2017.10.27-11.18.55:918][ 80]LogOutputDevice: Error: UE4Editor.exe!0x0000000054D03970
+[2017.10.27-11.18.55:918][ 80]LogOutputDevice: Error: UE4Editor.exe!0x0000000054D039EA
+[2017.10.27-11.18.55:918][ 80]LogOutputDevice: Error: UE4Editor.exe!0x0000000054D102D9
+[2017.10.27-11.18.55:918][ 80]LogOutputDevice: Error: UE4Editor.exe!0x0000000054D11C47
+[2017.10.27-11.18.55:918][ 80]LogOutputDevice: Error: KERNEL32.DLL!0x00000000D10C1FE4
+[2017.10.27-11.18.55:918][ 80]LogOutputDevice: Error: ntdll.dll!0x00000000D371EF91
+[2017.10.27-11.18.55:918][ 80]LogOutputDevice: Error: 
+[2017.10.27-11.18.55:923][ 80]LogStats:                SubmitErrorReport -  0.000 s
